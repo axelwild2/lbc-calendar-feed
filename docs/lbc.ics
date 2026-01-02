@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//London Buddhist Centre//Auto ICS//EN
+PRODID:-//London Buddhist Centre//ICS//EN
 X-WR-CALNAME:London Buddhist Centre
 X-WR-TIMEZONE:Europe/London
 END:VCALENDAR
