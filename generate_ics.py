@@ -99,6 +99,8 @@ def main():
         cal.add_component(e)
 
     # Write to docs so GitHub Pages can host it
+    import os
+os.makedirs("docs", exist_ok=True)
     with open("docs/lbc.ics", "wb") as f:
         f.write(cal.to_ical())
 
