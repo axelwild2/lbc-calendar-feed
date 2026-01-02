@@ -1,4 +1,5 @@
 import re
+import os
 import hashlib
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -36,8 +37,14 @@ def parse_datetime_range(text: str):
     # If the page doesn't show year, assume current year in London time
     year = datetime.now(TZ).year
 
-    start_dt = datetime.strptime(f"{day} {mon} {year} {start_t}", "%d %b %Y %I:%M %p").replace(tzinfo=TZ)
-    end_dt = datetime.strptime(f"{day} {mon} {year} {end_t}", "%d %b %Y %I:%M %p").replace(tzinfo=TZ)
+    start_dt = datetime.strptime(
+        f"{day} {mon} {year} {start_t}", "%d %b %Y %I:%M %p"
+    ).replace(tzinfo=TZ)
+
+    end_dt = datetime.strptime(
+        f"{day} {mon} {year} {end_t}", "%d %b %Y %I:%M %p"
+    ).replace(tzinfo=TZ)
+
     return start_dt, end_dt
 
 
@@ -58,14 +65,17 @@ def main():
         href = a.get("href")
         if not href:
             continue
+
         url = href if href.startswith("http") else BASE + href
 
         # Try to extract a date/time line from the event card area
-        card_text = a.find_parent().get_text(" | ", strip=True)
+        parent = a.find_parent()
+        card_text = parent.get_text(" | ", strip=True) if parent else ""
         dt_range = parse_datetime_range(card_text)
 
-        # If not found on the card, try the event page
         title = None
+
+        # If not found on the card, try the event page
         if not dt_range:
             event_html = requests.get(url, timeout=30).text
             event_soup = BeautifulSoup(event_html, "html.parser")
@@ -76,8 +86,7 @@ def main():
             h = event_soup.find(["h1", "h2"])
             title = h.get_text(strip=True) if h else None
         else:
-            # Title from the card: usually a bold heading nearby
-            # Fallback: use first line-ish of the card text
+            # Title from the card (fallback)
             title = card_text.split("|")[-1].strip() if card_text else None
 
         if not dt_range:
@@ -99,8 +108,7 @@ def main():
         cal.add_component(e)
 
     # Write to docs so GitHub Pages can host it
-    import os
-os.makedirs("docs", exist_ok=True)
+    os.makedirs("docs", exist_ok=True)
     with open("docs/lbc.ics", "wb") as f:
         f.write(cal.to_ical())
 
