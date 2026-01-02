@@ -1,6 +1,115 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//London Buddhist Centre//ICS//EN
+PRODID:-//London Buddhist Centre//Auto ICS//EN
 X-WR-CALNAME:London Buddhist Centre
 X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:The Festive Season at the LBC
+DTSTART;TZID=Europe/London:20261220T080000
+DTEND;TZID=Europe/London:20261220T213000
+UID:e8e66058b437e27e30d9f89b@lbc-ics
+DESCRIPTION:Find stillness in the midst of the festive season with a perio
+ d of intensive practice at the LBC and online. All events are free\, with 
+ donations welcome.
+URL:https://www.londonbuddhistcentre.com/whats-on/the-festive-season-at-th
+ e-lbc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festive Season Morning Meditation
+DTSTART;TZID=Europe/London:20260102T080000
+DTEND;TZID=Europe/London:20260102T090000
+UID:2e014ca07b0de6079c6bd3ab@lbc-ics
+DESCRIPTION:Between Christmas and the New Year\, you can join others for a
+  series of morning meditation sessions in person at the LBC or online. Eac
+ h session will start with a simple Buddhist ritual\, followed by an unled 
+ meditation\, with bells for the mindfulness of breathing and metta bhavana
+  meditation practices.
+URL:https://www.londonbuddhistcentre.com/whats-on/festive-season-morning-m
+ editation-2026-01-02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260102T120000
+DTEND;TZID=Europe/London:20260102T124500
+UID:b9c31b0f799a9c1d7ed11ef9@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-2-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260102T130000
+DTEND;TZID=Europe/London:20260102T140000
+UID:2475c806436f82e97b8aaf1a@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-2-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Restorative Yoga Class
+DTSTART;TZID=Europe/London:20260102T173000
+DTEND;TZID=Europe/London:20260102T183000
+UID:eefd582a13c71f9c22f22717@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-2-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Class
+DTSTART;TZID=Europe/London:20260102T191500
+DTEND;TZID=Europe/London:20260102T213000
+UID:2857672234307c99d9e670ed@lbc-ics
+DESCRIPTION:End the week in person at the LBC with an inspiring evening of
+  meditation\, tale-telling and ritual. For anyone who is familiar with the
+  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
+ ices.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-2-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 21 Day Meditation Challenge
+DTSTART;TZID=Europe/London:20260103T100000
+DTEND;TZID=Europe/London:20260103T160000
+UID:34c735b8f444e6c60ef3780a@lbc-ics
+DESCRIPTION:Despite our everyday preoccupations and hang-ups\, if we look 
+ deeply\, weâll discover a world of inner richness we can get in touch
+  with â one that leads to an infinitely more expansive\, liberated li
+ fe. Over 21 days\, weâll be intensively exploring the mind in meditat
+ ion\, uncovering a vision of reality\, and co-creating an inspirational co
+ mmunity.
+URL:https://www.londonbuddhistcentre.com/whats-on/the-21-day-meditation-ch
+ allenge-jan-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260103T100000
+DTEND;TZID=Europe/London:20260103T111500
+UID:d998c1eb67b84f3d5b90e35f@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-3-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:21 Day Meditation Challenge - Launch Morning
+DTSTART;TZID=Europe/London:20260103T103000
+DTEND;TZID=Europe/London:20260103T123000
+UID:ea527fa470d9fe2356a89885@lbc-ics
+DESCRIPTION:Join in with the opening ceremony to the 21-Day Meditation Cha
+ llenge\, led by LBC Chair Suryagupta.
+URL:https://www.londonbuddhistcentre.com/whats-on/21-day-meditation-challe
+ nge-launch-morning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260103T113000
+DTEND;TZID=Europe/London:20260103T124500
+UID:a88aa54d43ec901ae1bdd767@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-3-jan
+END:VEVENT
 END:VCALENDAR
