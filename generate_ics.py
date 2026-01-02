@@ -1,8 +1,8 @@
 import re
-import os
 import hashlib
-from datetime import datetime
+from datetime import datetime, time
 from zoneinfo import ZoneInfo
+import os
 
 import requests
 from bs4 import BeautifulSoup
@@ -17,35 +17,45 @@ def uid_for(text: str) -> str:
     return hashlib.md5(text.encode("utf-8")).hexdigest() + "@lbc"
 
 
-def parse_datetime_range(text: str):
+def parse_card_datetime(text: str):
     """
-    Tries to parse patterns like:
-    "Fri 2 Jan | 8:00 am - 9:00 am"
-    Returns (start_dt, end_dt) or None.
+    Handles:
+    1) Fri 2 Jan | 8:00 am - 9:00 am
+    2) Sat 3 Jan - Sat 24 Jan (all-day range)
     """
-    m = re.search(
-        r"([A-Za-z]{3,9})\s+(\d{1,2})\s+([A-Za-z]{3,9})\s*\|\s*"
-        r"(\d{1,2}:\d{2}\s*(?:am|pm))\s*[-–]\s*(\d{1,2}:\d{2}\s*(?:am|pm))",
-        text,
-        re.IGNORECASE,
-    )
-    if not m:
-        return None
-
-    _dow, day, mon, start_t, end_t = m.groups()
-
-    # If the page doesn't show year, assume current year in London time
     year = datetime.now(TZ).year
 
-    start_dt = datetime.strptime(
-        f"{day} {mon} {year} {start_t}", "%d %b %Y %I:%M %p"
-    ).replace(tzinfo=TZ)
+    # Case 1: date + time
+    m = re.search(
+        r"([A-Za-z]{3})\s+(\d{1,2})\s+([A-Za-z]{3})\s*\|\s*"
+        r"(\d{1,2}:\d{2}\s*(?:am|pm))\s*[-–]\s*(\d{1,2}:\d{2}\s*(?:am|pm))",
+        text,
+        re.I,
+    )
+    if m:
+        _, day, mon, start_t, end_t = m.groups()
+        start = datetime.strptime(
+            f"{day} {mon} {year} {start_t}", "%d %b %Y %I:%M %p"
+        ).replace(tzinfo=TZ)
+        end = datetime.strptime(
+            f"{day} {mon} {year} {end_t}", "%d %b %Y %I:%M %p"
+        ).replace(tzinfo=TZ)
+        return start, end, False
 
-    end_dt = datetime.strptime(
-        f"{day} {mon} {year} {end_t}", "%d %b %Y %I:%M %p"
-    ).replace(tzinfo=TZ)
+    # Case 2: multi-day (no times → all-day)
+    m = re.search(
+        r"([A-Za-z]{3})\s+(\d{1,2})\s+([A-Za-z]{3})\s*[-–]\s*"
+        r"([A-Za-z]{3})\s+(\d{1,2})\s+([A-Za-z]{3})",
+        text,
+        re.I,
+    )
+    if m:
+        _, d1, m1, _, d2, m2 = m.groups()
+        start = datetime.strptime(f"{d1} {m1} {year}", "%d %b %Y").replace(tzinfo=TZ)
+        end = datetime.strptime(f"{d2} {m2} {year}", "%d %b %Y").replace(tzinfo=TZ)
+        return start, end, True
 
-    return start_dt, end_dt
+    return None
 
 
 def main():
@@ -53,61 +63,47 @@ def main():
     soup = BeautifulSoup(html, "html.parser")
 
     cal = Calendar()
-    cal.add("prodid", "-//London Buddhist Centre//WhatsOn to ICS//EN")
+    cal.add("prodid", "-//London Buddhist Centre//Auto ICS//EN")
     cal.add("version", "2.0")
-    cal.add("x-wr-calname", "London Buddhist Centre (Auto)")
+    cal.add("x-wr-calname", "London Buddhist Centre")
     cal.add("x-wr-timezone", "Europe/London")
 
-    # Grab all "More info" links (each should point to an event page)
-    more_info_links = soup.find_all("a", string=re.compile(r"More info", re.I))
+    cards = soup.select("a:contains('More info')")
 
-    for a in more_info_links:
+    for a in cards:
         href = a.get("href")
         if not href:
             continue
-
         url = href if href.startswith("http") else BASE + href
 
-        # Try to extract a date/time line from the event card area
-        parent = a.find_parent()
-        card_text = parent.get_text(" | ", strip=True) if parent else ""
-        dt_range = parse_datetime_range(card_text)
+        card = a.find_parent()
+        text = card.get_text(" ", strip=True)
 
-        title = None
-
-        # If not found on the card, try the event page
-        if not dt_range:
-            event_html = requests.get(url, timeout=30).text
-            event_soup = BeautifulSoup(event_html, "html.parser")
-            page_text = event_soup.get_text("\n", strip=True)
-            dt_range = parse_datetime_range(page_text)
-
-            # Title from the event page
-            h = event_soup.find(["h1", "h2"])
-            title = h.get_text(strip=True) if h else None
-        else:
-            # Title from the card (fallback)
-            title = card_text.split("|")[-1].strip() if card_text else None
-
-        if not dt_range:
-            # Skip events we can't parse safely (better than wrong dates)
+        parsed = parse_card_datetime(text)
+        if not parsed:
             continue
 
-        start_dt, end_dt = dt_range
-        if not title:
-            title = "LBC Event"
+        start, end, all_day = parsed
+
+        # Title
+        h = card.find(["h2", "h3", "strong"])
+        title = h.get_text(strip=True) if h else "LBC Event"
 
         e = Event()
         e.add("uid", uid_for(url + title))
         e.add("summary", title)
-        e.add("dtstart", start_dt)
-        e.add("dtend", end_dt)
-        e.add("dtstamp", datetime.now(TZ))
         e.add("url", url)
+        e.add("dtstamp", datetime.now(TZ))
+
+        if all_day:
+            e.add("dtstart", start.date())
+            e.add("dtend", end.date())
+        else:
+            e.add("dtstart", start)
+            e.add("dtend", end)
 
         cal.add_component(e)
 
-    # Write to docs so GitHub Pages can host it
     os.makedirs("docs", exist_ok=True)
     with open("docs/lbc.ics", "wb") as f:
         f.write(cal.to_ical())
