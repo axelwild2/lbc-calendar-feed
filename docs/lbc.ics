@@ -19,58 +19,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-21-day-meditation-ch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20260105T073000
-DTEND;TZID=Europe/London:20260105T083000
-UID:3563b54af50bcb9c90382d63@lbc-ics
-DESCRIPTION:During the Challenge\, kick-start every weekday with an hour o
- f meditation practice with one of our foremost teachers. On Zoom\, click t
- hrough for the link.
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-jan-5-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260105T120000
-DTEND;TZID=Europe/London:20260105T124500
-UID:300fb782ef757cfcbf0243d2@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-5-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260105T130000
-DTEND;TZID=Europe/London:20260105T140000
-UID:585f0f72aad6870a19f335c1@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-5-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260105T173000
-DTEND;TZID=Europe/London:20260105T183000
-UID:8d8de1951e50e7084511c6f5@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-5-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260105T191500
-DTEND;TZID=Europe/London:20260105T214500
-UID:e46a98560e48be734f5cab63@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-5-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
 DTSTART;TZID=Europe/London:20260106T073000
 DTEND;TZID=Europe/London:20260106T083000
 UID:754fc09c57df7b64a0fcfd09@lbc-ics
@@ -109,5 +57,58 @@ DESCRIPTION:Come along after the lunchtime class to work alongside the Car
  etakers in looking after the fabric of the centre. A wonderful way to give
   back\, and contribute practically to the LBC!
 URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-6-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Kung
+DTSTART;TZID=Europe/London:20260106T173000
+DTEND;TZID=Europe/London:20260106T183000
+UID:ad3148db8cc596ab5ad91f6c@lbc-ics
+DESCRIPTION:Chi Kung is an ancient Chinese system of exercises that help u
+ s contact and harness energy in the body\, and can be a great way to prepa
+ re for meditation. Join us for a beginner-friendly session led by Serene. 
+ No experience necessary.
+URL:https://www.londonbuddhistcentre.com/whats-on/chi-kung-6-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260106T191500
+DTEND;TZID=Europe/London:20260106T213000
+UID:2ceebf8bbe0a3103452666d3@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-6-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260107T073000
+DTEND;TZID=Europe/London:20260107T083000
+UID:65ca98e84c00ff6158ff08b2@lbc-ics
+DESCRIPTION:During the Challenge\, kick-start every weekday with an hour o
+ f meditation practice with one of our foremost teachers. On Zoom\, click t
+ hrough for the link.
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-jan-7-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260107T103500
+DTEND;TZID=Europe/London:20260107T123000
+UID:a93fec9488a06f64f16f9ee6@lbc-ics
+DESCRIPTION:Join in for our regular daytime weekly class of Dharma teachin
+ g and meditation. In person at the LBC and live on Zoom. There is also a c
+ rÃ¨che for those aged 6 months to 5 years old.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-7-jan-9
+ 632e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260107T120000
+DTEND;TZID=Europe/London:20260107T124500
+UID:771ee11a28aec2f9fd90b185@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-7-jan
 END:VEVENT
 END:VCALENDAR
