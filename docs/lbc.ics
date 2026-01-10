@@ -29,47 +29,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/kickstart-your-yoga-and-
  meditation-course-jan-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20260109T073000
-DTEND;TZID=Europe/London:20260109T083000
-UID:010c03532ae32aab7aa71330@lbc-ics
-DESCRIPTION:During the Challenge\, kick-start every weekday with an hour o
- f meditation practice with one of our foremost teachers. On Zoom\, click t
- hrough for the link.
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-jan-9-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260109T120000
-DTEND;TZID=Europe/London:20260109T124500
-UID:aac3c70c22007dd4865f679b@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-9-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260109T130000
-DTEND;TZID=Europe/London:20260109T140000
-UID:750133901b732db075d4e468@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-9-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260109T173000
-DTEND;TZID=Europe/London:20260109T183000
-UID:49e4fdba5a214e9b11c0ce77@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-9-jan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buddhism & 12-Step Weekend
 DTSTART;TZID=Europe/London:20260109T190000
 DTEND;TZID=Europe/London:20260109T150000
@@ -79,17 +38,6 @@ DESCRIPTION:While in the beautiful grounds of the Vajrasana Retreat Centre
  t of Buddhism.
 URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-12-step-weekend
  -jan-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260109T191500
-DTEND;TZID=Europe/London:20260109T213000
-UID:f916a2c0b2346abc0581357c@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-9-jan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breakfast at Mandala Cafe - The Meditation Challenge
@@ -110,5 +58,60 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-10-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation Masterclass with Maitreyabandhu
+DTSTART;TZID=Europe/London:20260110T103000
+DTEND;TZID=Europe/London:20260110T123000
+UID:7d83252efaaa11c29659c2e4@lbc-ics
+DESCRIPTION:Maitreyabandhu\, one of our most experienced teachers\, will o
+ pen up more of the vistas available to the committed meditator in his medi
+ tation masterclasses. Drop in and visit us in Bethnal Green to either lear
+ n to meditate from scratch or join the regulars to take your practice deep
+ er.
+URL:https://www.londonbuddhistcentre.com/whats-on/meditation-masterclass-w
+ ith-maitreyabandhu-jan-10-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260110T113000
+DTEND;TZID=Europe/London:20260110T124500
+UID:6625018bf52485efd959e128@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-10-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260110T130000
+DTEND;TZID=Europe/London:20260110T140000
+UID:74c3a2eb235345ae00ff41f4@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-10-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Night:
+DTSTART;TZID=Europe/London:20260110T191500
+DTEND;TZID=Europe/London:20260110T211500
+UID:51f65f9f95e7f6c302909800@lbc-ics
+DESCRIPTION:Nomadland follows a woman who\, after losing everything in the
+  Great Recession\, sets out on a journey as a modern-day nomad. With beaut
+ iful landscapes and real-life nomads\, the film explores spiritual themes 
+ including impermanence\, going forth\, and community.
+URL:https://www.londonbuddhistcentre.com/whats-on/film-night-2025-01-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Sunday Class
+DTSTART;TZID=Europe/London:20260111T100000
+DTEND;TZID=Europe/London:20260111T113000
+UID:4c322f90590ffb42bca117d7@lbc-ics
+DESCRIPTION:Taking place on the second Sunday of every month\, a chance fo
+ r people of colour to come together\, meditate and discuss how the Buddha
+ âs teachings are relevant to our lives. All levels of experience welc
+ ome.
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-sunday-
+ class-2026-01-11
 END:VEVENT
 END:VCALENDAR
