@@ -40,47 +40,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-jan-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20260116T073000
-DTEND;TZID=Europe/London:20260116T083000
-UID:8a0b63ef699d92dc754a39cd@lbc-ics
-DESCRIPTION:During the Challenge\, kick-start every weekday with an hour o
- f meditation practice with one of our foremost teachers. On Zoom\, click t
- hrough for the link.
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-16-jan-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260116T120000
-DTEND;TZID=Europe/London:20260116T124500
-UID:fa4bfe61d108df266ec67682@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-16-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260116T130000
-DTEND;TZID=Europe/London:20260116T140000
-UID:7f6c5eb0b4dfb6e0a44a320d@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-16-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260116T173000
-DTEND;TZID=Europe/London:20260116T183000
-UID:b75bc5d993b2b1b47eef5b53@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-16-jan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buddhism & Meditation Weekend
 DTSTART;TZID=Europe/London:20260116T190000
 DTEND;TZID=Europe/London:20260116T150000
@@ -93,24 +52,68 @@ URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-week
  end-jan-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260116T191500
-DTEND;TZID=Europe/London:20260116T213000
-UID:8d4a6c9240fa2eb82beecd95@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-16-jan
+SUMMARY:Breakfast at Mandala Cafe - The Meditation Challenge
+DTSTART;TZID=Europe/London:20260117T091500
+DTEND;TZID=Europe/London:20260117T101500
+UID:710eef00d6455e9be5bcd027@lbc-ics
+DESCRIPTION:Enjoy a shared breakfast in the Mandala Cafe\, located adjacen
+ t to the London Buddhist Centre.
+URL:https://www.londonbuddhistcentre.com/whats-on/breakfast-at-mandala-caf
+ e-the-meditation-challenge-jan-17-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sub30 Friday Class
-DTSTART;TZID=Europe/London:20260116T191500
-DTEND;TZID=Europe/London:20260116T214500
-UID:79d225b4f472e7ccc9568f79@lbc-ics
-DESCRIPTION:Join others aged 18â30 for an evening of meditation\, dis
- cussion and reflecting on what is most valuable in life.
-URL:https://www.londonbuddhistcentre.com/whats-on/sub30-friday-class-2026-
- 01-16
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260117T100000
+DTEND;TZID=Europe/London:20260117T111500
+UID:9b58b24f6900925e07270511@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-17-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation Masterclass with Maitreyabandhu
+DTSTART;TZID=Europe/London:20260117T103000
+DTEND;TZID=Europe/London:20260117T123000
+UID:ac4e9fbf6de74451763a763b@lbc-ics
+DESCRIPTION:Maitreyabandhu\, one of our most experienced teachers\, will o
+ pen up more of the vistas available to the committed meditator in his medi
+ tation masterclasses. Drop in and visit us in Bethnal Green to either lear
+ n to meditate from scratch or join the regulars to take your practice deep
+ er.
+URL:https://www.londonbuddhistcentre.com/whats-on/meditation-masterclass-w
+ ith-maitreyabandhu-jan-17-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260117T113000
+DTEND;TZID=Europe/London:20260117T124500
+UID:fda7d94ce6b268b35eb562fd@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-17-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260117T130000
+DTEND;TZID=Europe/London:20260117T140000
+UID:5c4c2abd2b728f7e8edeae06@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-17-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Rescheduled to Mar 7] Burr Island
+DTSTART;TZID=Europe/London:20260117T180000
+DTEND;TZID=Europe/London:20260117T213000
+UID:6e357f0c0a90451738a07b71@lbc-ics
+DESCRIPTION:Burr Island are an Alternative Indie Folk duo based in East Lo
+ ndon\, originally from the West Country. Following the release of their de
+ but album\, Burr Island will take the stage at the Mandala CafÃ© for thi
+ s intimate acoustic gig. âA special weave of voice and harmonyâ 
+ - Robert Plant (Led Zeppelin)
+URL:https://www.londonbuddhistcentre.com/whats-on/burr-island-mandala-cafe
+ -17-01-26
 END:VEVENT
 END:VCALENDAR
