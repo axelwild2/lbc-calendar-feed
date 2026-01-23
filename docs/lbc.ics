@@ -9,11 +9,10 @@ DTSTART;TZID=Europe/London:20260103T100000
 DTEND;TZID=Europe/London:20260103T160000
 UID:34c735b8f444e6c60ef3780a@lbc-ics
 DESCRIPTION:Despite our everyday preoccupations and hang-ups\, if we look 
- deeply\, weâll discover a world of inner richness we can get in touch
-  with â one that leads to an infinitely more expansive\, liberated li
- fe. Over 21 days\, weâll be intensively exploring the mind in meditat
- ion\, uncovering a vision of reality\, and co-creating an inspirational co
- mmunity.
+ deeply\, we’ll discover a world of inner richness we can get in touch wi
+ th – one that leads to an infinitely more expansive\, liberated life. Ov
+ er 21 days\, we’ll be intensively exploring the mind in meditation\, unc
+ overing a vision of reality\, and co-creating an inspirational community.
 URL:https://www.londonbuddhistcentre.com/whats-on/the-21-day-meditation-ch
  allenge-jan-2026
 END:VEVENT
@@ -38,51 +37,6 @@ DESCRIPTION:This six-week course on Monday evenings will introduce you to
  wareness\, open-heartedness\, and insight.
 URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-jan-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260122T120000
-DTEND;TZID=Europe/London:20260122T124500
-UID:a1fd59bc604d1657c3063afb@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-22-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260122T130000
-DTEND;TZID=Europe/London:20260122T140000
-UID:6f6d74d6aed76a8bcf8bf0f8@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-22-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eight Step Recovery Group For Men
-DTSTART;TZID=Europe/London:20260122T170000
-DTEND;TZID=Europe/London:20260122T183000
-UID:d34593703a0d0110aff4ee13@lbc-ics
-DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
- 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
- s teachings outlining a suggested course of action for recovery from addic
- tion\, stinking thinking\, negative mental states\, and compulsive and obs
- essive behaviours.
-URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
- men-22-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thursday Night Class: Meditation & In-Conversation
-DTSTART;TZID=Europe/London:20260122T191500
-DTEND;TZID=Europe/London:20260122T211500
-UID:a784c574a3cc9517bc845622@lbc-ics
-DESCRIPTION:These pith teachings - such as 'reduce input' and 'don't accep
- t yourself' - were given to members of our Buddhist Order by its founder\,
-  Bhante Urgyen Sangharakshita. We will continue to celebrate Bhante's life
-  and legacy by exploring these teachings during the centenary of his birth
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-22-jan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -113,5 +67,46 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-23-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Weekend Retreat
+DTSTART;TZID=Europe/London:20260123T190000
+DTEND;TZID=Europe/London:20260123T150000
+UID:d42bc25292aba346a78770ba@lbc-ics
+DESCRIPTION:Join in this weekend retreat for people aged 18-30 to explore 
+ meditation and Buddhism\, and discover how they can support you to transfo
+ rm yourself and the world around you.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-weekend-retreat-ja
+ n-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Class:
+DTSTART;TZID=Europe/London:20260123T191500
+DTEND;TZID=Europe/London:20260123T213000
+UID:df659fe405b80868c5e6134d@lbc-ics
+DESCRIPTION:Francesca and Sam return to the Friday class to perform some b
+ eautiful classical pieces about love\, friendship and the mysteries of the
+  night.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-23-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breakfast at Mandala Cafe - The Meditation Challenge
+DTSTART;TZID=Europe/London:20260124T091500
+DTEND;TZID=Europe/London:20260124T101500
+UID:b91642744838ed37b23f50b0@lbc-ics
+DESCRIPTION:Enjoy a shared breakfast in the Mandala Cafe\, located adjacen
+ t to the London Buddhist Centre.
+URL:https://www.londonbuddhistcentre.com/whats-on/breakfast-at-mandala-caf
+ e-the-meditation-challenge-jan-24-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260124T100000
+DTEND;TZID=Europe/London:20260124T111500
+UID:f99bc083e29ca76950774b29@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-24-jan
 END:VEVENT
 END:VCALENDAR
