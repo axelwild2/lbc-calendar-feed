@@ -4,19 +4,6 @@ PRODID:-//London Buddhist Centre//Auto ICS//EN
 X-WR-CALNAME:London Buddhist Centre
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-SUMMARY:The 21 Day Meditation Challenge
-DTSTART;TZID=Europe/London:20260103T100000
-DTEND;TZID=Europe/London:20260103T160000
-UID:34c735b8f444e6c60ef3780a@lbc-ics
-DESCRIPTION:Despite our everyday preoccupations and hang-ups\, if we look 
- deeply\, we’ll discover a world of inner richness we can get in touch wi
- th – one that leads to an infinitely more expansive\, liberated life. Ov
- er 21 days\, we’ll be intensively exploring the mind in meditation\, unc
- overing a vision of reality\, and co-creating an inspirational community.
-URL:https://www.londonbuddhistcentre.com/whats-on/the-21-day-meditation-ch
- allenge-jan-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kickstart Your Yoga & Meditation
 DTSTART;TZID=Europe/London:20260108T173000
 DTEND;TZID=Europe/London:20260108T190000
@@ -50,67 +37,79 @@ URL:https://www.londonbuddhistcentre.com/whats-on/sub30-weekend-retreat-ja
  n-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breakfast at Mandala Cafe - The Meditation Challenge
-DTSTART;TZID=Europe/London:20260124T091500
-DTEND;TZID=Europe/London:20260124T101500
-UID:b91642744838ed37b23f50b0@lbc-ics
-DESCRIPTION:Enjoy a shared breakfast in the Mandala Cafe\, located adjacen
- t to the London Buddhist Centre.
-URL:https://www.londonbuddhistcentre.com/whats-on/breakfast-at-mandala-caf
- e-the-meditation-challenge-jan-24-2026
+SUMMARY:Transforming Self & World: News and Views
+DTSTART;TZID=Europe/London:20260125T100000
+DTEND;TZID=Europe/London:20260125T123000
+UID:c09d6d81667a7339398ea881@lbc-ics
+DESCRIPTION:How do our views shape the way we experience the world? In thi
+ s special morning event\, Vishvapani invites us to slow down and look more
+  closely at the stories and headlines around us. Together we’ll explore 
+ a few current stories\, and even have a go at reporting on a news event as
+  factually and non-reactively as possible (easier said than done!). There
+ ’ll be space to work in pairs or individually\, with plenty of guidance 
+ along the way.
+URL:https://www.londonbuddhistcentre.com/whats-on/transforming-self-world-
+ news-and-views-2026-01-25
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260124T100000
-DTEND;TZID=Europe/London:20260124T111500
-UID:f99bc083e29ca76950774b29@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-24-jan
+SUMMARY:Buddhist Sunday School
+DTSTART;TZID=Europe/London:20260125T103000
+DTEND;TZID=Europe/London:20260125T123000
+UID:77274b034aa9363cea43fcc4@lbc-ics
+DESCRIPTION:Encouraging and developing children’s mindfulness and kindne
+ ss through Buddhist teaching\, practice\, storytelling and crafts.
+URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
+ 026-01-25
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meditation Masterclass with Maitreyabandhu
-DTSTART;TZID=Europe/London:20260124T103000
-DTEND;TZID=Europe/London:20260124T123000
-UID:d7e9c23da51488c587520cda@lbc-ics
-DESCRIPTION:Maitreyabandhu\, one of our most experienced teachers\, will o
- pen up more of the vistas available to the committed meditator in his medi
- tation masterclasses. Drop in and visit us in Bethnal Green to either lear
- n to meditate from scratch or join the regulars to take your practice deep
- er.
-URL:https://www.londonbuddhistcentre.com/whats-on/meditation-masterclass-w
- ith-maitreyabandhu-jan-24-2026
+SUMMARY:Death Cafe
+DTSTART;TZID=Europe/London:20260125T144500
+DTEND;TZID=Europe/London:20260125T170000
+UID:16db8253aba43bf4e5fe632b@lbc-ics
+DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
+ the only inevitable thing in life. Death cafes offer an opportunity to sha
+ re with others our experiences\, ideas and feelings about death and dying.
+URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-jan-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Restorative Yoga Afternoon
+DTSTART;TZID=Europe/London:20260125T150000
+DTEND;TZID=Europe/London:20260125T170000
+UID:226032eac6831572e2cd41d3@lbc-ics
+DESCRIPTION:In the depths of winter\, give yourself time to turn inwards\,
+  to rest and replenish your body and mind. The afternoon will include a pr
+ actice of restorative yoga and meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/winter-restorative-yoga-
+ afternoon-2025-01-25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260124T113000
-DTEND;TZID=Europe/London:20260124T124500
-UID:45f8a1de727431e83be80ef3@lbc-ics
+DTSTART;TZID=Europe/London:20260126T120000
+DTEND;TZID=Europe/London:20260126T124500
+UID:8497a19319fc6a31e03f2306@lbc-ics
 DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-24-jan
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-26-jan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260124T130000
-DTEND;TZID=Europe/London:20260124T140000
-UID:711404a53c48a6994675f9b5@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-24-jan
+DTSTART;TZID=Europe/London:20260126T130000
+DTEND;TZID=Europe/London:20260126T140000
+UID:f39ab56ca6a205a36575f41b@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-26-jan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inside Sound
-DTSTART;TZID=Europe/London:20260124T191500
-DTEND;TZID=Europe/London:20260124T210000
-UID:791710f4387ba9141860d108@lbc-ics
-DESCRIPTION:Join this sound bath\, designed to encourage relaxation\, the 
- development of positive emotion and states of absorption. In this inaugura
- l session\, Aryavandana and Dayabhadra will explore Vajrasattva and invite
-  people on a journey of unburdening\; through mantra chanting\, Tibetan bo
- wls and wind gong.
-URL:https://www.londonbuddhistcentre.com/whats-on/inside-sound
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260126T173000
+DTEND;TZID=Europe/London:20260126T183000
+UID:792dc2e2b794649dfc172ff8@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-26-jan
 END:VEVENT
 END:VCALENDAR
