@@ -26,36 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-jan-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260126T120000
-DTEND;TZID=Europe/London:20260126T124500
-UID:8497a19319fc6a31e03f2306@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-26-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260126T130000
-DTEND;TZID=Europe/London:20260126T140000
-UID:f39ab56ca6a205a36575f41b@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-26-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260126T173000
-DTEND;TZID=Europe/London:20260126T183000
-UID:792dc2e2b794649dfc172ff8@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-26-jan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mindfulness for Stress
 DTSTART;TZID=Europe/London:20260126T191500
 DTEND;TZID=Europe/London:20260126T213000
@@ -66,21 +36,6 @@ DESCRIPTION:This eight-week evidence-based course is designed to help you
  ly life.
 URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-j
  an-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Launch:
-DTSTART;TZID=Europe/London:20260126T191500
-DTEND;TZID=Europe/London:20260126T214500
-UID:39864d079aa2ed8d6ce234ac@lbc-ics
-DESCRIPTION:Join us for a special evening with Vishvapani Blomfield\, expl
- oring his new book Reimagining Buddhism: Understanding Sangharakshita. In 
- this thoughtful and timely work\, Vishvapani reflects on the life and lega
- cy of Sangharakshita\, founder of the Triratna Buddhist Community\, and co
- nsiders how Buddhism can be reinterpreted for our times. The evening will 
- include readings\, reflections\, and discussion\, offering a chance to eng
- age with fresh perspectives on the Buddha’s teaching and its relevance t
- oday.
-URL:https://www.londonbuddhistcentre.com/whats-on/book-launch-2026-01-26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -111,5 +66,49 @@ DESCRIPTION:Come along after the lunchtime class to work alongside the Car
  etakers in looking after the fabric of the centre. A wonderful way to give
   back\, and contribute practically to the LBC!
 URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-27-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Kung
+DTSTART;TZID=Europe/London:20260127T173000
+DTEND;TZID=Europe/London:20260127T183000
+UID:34ce1ea6b3d59a26aadba27a@lbc-ics
+DESCRIPTION:Chi Kung is an ancient Chinese system of exercises that help u
+ s contact and harness energy in the body\, and can be a great way to prepa
+ re for meditation. Join us for a beginner-friendly session led by Serene. 
+ No experience necessary.
+URL:https://www.londonbuddhistcentre.com/whats-on/chi-kung-27-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260127T191500
+DTEND;TZID=Europe/London:20260127T213000
+UID:9887852fe4cd0008dff39433@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-27-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260128T103500
+DTEND;TZID=Europe/London:20260128T123000
+UID:8b6cfa053f709cf15fe9f645@lbc-ics
+DESCRIPTION:We will be examining the Ten Fetters\, the inclinations\, atti
+ tudes and illusions we must break in order to gain full Enlightenment. Joi
+ n in for our regular daytime weekly class of Dharma teaching and meditatio
+ n. In person at the LBC and live on Zoom. There is also a crèche for thos
+ e aged 6 months to 5 years old.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-28-jan-
+ 814d0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260128T120000
+DTEND;TZID=Europe/London:20260128T124500
+UID:7626d60130bcd2812c5ea846@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-28-jan
 END:VEVENT
 END:VCALENDAR
