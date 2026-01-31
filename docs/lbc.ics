@@ -38,47 +38,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-j
  an-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Caring for the Temple: Work Morning
-DTSTART;TZID=Europe/London:20260130T100000
-DTEND;TZID=Europe/London:20260130T140000
-UID:f252247802932e29ebf15d8f@lbc-ics
-DESCRIPTION:A morning of meditation and caring for the fabric of the Centr
- e. Join with other volunteers to polish\, sweep and scrub the Temple to a 
- new brightness. Bring vegan lunch to share.
-URL:https://www.londonbuddhistcentre.com/whats-on/caring-for-the-temple-wo
- rk-morning-2026-01-30
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260130T120000
-DTEND;TZID=Europe/London:20260130T124500
-UID:fb4d340d4f865882857052e2@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-30-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260130T130000
-DTEND;TZID=Europe/London:20260130T140000
-UID:ce65c860435eac76f8f96568@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-30-jan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260130T173000
-DTEND;TZID=Europe/London:20260130T183000
-UID:b5261ba6bc7c3ba1f7c7164d@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-30-jan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buddhism & Deep Ecology Retreat
 DTSTART;TZID=Europe/London:20260130T190000
 DTEND;TZID=Europe/London:20260130T150000
@@ -90,17 +49,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-deep-ecology-re
  treat-jan-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260130T191500
-DTEND;TZID=Europe/London:20260130T213000
-UID:67beefc2b20a57a51ae4017c@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-30-jan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260131T100000
 DTEND;TZID=Europe/London:20260131T111500
@@ -109,5 +57,60 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-31-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260131T103000
+DTEND;TZID=Europe/London:20260131T123000
+UID:2fd4601cb2e9c85f7dcabbf3@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-31-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260131T113000
+DTEND;TZID=Europe/London:20260131T124500
+UID:fd074fc32ecfae2dcb30ef14@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-31-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260131T130000
+DTEND;TZID=Europe/London:20260131T140000
+UID:ae258c8f923f37bf6ca6f458@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-31-jan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parinirvana Festival
+DTSTART;TZID=Europe/London:20260201T100000
+DTEND;TZID=Europe/London:20260201T213000
+UID:7d9b07a240641022396e1ccb@lbc-ics
+DESCRIPTION:A full day festival marking the final passing of the Buddha tw
+ o and a half millennia ago. An opportunity to contemplate impermanence\, r
+ ejoice in the example of the Buddha’s life and reflect on the precious o
+ pportunity that our own lives present us. The day will include meditation\
+ , reflection and ritual as well as an opportunity to remember those who ha
+ ve died in the last year. Come to as much as you can. Bring vegan lunch to
+  share.
+URL:https://www.londonbuddhistcentre.com/whats-on/parinirvana-festival-202
+ 6-02-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260202T073000
+DTEND;TZID=Europe/London:20260202T083000
+UID:871d9620bb07f9c44ce935cc@lbc-ics
+DESCRIPTION:Experience the benefits of collective practice with this week-
+ long series of guided meditation\, which happens at the start of every mon
+ th. An opportunity to meditate with others and ask questions about your pr
+ actice.
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-2026-02-02
 END:VEVENT
 END:VCALENDAR
