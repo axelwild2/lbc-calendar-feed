@@ -38,32 +38,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-j
  an-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhism & Deep Ecology Retreat
-DTSTART;TZID=Europe/London:20260130T190000
-DTEND;TZID=Europe/London:20260130T150000
-UID:96697adaf160ba626fde69f8@lbc-ics
-DESCRIPTION:Join Sanghasiha and friends for a weekend at Vajrasana in the 
- beautiful Suffolk countryside exploring a deeper connection with the natur
- al world through our Dharma practice.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-deep-ecology-re
- treat-jan-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parinirvana Festival
-DTSTART;TZID=Europe/London:20260201T100000
-DTEND;TZID=Europe/London:20260201T213000
-UID:7d9b07a240641022396e1ccb@lbc-ics
-DESCRIPTION:A full day festival marking the final passing of the Buddha tw
- o and a half millennia ago. An opportunity to contemplate impermanence\, r
- ejoice in the example of the Buddha’s life and reflect on the precious o
- pportunity that our own lives present us. The day will include meditation\
- , reflection and ritual as well as an opportunity to remember those who ha
- ve died in the last year. Come to as much as you can. Bring vegan lunch to
-  share.
-URL:https://www.londonbuddhistcentre.com/whats-on/parinirvana-festival-202
- 6-02-01
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Online Morning Meditation
 DTSTART;TZID=Europe/London:20260202T073000
 DTEND;TZID=Europe/London:20260202T083000
@@ -114,5 +88,27 @@ DESCRIPTION:After the Dharma Night\, we’ll come together for a short rit
  ual on the full moon.
 URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-2026-02-0
  2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260203T073000
+DTEND;TZID=Europe/London:20260203T083000
+UID:573b16c1b6867af5d1fbfdc0@lbc-ics
+DESCRIPTION:Experience the benefits of collective practice with this week-
+ long series of guided meditation\, which happens at the start of every mon
+ th. An opportunity to meditate with others and ask questions about your pr
+ actice.
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-2026-02-03
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260203T120000
+DTEND;TZID=Europe/London:20260203T124500
+UID:7d73aedc22a1ffd96538d700@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-3-feb
 END:VEVENT
 END:VCALENDAR
