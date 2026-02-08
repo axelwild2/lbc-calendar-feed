@@ -62,52 +62,57 @@ URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-week
  end-feb-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260207T100000
-DTEND;TZID=Europe/London:20260207T111500
-UID:04cb7d1583837a9848bb3ce2@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-7-feb
+SUMMARY:People of Colour Sunday Class
+DTSTART;TZID=Europe/London:20260208T100000
+DTEND;TZID=Europe/London:20260208T113000
+UID:d146a04543ae04eb93151c4e@lbc-ics
+DESCRIPTION:Taking place on the second Sunday of every month\, a chance fo
+ r people of colour to come together\, meditate and discuss how the Buddha
+ ’s teachings are relevant to our lives. All levels of experience welcome
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-sunday-
+ class-2026-02-08
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sub30 Breakfast Seminar
-DTSTART;TZID=Europe/London:20260207T101500
-DTEND;TZID=Europe/London:20260207T123000
-UID:7e7d174e0b84bfb899ca60d9@lbc-ics
-DESCRIPTION:If you’re 18–30\, join this vibrant monthly seminar to exp
- lore Buddhist wisdom in the context of the modern world. There will be cof
- fee\, croissants and an optional lunch in the café next door afterwards.
-URL:https://www.londonbuddhistcentre.com/whats-on/sub30-breakfast-seminar-
- feb-2026
+SUMMARY:LGBTQIA+ Sangha Day Retreat
+DTSTART;TZID=Europe/London:20260208T100000
+DTEND;TZID=Europe/London:20260208T160000
+UID:a26c57886fcb28db6ef6f355@lbc-ics
+DESCRIPTION:A day led by and for people identifying as LGBTQIA+\, with med
+ itation\, talks\, discussion groups and ritual\, focusing on inclusivity a
+ nd deepening friendships. Bring vegan lunch to share.
+URL:https://www.londonbuddhistcentre.com/whats-on/lgbtqia-sangha-day-retre
+ at-2026-02-08
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260207T103000
-DTEND;TZID=Europe/London:20260207T123000
-UID:97030fa3ebfa6fd5b684b91b@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-7-feb
+SUMMARY:Mindful Morning for Teens
+DTSTART;TZID=Europe/London:20260208T110000
+DTEND;TZID=Europe/London:20260208T133000
+UID:8354ad222e2b6dfd625e35c6@lbc-ics
+DESCRIPTION:Meet with like-minded teens (12–17 years old) to learn about
+  Buddhism and meditation\, and explore how to increase your mental wellbei
+ ng and have a positive impact in the world.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-morning-for-teen
+ s-2026-02-08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Working Retreat
+DTSTART;TZID=Europe/London:20260208T190000
+DTEND;TZID=Europe/London:20260208T120000
+UID:84db4450454f5caa44276814@lbc-ics
+DESCRIPTION:Join our working retreat at Vajrasana\, to help out with takin
+ g care of the buildings\, space\, and gardens\, alongside typical retreat 
+ activities of meditation\, study\, ritual and connecting with others.
+URL:https://www.londonbuddhistcentre.com/whats-on/working-retreat-feb-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260207T113000
-DTEND;TZID=Europe/London:20260207T124500
-UID:69b324d645537c41b18f1a25@lbc-ics
+DTSTART;TZID=Europe/London:20260209T120000
+DTEND;TZID=Europe/London:20260209T124500
+UID:95a1adf16c6df3e281981d5d@lbc-ics
 DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-7-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260207T130000
-DTEND;TZID=Europe/London:20260207T140000
-UID:f66c3ca00b06431f69eab95f@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-7-feb
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-9-feb
 END:VEVENT
 END:VCALENDAR
