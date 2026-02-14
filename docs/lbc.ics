@@ -39,57 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/life-with-full-attention
  -feb-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working Retreat
-DTSTART;TZID=Europe/London:20260208T190000
-DTEND;TZID=Europe/London:20260208T120000
-UID:84db4450454f5caa44276814@lbc-ics
-DESCRIPTION:Join our working retreat at Vajrasana\, to help out with takin
- g care of the buildings\, space\, and gardens\, alongside typical retreat 
- activities of meditation\, study\, ritual and connecting with others.
-URL:https://www.londonbuddhistcentre.com/whats-on/working-retreat-feb-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260213T120000
-DTEND;TZID=Europe/London:20260213T124500
-UID:f32078d1e3a678d1c451c748@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-13-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260213T130000
-DTEND;TZID=Europe/London:20260213T140000
-UID:2c651fdcc0d311f01e438929@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-13-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260213T173000
-DTEND;TZID=Europe/London:20260213T183000
-UID:1683f6a8bc6b14de6d286d99@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-13-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260213T191500
-DTEND;TZID=Europe/London:20260213T213000
-UID:19f605060431105936f56691@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-13-feb
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260214T100000
 DTEND;TZID=Europe/London:20260214T111500
@@ -107,5 +56,58 @@ UID:3d82c66bd506ad3a26238a10@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-14-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260214T113000
+DTEND;TZID=Europe/London:20260214T124500
+UID:5c20924a83dd3fd0f59f19a9@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-14-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260214T130000
+DTEND;TZID=Europe/London:20260214T140000
+UID:8df6daa29a345eee503e9973@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-14-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Night:
+DTSTART;TZID=Europe/London:20260214T191500
+DTEND;TZID=Europe/London:20260214T211500
+UID:7a499614c0c5ee0fd880ecc6@lbc-ics
+DESCRIPTION:A delightful and poignant Japanese drama about a found family 
+ surviving on the margins\, Shoplifters explores love\, poverty\, belonging
+ \, and moral complexity—asking what truly makes a family\, beyond blood 
+ ties\, in the face of hardship.
+URL:https://www.londonbuddhistcentre.com/whats-on/film-night-2025-02-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddhism & Deep Ecology Day
+DTSTART;TZID=Europe/London:20260215T100000
+DTEND;TZID=Europe/London:20260215T170000
+UID:76224e4dfd34543f4aa2b617@lbc-ics
+DESCRIPTION:Join Sanghasiha\, Kavyamani and friends for a day retreat expl
+ oring our relationship with ourselves\, each other and the other-than-huma
+ n world as practitioners. There will be ritual\, guided and sound meditati
+ ons\, talks and conversations as we deepen our connection with all the bei
+ ngs that we share these lands with. Bring vegan lunch to share.
+URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-deep-ecology-da
+ y-2026-02-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death Cafe
+DTSTART;TZID=Europe/London:20260215T144500
+DTEND;TZID=Europe/London:20260215T170000
+UID:30f88a0881e9a3e2749ab304@lbc-ics
+DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
+ the only inevitable thing in life. Death cafes offer an opportunity to sha
+ re with others our experiences\, ideas and feelings about death and dying.
+URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-feb-2026
 END:VEVENT
 END:VCALENDAR
