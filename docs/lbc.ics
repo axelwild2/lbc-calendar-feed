@@ -39,29 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/life-with-full-attention
  -feb-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhism & Deep Ecology Day
-DTSTART;TZID=Europe/London:20260215T100000
-DTEND;TZID=Europe/London:20260215T170000
-UID:76224e4dfd34543f4aa2b617@lbc-ics
-DESCRIPTION:Join Sanghasiha\, Kavyamani and friends for a day retreat expl
- oring our relationship with ourselves\, each other and the other-than-huma
- n world as practitioners. There will be ritual\, guided and sound meditati
- ons\, talks and conversations as we deepen our connection with all the bei
- ngs that we share these lands with. Bring vegan lunch to share.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-deep-ecology-da
- y-2026-02-15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Death Cafe
-DTSTART;TZID=Europe/London:20260215T144500
-DTEND;TZID=Europe/London:20260215T170000
-UID:30f88a0881e9a3e2749ab304@lbc-ics
-DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
- the only inevitable thing in life. Death cafes offer an opportunity to sha
- re with others our experiences\, ideas and feelings about death and dying.
-URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-feb-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260216T120000
 DTEND;TZID=Europe/London:20260216T124500
@@ -111,5 +88,25 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-17-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260217T130000
+DTEND;TZID=Europe/London:20260217T140000
+UID:59be970d5b79676bd1c13850@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-17-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260217T141500
+DTEND;TZID=Europe/London:20260217T150000
+UID:243138f3d1a3893afe4f0635@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the Car
+ etakers in looking after the fabric of the centre. A wonderful way to give
+  back\, and contribute practically to the LBC!
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-17-feb
 END:VEVENT
 END:VCALENDAR
