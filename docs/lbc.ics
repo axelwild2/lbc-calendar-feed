@@ -28,68 +28,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/life-with-full-attention
  -feb-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260218T103500
-DTEND;TZID=Europe/London:20260218T123000
-UID:9d0a353400b2a4fc432774ee@lbc-ics
-DESCRIPTION:We will be examining the Ten Fetters\, the inclinations\, atti
- tudes and illusions we must break in order to gain full Enlightenment. Joi
- n in for our regular daytime weekly class of Dharma teaching and meditatio
- n. In person at the LBC and live on Zoom. There is also a crèche for thos
- e aged 6 months to 5 years old.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-18-feb-
- 19c57
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260218T120000
-DTEND;TZID=Europe/London:20260218T124500
-UID:be5a9422a9bc61c9740e2e7a@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-18-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260218T130000
-DTEND;TZID=Europe/London:20260218T140000
-UID:e1a8d2ec5ec65c135bb24936@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-18-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260218T173000
-DTEND;TZID=Europe/London:20260218T183000
-UID:89e6e7ac653ef9007ac01f4d@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-eve-yoga-18-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260218T173000
-DTEND;TZID=Europe/London:20260218T183000
-UID:aecab87ec3871121182f2be0@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-18-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wednesday Night Meditation
-DTSTART;TZID=Europe/London:20260218T191500
-DTEND;TZID=Europe/London:20260218T213000
-UID:b94bf9ec335de3bc9c03cc67@lbc-ics
-DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
-  approaches to meditation\, try them out and ask questions to experienced 
- meditators.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-18-feb
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260219T120000
 DTEND;TZID=Europe/London:20260219T124500
@@ -108,5 +46,72 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-19-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Cancelled] Eight Step Recovery Group For Men
+DTSTART;TZID=Europe/London:20260219T170000
+DTEND;TZID=Europe/London:20260219T183000
+UID:99effc4e720e3e9e96049277@lbc-ics
+DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
+ 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
+ s teachings outlining a suggested course of action for recovery from addic
+ tion\, stinking thinking\, negative mental states\, and compulsive and obs
+ essive behaviours.
+URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
+ men-19-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Class: Meditation & In-Conversation
+DTSTART;TZID=Europe/London:20260219T191500
+DTEND;TZID=Europe/London:20260219T211500
+UID:ce65f033ce705e4ca6ca3de1@lbc-ics
+DESCRIPTION:These pith teachings - such as 'reduce input' and 'don't accep
+ t yourself' - were given to members of our Buddhist Order by its founder\,
+  Bhante Urgyen Sangharakshita. We will continue to celebrate Bhante's life
+  and legacy by exploring these teachings during the centenary of his birth
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-19-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260220T120000
+DTEND;TZID=Europe/London:20260220T124500
+UID:ce606d4681e4bd21d4001035@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-20-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260220T130000
+DTEND;TZID=Europe/London:20260220T140000
+UID:2d4083c161a7efd91af87049@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-20-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Restorative Yoga Class
+DTSTART;TZID=Europe/London:20260220T173000
+DTEND;TZID=Europe/London:20260220T183000
+UID:5e1f024b513968e71d17bdb8@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-20-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Weekend
+DTSTART;TZID=Europe/London:20260220T190000
+DTEND;TZID=Europe/London:20260220T150000
+UID:5d4f3c3761fc4eab503683c5@lbc-ics
+DESCRIPTION:A weekend for People of Colour to come together\, meditate\, a
+ nd be inspired by the Buddha’s teaching. These are special opportunities
+  to connect with others\, with space for discussion and reflection on Budd
+ hist teachings.
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-weekend
+ -feb-2026
 END:VEVENT
 END:VCALENDAR
