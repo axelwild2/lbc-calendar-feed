@@ -52,47 +52,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-course-feb-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260227T120000
-DTEND;TZID=Europe/London:20260227T124500
-UID:cc8b98054e428c0c1f9edab9@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-27-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260227T130000
-DTEND;TZID=Europe/London:20260227T140000
-UID:39f223b78f0c2a347e1fd21b@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-27-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260227T173000
-DTEND;TZID=Europe/London:20260227T183000
-UID:d970ad1c11bce0be9ad1677d@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-27-feb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260227T191500
-DTEND;TZID=Europe/London:20260227T213000
-UID:07e2abcca6305e9808c98456@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-27-feb
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260228T100000
 DTEND;TZID=Europe/London:20260228T111500
@@ -110,5 +69,50 @@ UID:549ac7ebbf847054c538456e@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-28-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260228T113000
+DTEND;TZID=Europe/London:20260228T124500
+UID:1c69cfacd55f08cf85d01ebb@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-28-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260228T130000
+DTEND;TZID=Europe/London:20260228T140000
+UID:da3ba7ee680cbcb48d1ee433@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-28-feb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Movement Workshop
+DTSTART;TZID=Europe/London:20260228T150000
+DTEND;TZID=Europe/London:20260228T170000
+UID:b5bd0c3da5277d7821760f5a@lbc-ics
+DESCRIPTION:Have you ever wanted to be able to move more freely? In this c
+ lass we playfully explore movement using our imagination. Movement will be
+  inspired by tai chi\, yoga\, and free-form contemporary dance.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-movement-worksho
+ p-2026-02-28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelit Social with Irish Trad Music
+DTSTART;TZID=Europe/London:20260228T183000
+DTEND;TZID=Europe/London:20260228T213000
+UID:38d042ac1870de39b53f6cbc@lbc-ics
+DESCRIPTION:Step into a Candlelit Social at the Mandala Café\, featuring 
+ live Irish and Scottish music\, food and drinks. Our house band — Kavyam
+ ani\, Chintamani\, Maitrishura\, Amalavira\, Ruth\, and Ian — will be pl
+ aying a lively mix of traditional tunes\, with other folk musicians welcom
+ e to bring their instruments and join the session. Enjoy the relaxed atmos
+ phere with food and drinks available to purchase from the café canteen th
+ roughout the evening.
+URL:https://www.londonbuddhistcentre.com/whats-on/candlelit-social-with-ir
+ ish-trad-music
 END:VEVENT
 END:VCALENDAR
