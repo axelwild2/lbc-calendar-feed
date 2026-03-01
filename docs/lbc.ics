@@ -52,67 +52,67 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-course-feb-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260228T100000
-DTEND;TZID=Europe/London:20260228T111500
-UID:f180dc532da6e81efecd4f50@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-28-feb
+SUMMARY:Mindful Communication
+DTSTART;TZID=Europe/London:20260301T100000
+DTEND;TZID=Europe/London:20260301T170000
+UID:f8700f0f6ed9d6e9304f0904@lbc-ics
+DESCRIPTION:How do we stay in harmony even when we disagree? Is it really 
+ possible to transform hatred into compassion? With Mindful Communication\,
+  we go beyond right and wrong thinking to create a genuine connection wher
+ e everyone’s needs matter.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-communication-20
+ 26-03-01
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260228T103000
-DTEND;TZID=Europe/London:20260228T123000
-UID:549ac7ebbf847054c538456e@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-28-feb
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260302T073000
+DTEND;TZID=Europe/London:20260302T083000
+UID:575e285a6824c0b0a43c67b8@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-mon-2-mar-26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260228T113000
-DTEND;TZID=Europe/London:20260228T124500
-UID:1c69cfacd55f08cf85d01ebb@lbc-ics
+DTSTART;TZID=Europe/London:20260302T120000
+DTEND;TZID=Europe/London:20260302T124500
+UID:8705043879a355962cf73a3b@lbc-ics
 DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-28-feb
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-2-mar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260228T130000
-DTEND;TZID=Europe/London:20260228T140000
-UID:da3ba7ee680cbcb48d1ee433@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-28-feb
+DTSTART;TZID=Europe/London:20260302T130000
+DTEND;TZID=Europe/London:20260302T140000
+UID:7a5d3281ea4332147ee26719@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-2-mar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mindful Movement Workshop
-DTSTART;TZID=Europe/London:20260228T150000
-DTEND;TZID=Europe/London:20260228T170000
-UID:b5bd0c3da5277d7821760f5a@lbc-ics
-DESCRIPTION:Have you ever wanted to be able to move more freely? In this c
- lass we playfully explore movement using our imagination. Movement will be
-  inspired by tai chi\, yoga\, and free-form contemporary dance.
-URL:https://www.londonbuddhistcentre.com/whats-on/mindful-movement-worksho
- p-2026-02-28
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260302T173000
+DTEND;TZID=Europe/London:20260302T183000
+UID:dd240324a9bfe232b8b6aa1a@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-2-mar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Candlelit Social with Irish Trad Music
-DTSTART;TZID=Europe/London:20260228T183000
-DTEND;TZID=Europe/London:20260228T213000
-UID:38d042ac1870de39b53f6cbc@lbc-ics
-DESCRIPTION:Step into a Candlelit Social at the Mandala Café\, featuring 
- live Irish and Scottish music\, food and drinks. Our house band — Kavyam
- ani\, Chintamani\, Maitrishura\, Amalavira\, Ruth\, and Ian — will be pl
- aying a lively mix of traditional tunes\, with other folk musicians welcom
- e to bring their instruments and join the session. Enjoy the relaxed atmos
- phere with food and drinks available to purchase from the café canteen th
- roughout the evening.
-URL:https://www.londonbuddhistcentre.com/whats-on/candlelit-social-with-ir
- ish-trad-music
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260302T191500
+DTEND;TZID=Europe/London:20260302T214500
+UID:a504933cf32e8b1109ba7fcb@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-2-mar
 END:VEVENT
 END:VCALENDAR
