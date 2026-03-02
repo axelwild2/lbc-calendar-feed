@@ -52,18 +52,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-course-feb-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mindful Communication
-DTSTART;TZID=Europe/London:20260301T100000
-DTEND;TZID=Europe/London:20260301T170000
-UID:f8700f0f6ed9d6e9304f0904@lbc-ics
-DESCRIPTION:How do we stay in harmony even when we disagree? Is it really 
- possible to transform hatred into compassion? With Mindful Communication\,
-  we go beyond right and wrong thinking to create a genuine connection wher
- e everyone’s needs matter.
-URL:https://www.londonbuddhistcentre.com/whats-on/mindful-communication-20
- 26-03-01
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Online Morning Meditation
 DTSTART;TZID=Europe/London:20260302T073000
 DTEND;TZID=Europe/London:20260302T083000
@@ -114,5 +102,16 @@ DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
   application in the modern world. Join us for an evening of meditation\, d
  iscussion and Dharma teaching.
 URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-2-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260303T073000
+DTEND;TZID=Europe/London:20260303T083000
+UID:84e6b8744e4c75a40ef6474c@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-tue-3-mar-26
 END:VEVENT
 END:VCALENDAR
