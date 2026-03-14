@@ -52,36 +52,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-course-feb-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260313T120000
-DTEND;TZID=Europe/London:20260313T124500
-UID:cbe6b1ddbecdca4c4ea7c121@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-13-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260313T130000
-DTEND;TZID=Europe/London:20260313T140000
-UID:fe32009e3a28a5cfa69dcf3c@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-13-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260313T173000
-DTEND;TZID=Europe/London:20260313T183000
-UID:f38e9d8ce0f9f5951ee7074c@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-13-mar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga for Meditation Weekend
 DTSTART;TZID=Europe/London:20260313T190000
 DTEND;TZID=Europe/London:20260313T150000
@@ -92,17 +62,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/yoga-for-meditation-week
  end-mar-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260313T191500
-DTEND;TZID=Europe/London:20260313T213000
-UID:5149d3a4d66cd1a229748bd9@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-13-mar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260314T100000
 DTEND;TZID=Europe/London:20260314T111500
@@ -111,5 +70,46 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-14-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260314T103000
+DTEND;TZID=Europe/London:20260314T123000
+UID:43a5e6a712008bb38a09bcd5@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-14-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260314T113000
+DTEND;TZID=Europe/London:20260314T124500
+UID:1ee85962b2b687252c7d5241@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-14-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260314T130000
+DTEND;TZID=Europe/London:20260314T140000
+UID:d11ea8b959dc1944ebe22551@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-14-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Recovery
+DTSTART;TZID=Europe/London:20260314T143000
+DTEND;TZID=Europe/London:20260314T170000
+UID:60a715904cf52a8ced098350@lbc-ics
+DESCRIPTION:Our 8-week Mindfulness based Addiction Recovery programme has 
+ helped hundreds of people free themselves of unhealthy habits. Whether thi
+ s is a cycle of workaholism\, sugar cravings\, or you need a digital break
+  but can’t stop checking your phone\; Mindful Recovery will help free yo
+ u from unhelpful patterns of behaviour.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-mar-202
+ 6
 END:VEVENT
 END:VCALENDAR
