@@ -62,44 +62,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/yoga-for-meditation-week
  end-mar-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260314T100000
-DTEND;TZID=Europe/London:20260314T111500
-UID:3ab101ab54d94e512c3f8362@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-14-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260314T103000
-DTEND;TZID=Europe/London:20260314T123000
-UID:43a5e6a712008bb38a09bcd5@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-14-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260314T113000
-DTEND;TZID=Europe/London:20260314T124500
-UID:1ee85962b2b687252c7d5241@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-14-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260314T130000
-DTEND;TZID=Europe/London:20260314T140000
-UID:d11ea8b959dc1944ebe22551@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-14-mar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mindful Recovery
 DTSTART;TZID=Europe/London:20260314T143000
 DTEND;TZID=Europe/London:20260314T170000
@@ -111,5 +73,44 @@ DESCRIPTION:Our 8-week Mindfulness based Addiction Recovery programme has
  u from unhelpful patterns of behaviour.
 URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-mar-202
  6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Writing:
+DTSTART;TZID=Europe/London:20260315T103000
+DTEND;TZID=Europe/London:20260315T133000
+UID:9c70a8a43ce6b9a31d348579@lbc-ics
+DESCRIPTION:Aryavandana asks how the Dharma can help us cultivate awe and 
+ reverence.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-writing-mar-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death Cafe
+DTSTART;TZID=Europe/London:20260315T144500
+DTEND;TZID=Europe/London:20260315T170000
+UID:dbe8c958d159231cb8ef1738@lbc-ics
+DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
+ the only inevitable thing in life. Death cafes offer an opportunity to sha
+ re with others our experiences\, ideas and feelings about death and dying.
+URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-mar-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260316T120000
+DTEND;TZID=Europe/London:20260316T124500
+UID:521bac0c4011f2cf95611d15@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-16-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260316T130000
+DTEND;TZID=Europe/London:20260316T140000
+UID:5fb99ba25dc72118e75db971@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-16-mar
 END:VEVENT
 END:VCALENDAR
