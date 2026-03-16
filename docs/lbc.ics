@@ -52,16 +52,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-course-feb-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga for Meditation Weekend
-DTSTART;TZID=Europe/London:20260313T190000
-DTEND;TZID=Europe/London:20260313T150000
-UID:875ee81ee41bebf2c7a8f9e9@lbc-ics
-DESCRIPTION:This weekend will offer yoga for all levels\, alongside medita
- tion practice and a glimpse of the Buddhist vision.
-URL:https://www.londonbuddhistcentre.com/whats-on/yoga-for-meditation-week
- end-mar-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mindful Recovery
 DTSTART;TZID=Europe/London:20260314T143000
 DTEND;TZID=Europe/London:20260314T170000
@@ -73,25 +63,6 @@ DESCRIPTION:Our 8-week Mindfulness based Addiction Recovery programme has
  u from unhelpful patterns of behaviour.
 URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-mar-202
  6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Writing:
-DTSTART;TZID=Europe/London:20260315T103000
-DTEND;TZID=Europe/London:20260315T133000
-UID:9c70a8a43ce6b9a31d348579@lbc-ics
-DESCRIPTION:Aryavandana asks how the Dharma can help us cultivate awe and 
- reverence.
-URL:https://www.londonbuddhistcentre.com/whats-on/mindful-writing-mar-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Death Cafe
-DTSTART;TZID=Europe/London:20260315T144500
-DTEND;TZID=Europe/London:20260315T170000
-UID:dbe8c958d159231cb8ef1738@lbc-ics
-DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
- the only inevitable thing in life. Death cafes offer an opportunity to sha
- re with others our experiences\, ideas and feelings about death and dying.
-URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-mar-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -112,5 +83,36 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-16-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260316T173000
+DTEND;TZID=Europe/London:20260316T183000
+UID:de68fb7df9772b05ca696c3e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-16-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260316T191500
+DTEND;TZID=Europe/London:20260316T214500
+UID:14ce9da542260c17d6ab4b19@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-16-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260317T120000
+DTEND;TZID=Europe/London:20260317T124500
+UID:c2a5297c916dc59a09205767@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-17-mar-ef141
 END:VEVENT
 END:VCALENDAR
