@@ -65,44 +65,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-week
  end-mar-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260321T100000
-DTEND;TZID=Europe/London:20260321T111500
-UID:ddd13a60dc857cf8eba9c607@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-21-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260321T103000
-DTEND;TZID=Europe/London:20260321T123000
-UID:621a935f4193eecb8d237c67@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-21-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260321T113000
-DTEND;TZID=Europe/London:20260321T124500
-UID:a1b3f532af3fd8e63ef0609e@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-21-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260321T130000
-DTEND;TZID=Europe/London:20260321T140000
-UID:12074c3a0fd9b394e53245a5@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-21-mar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dhardo Rinpoche Day
 DTSTART;TZID=Europe/London:20260322T100000
 DTEND;TZID=Europe/London:20260322T170000
@@ -113,5 +75,46 @@ DESCRIPTION:Dhardo Rinpoche was an important teacher and friend to Sanghar
   and the effect of a life lived in service of others.
 URL:https://www.londonbuddhistcentre.com/whats-on/dhardo-rinpoche-day-a-ce
  lebration-2026-03-22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260323T120000
+DTEND;TZID=Europe/London:20260323T124500
+UID:76cc3324eccfa20ebd1e680b@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-23-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260323T130000
+DTEND;TZID=Europe/London:20260323T140000
+UID:1506d21f85376c8b742bf4d5@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-23-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260323T173000
+DTEND;TZID=Europe/London:20260323T183000
+UID:960fa55fdadf45e08c6d9174@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-23-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260323T191500
+DTEND;TZID=Europe/London:20260323T214500
+UID:83c7aee7570a7446c90dadef@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-23-mar
 END:VEVENT
 END:VCALENDAR
