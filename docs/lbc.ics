@@ -53,30 +53,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-mar-202
  6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhism & Meditation Weekend
-DTSTART;TZID=Europe/London:20260320T190000
-DTEND;TZID=Europe/London:20260320T150000
-UID:c8a0e540a224215bb9e39208@lbc-ics
-DESCRIPTION:Curious about retreats? This introductory weekend is an ideal 
- first taste. Break out of your routine and spend two days learning transfo
- rmative practices\, connecting with others\, and enjoying the beautiful Su
- ffolk countryside.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-week
- end-mar-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dhardo Rinpoche Day
-DTSTART;TZID=Europe/London:20260322T100000
-DTEND;TZID=Europe/London:20260322T170000
-UID:95444886088161ffe3c49d71@lbc-ics
-DESCRIPTION:Dhardo Rinpoche was an important teacher and friend to Sanghar
- akshita\, the founder of the Triratna Buddhist Community. On the 36th anni
- versary of his death we will explore the influence he had on our tradition
-  and the effect of a life lived in service of others.
-URL:https://www.londonbuddhistcentre.com/whats-on/dhardo-rinpoche-day-a-ce
- lebration-2026-03-22
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260323T120000
 DTEND;TZID=Europe/London:20260323T124500
@@ -116,5 +92,25 @@ DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
   application in the modern world. Join us for an evening of meditation\, d
  iscussion and Dharma teaching.
 URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-23-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260324T120000
+DTEND;TZID=Europe/London:20260324T124500
+UID:d3a4e8afc367357c887e0840@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-24-mar-e366a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260324T130000
+DTEND;TZID=Europe/London:20260324T140000
+UID:06ce57ce7fb5bbb3793ce1db@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-24-mar
 END:VEVENT
 END:VCALENDAR
