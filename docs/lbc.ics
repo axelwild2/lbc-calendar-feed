@@ -41,54 +41,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-mar-202
  6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260328T100000
-DTEND;TZID=Europe/London:20260328T111500
-UID:5e39b2fb8c8e2c06f8dbb01b@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-28-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260328T103000
-DTEND;TZID=Europe/London:20260328T123000
-UID:ee68e3b54b7e08c3c6c27621@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-28-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260328T113000
-DTEND;TZID=Europe/London:20260328T124500
-UID:9b14444e23b5d816bec0b399@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-28-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260328T130000
-DTEND;TZID=Europe/London:20260328T140000
-UID:1c50cc7cb1924c7be17ef4af@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-28-mar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz at the Mandala Café with Maitrikumara Trio
-DTSTART;TZID=Europe/London:20260328T183000
-DTEND;TZID=Europe/London:20260328T220000
-UID:742f7c924e4186a88ef3dba1@lbc-ics
-DESCRIPTION:Join us for an intimate evening of live jazz at the Mandala Ca
- fé\, celebrating the music of legendary tenor saxophonist Sonny Rollins.
-URL:https://www.londonbuddhistcentre.com/whats-on/jazz-with-maitrikumara-t
- rio
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buddhist Sunday School (followed by lunch)
 DTSTART;TZID=Europe/London:20260329T103000
 DTEND;TZID=Europe/London:20260329T123000
@@ -108,5 +60,57 @@ DESCRIPTION:In Flow & Restore\, we move and then we soften\, creating spac
  t\, release and deeply supported rest.
 URL:https://www.londonbuddhistcentre.com/whats-on/flow-restore-yoga-aftern
  oon-2026-03-29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260330T073000
+DTEND;TZID=Europe/London:20260330T083000
+UID:8b1e00fc745eab160eab9751@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-mon-30-mar-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Cancelled] Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260330T130000
+DTEND;TZID=Europe/London:20260330T134500
+UID:b175e30ac6c28b1ca4007947@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-30-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260330T130000
+DTEND;TZID=Europe/London:20260330T140000
+UID:fb95d4d4f66c8f431cb11c73@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-30-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260330T183000
+DTEND;TZID=Europe/London:20260330T193000
+UID:6fd3c368928534ec4ba9b4fd@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-30-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260330T191500
+DTEND;TZID=Europe/London:20260330T214500
+UID:c9914fcbc0f8296565bc0892@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-30-mar
 END:VEVENT
 END:VCALENDAR
