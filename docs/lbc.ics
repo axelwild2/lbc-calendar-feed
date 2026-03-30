@@ -41,27 +41,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-mar-202
  6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhist Sunday School (followed by lunch)
-DTSTART;TZID=Europe/London:20260329T103000
-DTEND;TZID=Europe/London:20260329T123000
-UID:19a69723ba895ca0c11da7f3@lbc-ics
-DESCRIPTION:Encouraging and developing children’s mindfulness and kindne
- ss through Buddhist teaching\, practice\, storytelling and crafts.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
- 026-03-29
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flow & Restore Yoga Afternoon
-DTSTART;TZID=Europe/London:20260329T150000
-DTEND;TZID=Europe/London:20260329T170000
-UID:8908adcd781eec00c63962be@lbc-ics
-DESCRIPTION:In Flow & Restore\, we move and then we soften\, creating spac
- e for both energy and ease. Join us on the mat for an afternoon of movemen
- t\, release and deeply supported rest.
-URL:https://www.londonbuddhistcentre.com/whats-on/flow-restore-yoga-aftern
- oon-2026-03-29
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Online Morning Meditation
 DTSTART;TZID=Europe/London:20260330T073000
 DTEND;TZID=Europe/London:20260330T083000
@@ -112,5 +91,26 @@ DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
   application in the modern world. Join us for an evening of meditation\, d
  iscussion and Dharma teaching.
 URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-30-mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260331T073000
+DTEND;TZID=Europe/London:20260331T083000
+UID:e5c43c091c13a1fe7796c406@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-tue-31-mar-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260331T120000
+DTEND;TZID=Europe/London:20260331T124500
+UID:8bcb8ac6d52123aab4867313@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-31-mar-9a0cb
 END:VEVENT
 END:VCALENDAR
