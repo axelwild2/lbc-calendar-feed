@@ -17,58 +17,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-mar-202
  6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20260403T073000
-DTEND;TZID=Europe/London:20260403T083000
-UID:e58630df0b93cdd353d5966b@lbc-ics
-DESCRIPTION:This week-long series of guided meditation happens at the star
- t of every month. An opportunity to meditate with others and ask questions
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-fri-3-apr-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260403T120000
-DTEND;TZID=Europe/London:20260403T124500
-UID:a803d771a765a8fad663e3f7@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-3-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260403T130000
-DTEND;TZID=Europe/London:20260403T140000
-UID:011888c0486d74053f10cea4@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-3-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260403T173000
-DTEND;TZID=Europe/London:20260403T183000
-UID:fed68d381dfc96c8a376e5e4@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-3-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buddhist Lives: Aryavandana
-DTSTART;TZID=Europe/London:20260403T191500
-DTEND;TZID=Europe/London:20260403T213000
-UID:71a7dc2399da9643af4b7fdc@lbc-ics
-DESCRIPTION:Aryavandana was ordained in 2024. Her name means she whose pra
- ise\, workshop and reverence are noble. She is an artist and writer and wo
- rks at the London Buddhist Centre.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-3-apr-buddhist
- -lives
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Spring Retreat
 DTSTART;TZID=Europe/London:20260403T193000
 DTEND;TZID=Europe/London:20260403T130000
@@ -110,5 +58,59 @@ UID:5dfd1aa7c68d7a15c61e875f@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-4-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Eating:
+DTSTART;TZID=Europe/London:20260404T103000
+DTEND;TZID=Europe/London:20260404T130000
+UID:5d0ceaf755d573c28cffcaf5@lbc-ics
+DESCRIPTION:Join us for a practical and nourishing online workshop explori
+ ng what it really means to eat mindfully — to slow down\, pay attention\
+ , and experience food through all of our senses. Together we’ll take tim
+ e to notice the many sensations involved in hunger\, eating\, and satisfac
+ tion\, and explore how mindful awareness can transform the way we relate t
+ o food.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-eating-2026-04-0
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260404T113000
+DTEND;TZID=Europe/London:20260404T124500
+UID:eaa74b016f1e45384acccae5@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-4-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260404T130000
+DTEND;TZID=Europe/London:20260404T140000
+UID:7051a829c2f45c3d7fbace42@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-4-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bank Holiday Day Retreat
+DTSTART;TZID=Europe/London:20260406T100000
+DTEND;TZID=Europe/London:20260406T170000
+UID:aab262eb80af33e4956a8d09@lbc-ics
+DESCRIPTION:We'll be spending this April Bank Holiday with a full day of m
+ editation. A great way to use the opportunity to dive into meditation and 
+ take an existing practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/bank-holiday-day-retreat
+ -2026-04-06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260406T120000
+DTEND;TZID=Europe/London:20260406T124500
+UID:7fdb1caeb0bc1517d513e74d@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-6-apr
 END:VEVENT
 END:VCALENDAR
