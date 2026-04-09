@@ -30,66 +30,6 @@ DESCRIPTION:Come on retreat at this time of blossoming and renewal\, and g
 URL:https://www.londonbuddhistcentre.com/whats-on/spring-retreat-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260408T103500
-DTEND;TZID=Europe/London:20260408T123000
-UID:6601443087167564682c643a@lbc-ics
-DESCRIPTION:We will be examining the Ten Fetters\, the inclinations\, atti
- tudes and illusions we must break in order to gain full Enlightenment. Joi
- n in for our regular daytime weekly class of Dharma teaching and meditatio
- n. In person at the LBC and live on Zoom.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-8-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260408T120000
-DTEND;TZID=Europe/London:20260408T124500
-UID:f4adf0dce79425712f68ddb2@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-8-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260408T130000
-DTEND;TZID=Europe/London:20260408T140000
-UID:71fd40631747bb3d170a0931@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-8-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260408T173000
-DTEND;TZID=Europe/London:20260408T183000
-UID:84f980383614eb9b28840273@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-eve-yoga-8-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260408T173000
-DTEND;TZID=Europe/London:20260408T183000
-UID:6709d568f39b56a6a2b75bcd@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-8-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wednesday Night Meditation
-DTSTART;TZID=Europe/London:20260408T191500
-DTEND;TZID=Europe/London:20260408T213000
-UID:26f3ab89c32f50161a47da1a@lbc-ics
-DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
-  approaches to meditation\, try them out and ask questions to experienced 
- meditators.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-8-apr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260409T120000
 DTEND;TZID=Europe/London:20260409T124500
@@ -108,5 +48,69 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-9-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eight Step Recovery Group For Men
+DTSTART;TZID=Europe/London:20260409T170000
+DTEND;TZID=Europe/London:20260409T183000
+UID:e0b12dab637f9b36c848282d@lbc-ics
+DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
+ 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
+ s teachings outlining a suggested course of action for recovery from addic
+ tion\, stinking thinking\, negative mental states\, and compulsive and obs
+ essive behaviours.
+URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
+ men-9-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Class: Meditation & In-Conversation
+DTSTART;TZID=Europe/London:20260409T191500
+DTEND;TZID=Europe/London:20260409T211500
+UID:d80ff515a6680d1b3eb841bb@lbc-ics
+DESCRIPTION:Join us in this lively exploration of the first teaching of th
+ e Buddha - the Four Noble Truths: dukkha (suffering or unsatisfactoriness)
+ \, samudaya (its origin)\, nirodha (the cessation of suffering)\, marga (t
+ he path leading to the cessation of suffering)'
+URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-9-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260410T120000
+DTEND;TZID=Europe/London:20260410T124500
+UID:9427e53ef6d4d7ca421076bb@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-10-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260410T130000
+DTEND;TZID=Europe/London:20260410T140000
+UID:917f79af3b622a5a72467887@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-10-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Restorative Yoga Class
+DTSTART;TZID=Europe/London:20260410T173000
+DTEND;TZID=Europe/London:20260410T183000
+UID:c31a0da6665f0b37641d7f5c@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-10-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Friday Class
+DTSTART;TZID=Europe/London:20260410T191500
+DTEND;TZID=Europe/London:20260410T214500
+UID:4fe99e236f8e95e46a8d601f@lbc-ics
+DESCRIPTION:Join others aged 18–30 for an evening of meditation\, discus
+ sion and reflecting on what is most valuable in life.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-friday-class-2026-
+ 04-10
 END:VEVENT
 END:VCALENDAR
