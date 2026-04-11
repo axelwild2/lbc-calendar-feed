@@ -30,59 +30,6 @@ DESCRIPTION:Come on retreat at this time of blossoming and renewal\, and g
 URL:https://www.londonbuddhistcentre.com/whats-on/spring-retreat-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260410T120000
-DTEND;TZID=Europe/London:20260410T124500
-UID:9427e53ef6d4d7ca421076bb@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-10-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260410T130000
-DTEND;TZID=Europe/London:20260410T140000
-UID:917f79af3b622a5a72467887@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-10-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260410T173000
-DTEND;TZID=Europe/London:20260410T183000
-UID:c31a0da6665f0b37641d7f5c@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-10-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sub30 Friday Class
-DTSTART;TZID=Europe/London:20260410T191500
-DTEND;TZID=Europe/London:20260410T214500
-UID:4fe99e236f8e95e46a8d601f@lbc-ics
-DESCRIPTION:Join others aged 18–30 for an evening of meditation\, discus
- sion and reflecting on what is most valuable in life.
-URL:https://www.londonbuddhistcentre.com/whats-on/sub30-friday-class-2026-
- 04-10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buddhist Lives: Danadhara
-DTSTART;TZID=Europe/London:20260410T191500
-DTEND;TZID=Europe/London:20260410T213000
-UID:c9292ab2d96496fbf56bb849@lbc-ics
-DESCRIPTION:Danadhara (he who holds the quality of generosity) is a Buddhi
- st\, a recovering alcoholic\, an editor and a writer. He is drawn to grati
- tude and exploring compassionate ways in which to respond to the experienc
- es of life. He was born and raised (and lives) in London\, but follows Lee
- ds United Football Club.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-10-apr-buddhis
- t-lives
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260411T100000
 DTEND;TZID=Europe/London:20260411T111500
@@ -110,5 +57,61 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-11-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260411T130000
+DTEND;TZID=Europe/London:20260411T140000
+UID:768a32429ed35be0352c7496@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-11-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Night:
+DTSTART;TZID=Europe/London:20260411T191500
+DTEND;TZID=Europe/London:20260411T213000
+UID:0175c443d4ef007e5962cf00@lbc-ics
+DESCRIPTION:Sound of Metal follows a drummer whose sudden hearing loss for
+ ces him into a profound confrontation with impermanence\, identity\, and a
+ cceptance. It’s a moving\, quietly powerful film about the challenge of 
+ finding peace in the face of loss. Contains frequent use of strong languag
+ e.
+URL:https://www.londonbuddhistcentre.com/whats-on/film-night-2026-04-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQIA+ Sangha Day Retreat
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T160000
+UID:b24d06f4edf89a2382cc14a4@lbc-ics
+DESCRIPTION:A day led by and for people identifying as LGBTQIA+\, with med
+ itation\, talks\, discussion groups and ritual\, focusing on inclusivity a
+ nd deepening friendships. Bring vegan lunch to share.
+URL:https://www.londonbuddhistcentre.com/whats-on/lgbtqia-sangha-day-retre
+ at-apr-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddhism & 12-Step Day
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T170000
+UID:971c25f5a325435079b17494@lbc-ics
+DESCRIPTION:The 12-step programme provides a set of twelve clear steps tow
+ ards addiction recovery. Join us for a day exploring 12-Step Recovery in t
+ he context of Buddhist practice. Through meditation\, talks\, reflection a
+ nd ritual\, we’ll be sharing our experience\, strength and vision.
+URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-12-step-day-202
+ 6-04-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Sunday Class
+DTSTART;TZID=Europe/London:20260412T100000
+DTEND;TZID=Europe/London:20260412T113000
+UID:577d6d83214b15963fafd644@lbc-ics
+DESCRIPTION:Taking place on the second Sunday of every month\, a chance fo
+ r people of colour to come together\, meditate and discuss how the Buddha
+ ’s teachings are relevant to our lives. All levels of experience welcome
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-sunday-
+ class-2026-04-12
 END:VEVENT
 END:VCALENDAR
