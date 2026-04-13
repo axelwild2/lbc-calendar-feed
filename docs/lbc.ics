@@ -17,64 +17,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-mar-202
  6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Spring Retreat
-DTSTART;TZID=Europe/London:20260403T193000
-DTEND;TZID=Europe/London:20260403T130000
-UID:0d350ac75a465387497ca3fc@lbc-ics
-DESCRIPTION:Come on retreat at this time of blossoming and renewal\, and g
- et in touch with value and meaning. We’ll be creating the best possible 
- conditions in which to practise meditation and Buddhism so we can grow tow
- ards our full potential\, and even touch the sacred. With nine days away f
- rom usual routines in beautiful countryside and experiencing communal livi
- ng\, many have found this retreat life-changing.
-URL:https://www.londonbuddhistcentre.com/whats-on/spring-retreat-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQIA+ Sangha Day Retreat
-DTSTART;TZID=Europe/London:20260412T100000
-DTEND;TZID=Europe/London:20260412T160000
-UID:b24d06f4edf89a2382cc14a4@lbc-ics
-DESCRIPTION:A day led by and for people identifying as LGBTQIA+\, with med
- itation\, talks\, discussion groups and ritual\, focusing on inclusivity a
- nd deepening friendships. Bring vegan lunch to share.
-URL:https://www.londonbuddhistcentre.com/whats-on/lgbtqia-sangha-day-retre
- at-apr-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buddhism & 12-Step Day
-DTSTART;TZID=Europe/London:20260412T100000
-DTEND;TZID=Europe/London:20260412T170000
-UID:971c25f5a325435079b17494@lbc-ics
-DESCRIPTION:The 12-step programme provides a set of twelve clear steps tow
- ards addiction recovery. Join us for a day exploring 12-Step Recovery in t
- he context of Buddhist practice. Through meditation\, talks\, reflection a
- nd ritual\, we’ll be sharing our experience\, strength and vision.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-12-step-day-202
- 6-04-12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:People of Colour Sunday Class
-DTSTART;TZID=Europe/London:20260412T100000
-DTEND;TZID=Europe/London:20260412T113000
-UID:577d6d83214b15963fafd644@lbc-ics
-DESCRIPTION:Taking place on the second Sunday of every month\, a chance fo
- r people of colour to come together\, meditate and discuss how the Buddha
- ’s teachings are relevant to our lives. All levels of experience welcome
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-sunday-
- class-2026-04-12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Death Cafe
-DTSTART;TZID=Europe/London:20260412T144500
-DTEND;TZID=Europe/London:20260412T170000
-UID:441e6487d22a293e548bb517@lbc-ics
-DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
- the only inevitable thing in life. Death cafes offer an opportunity to sha
- re with others our experiences\, ideas and feelings about death and dying.
-URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-apr-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260413T120000
 DTEND;TZID=Europe/London:20260413T124500
@@ -114,5 +56,56 @@ DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
   application in the modern world. Join us for an evening of meditation\, d
  iscussion and Dharma teaching.
 URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-13-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260414T120000
+DTEND;TZID=Europe/London:20260414T124500
+UID:fe1f38e1e005da6f0639b4ae@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-14-apr-c150e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260414T130000
+DTEND;TZID=Europe/London:20260414T140000
+UID:20729e9adda58b4e75ff4c9e@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-14-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260414T141500
+DTEND;TZID=Europe/London:20260414T150000
+UID:34da9102facb7047bbdab750@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the Car
+ etakers in looking after the fabric of the centre. A wonderful way to give
+  back\, and contribute practically to the LBC!
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-14-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Kung
+DTSTART;TZID=Europe/London:20260414T173000
+DTEND;TZID=Europe/London:20260414T183000
+UID:5d661ee9d2c407c5922d3775@lbc-ics
+DESCRIPTION:Chi Kung is an ancient Chinese system of exercises that help u
+ s contact and harness energy in the body\, and can be a great way to prepa
+ re for meditation. Join us for a beginner-friendly session led by Serene. 
+ No experience necessary.
+URL:https://www.londonbuddhistcentre.com/whats-on/chi-kung-21-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260414T191500
+DTEND;TZID=Europe/London:20260414T213000
+UID:9b094b3312d1ff976ec59255@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-14-apr
 END:VEVENT
 END:VCALENDAR
