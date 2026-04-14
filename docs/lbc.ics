@@ -18,47 +18,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-mar-202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260413T120000
-DTEND;TZID=Europe/London:20260413T124500
-UID:c240df8dec47a6f78c836ad6@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-13-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260413T130000
-DTEND;TZID=Europe/London:20260413T140000
-UID:dc800ef409b1148cc4063afc@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-13-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260413T173000
-DTEND;TZID=Europe/London:20260413T183000
-UID:2df358a7ec48cfb0adb0e6ed@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-13-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260413T191500
-DTEND;TZID=Europe/London:20260413T214500
-UID:1ebd0782cd3748f55845a6b1@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-13-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260414T120000
 DTEND;TZID=Europe/London:20260414T124500
 UID:fe1f38e1e005da6f0639b4ae@lbc-ics
@@ -107,5 +66,46 @@ DESCRIPTION:You can either learn to meditate from scratch and develop the
  foundations for a daily practice or join the regulars to build on what you
   know and discover how to apply Wisdom reflections in meditation.
 URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-14-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260415T103500
+DTEND;TZID=Europe/London:20260415T123000
+UID:2944c50f4e3e3f4888bd5f08@lbc-ics
+DESCRIPTION:We will be examining the Ten Fetters\, the inclinations\, atti
+ tudes and illusions we must break in order to gain full Enlightenment. Joi
+ n in for our regular daytime weekly class of Dharma teaching and meditatio
+ n. In person at the LBC and live on Zoom.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-15-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260415T120000
+DTEND;TZID=Europe/London:20260415T124500
+UID:34ed0fdcff1dcdb162a8ed29@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-15-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260415T130000
+DTEND;TZID=Europe/London:20260415T140000
+UID:7086acd75c3943ac4bbf0478@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-15-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260415T173000
+DTEND;TZID=Europe/London:20260415T183000
+UID:87c7391cc7556c7742a39f77@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/wed-eve-yoga-15-apr
 END:VEVENT
 END:VCALENDAR
