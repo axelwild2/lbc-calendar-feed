@@ -30,50 +30,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-wheel-of-life-apr-20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260416T120000
-DTEND;TZID=Europe/London:20260416T124500
-UID:28c8da01a534fa0221ee78ce@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-16-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260416T130000
-DTEND;TZID=Europe/London:20260416T140000
-UID:300dcbb33be9ee2f0baa192e@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-16-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eight Step Recovery Group For Men
-DTSTART;TZID=Europe/London:20260416T170000
-DTEND;TZID=Europe/London:20260416T183000
-UID:698e35d47a9abeb5b2a92fad@lbc-ics
-DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
- 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
- s teachings outlining a suggested course of action for recovery from addic
- tion\, stinking thinking\, negative mental states\, and compulsive and obs
- essive behaviours.
-URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
- men-16-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thursday Night Class: Meditation & In-Conversation
-DTSTART;TZID=Europe/London:20260416T191500
-DTEND;TZID=Europe/London:20260416T211500
-UID:13042badfaaa55706d29d6d5@lbc-ics
-DESCRIPTION:Join us in this lively exploration of the first teaching of th
- e Buddha - the Four Noble Truths: dukkha (suffering or unsatisfactoriness)
- \, samudaya (its origin)\, nirodha (the cessation of suffering)\, marga (t
- he path leading to the cessation of suffering)'
-URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-16-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260417T120000
 DTEND;TZID=Europe/London:20260417T124500
 UID:86a47cc60c14c6d87b3cf4c9@lbc-ics
@@ -112,5 +68,43 @@ DESCRIPTION:End the week in person at the LBC with an inspiring evening of
   basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
  ices.
 URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-17-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T111500
+UID:7fd2fa3a051d37513137ba0d@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-18-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260418T103000
+DTEND;TZID=Europe/London:20260418T123000
+UID:f4ae236f2144116ab5be6f4e@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-18-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260418T113000
+DTEND;TZID=Europe/London:20260418T124500
+UID:f6e97b2d2956c9ddf20e547e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-18-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260418T130000
+DTEND;TZID=Europe/London:20260418T140000
+UID:5abfcd1ceb9badf8318d81fc@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-18-apr
 END:VEVENT
 END:VCALENDAR
