@@ -29,47 +29,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-wheel-of-life-apr-20
  26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260417T120000
-DTEND;TZID=Europe/London:20260417T124500
-UID:86a47cc60c14c6d87b3cf4c9@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-17-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260417T130000
-DTEND;TZID=Europe/London:20260417T140000
-UID:920af4fd8991308899f5ec39@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-17-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260417T173000
-DTEND;TZID=Europe/London:20260417T183000
-UID:c7b52dab9922187d59d4bb21@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-17-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260417T191500
-DTEND;TZID=Europe/London:20260417T213000
-UID:26bf39e305f0d66c5ecc098b@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-17-apr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260418T100000
 DTEND;TZID=Europe/London:20260418T111500
@@ -106,5 +65,53 @@ UID:5abfcd1ceb9badf8318d81fc@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-18-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Special Events Week: The Secret Valley
+DTSTART;TZID=Europe/London:20260418T174500
+DTEND;TZID=Europe/London:20260418T213000
+UID:955b053d15923300278b22c7@lbc-ics
+DESCRIPTION:This April\, the London Buddhist Centre is hosting a week-long
+  series of fundraising events - including talks\, discussions\, candlelit 
+ dinners\, live music\, a triathlon\, and a ceilidh - to support Guhyaloka\
+ , the men’s ordination retreat centre in southern Spain.
+URL:https://www.londonbuddhistcentre.com/whats-on/guhyaloka-fundraising-we
+ ek-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Night: Enter the Secret Valley
+DTSTART;TZID=Europe/London:20260418T180000
+DTEND;TZID=Europe/London:20260418T213000
+UID:4ad4dd28c00e756bb9b60903@lbc-ics
+DESCRIPTION:"Enter The Secret Valley: The Pioneers of Guhyaloka" film scre
+ ening capturing the energy and trials and tribulatins of a group of young 
+ men on a mission to create a new world in a remote Spanish Valley. Doors O
+ pen 6pm options to bring snacks or food to share. Film Starts 7pm. Hosted 
+ by Dayanatha
+URL:https://www.londonbuddhistcentre.com/whats-on/candlelit-dinner-film-sc
+ reening
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Day Retreat
+DTSTART;TZID=Europe/London:20260419T103000
+DTEND;TZID=Europe/London:20260419T163000
+UID:e08d816063acd230beb52767@lbc-ics
+DESCRIPTION:A chance for people of African\, Asian or mixed heritage to co
+ me together and draw inspiration from the Buddha’s teaching\, with a ful
+ l day of meditation and ritual. Suitable for newcomers as well as those wi
+ th experience of meditation practice. Bring a vegan lunch to share.
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-day-ret
+ reat-2026-04-19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Morning for Teens
+DTSTART;TZID=Europe/London:20260419T110000
+DTEND;TZID=Europe/London:20260419T133000
+UID:ab542029c92ba464f5ffdced@lbc-ics
+DESCRIPTION:Being a teenager in London can feel like a constant balancing 
+ act. On the 2nd Sunday of every month\, we’re opening the doors of the L
+ BC to 13–17 year olds for a different kind of Sunday morning.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-morning-for-teen
+ s-2026-04-19
 END:VEVENT
 END:VCALENDAR
