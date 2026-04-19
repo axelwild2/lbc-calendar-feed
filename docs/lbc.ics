@@ -29,44 +29,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-wheel-of-life-apr-20
  26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260418T100000
-DTEND;TZID=Europe/London:20260418T111500
-UID:7fd2fa3a051d37513137ba0d@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-18-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260418T103000
-DTEND;TZID=Europe/London:20260418T123000
-UID:f4ae236f2144116ab5be6f4e@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-18-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260418T113000
-DTEND;TZID=Europe/London:20260418T124500
-UID:f6e97b2d2956c9ddf20e547e@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-18-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260418T130000
-DTEND;TZID=Europe/London:20260418T140000
-UID:5abfcd1ceb9badf8318d81fc@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-18-apr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Special Events Week: The Secret Valley
 DTSTART;TZID=Europe/London:20260418T174500
 DTEND;TZID=Europe/London:20260418T213000
@@ -77,19 +39,6 @@ DESCRIPTION:This April\, the London Buddhist Centre is hosting a week-long
  , the men’s ordination retreat centre in southern Spain.
 URL:https://www.londonbuddhistcentre.com/whats-on/guhyaloka-fundraising-we
  ek-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Film Night: Enter the Secret Valley
-DTSTART;TZID=Europe/London:20260418T180000
-DTEND;TZID=Europe/London:20260418T213000
-UID:4ad4dd28c00e756bb9b60903@lbc-ics
-DESCRIPTION:"Enter The Secret Valley: The Pioneers of Guhyaloka" film scre
- ening capturing the energy and trials and tribulatins of a group of young 
- men on a mission to create a new world in a remote Spanish Valley. Doors O
- pen 6pm options to bring snacks or food to share. Film Starts 7pm. Hosted 
- by Dayanatha
-URL:https://www.londonbuddhistcentre.com/whats-on/candlelit-dinner-film-sc
- reening
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:People of Colour Day Retreat
@@ -113,5 +62,58 @@ DESCRIPTION:Being a teenager in London can feel like a constant balancing
  BC to 13–17 year olds for a different kind of Sunday morning.
 URL:https://www.londonbuddhistcentre.com/whats-on/mindful-morning-for-teen
  s-2026-04-19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Restorative Yoga Afternoon
+DTSTART;TZID=Europe/London:20260419T150000
+DTEND;TZID=Europe/London:20260419T170000
+UID:2174f951b08c97fe685ad76c@lbc-ics
+DESCRIPTION:A quiet afternoon of Restorative Yoga and Yoga Nidra to renew 
+ our energy and vitality. We'll be brightening our mind and body and findin
+ g our inner Spring.
+URL:https://www.londonbuddhistcentre.com/whats-on/spring-restorative-yoga-
+ afternoon-2026-04-19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Send Off
+DTSTART;TZID=Europe/London:20260419T180000
+DTEND;TZID=Europe/London:20260419T213000
+UID:964e053505d1985041b6d500@lbc-ics
+DESCRIPTION:An event for men who have asked for Ordination and Order Membe
+ rs to come together to mark the sending off of the men who will be Ordaine
+ d this Summer. Alfie\, Oscar\, Patrick\, Simon\, Thomas and Wayne will spe
+ ak to us about their path so far and we’ll hear the latest update from P
+ admasagara on the state of Guhyaloka.
+URL:https://www.londonbuddhistcentre.com/whats-on/the-send-off
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260420T120000
+DTEND;TZID=Europe/London:20260420T124500
+UID:59a7acfd33626a124bb701c2@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-20-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260420T130000
+DTEND;TZID=Europe/London:20260420T140000
+UID:767c8843ba5b989935a26afa@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-20-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260420T173000
+DTEND;TZID=Europe/London:20260420T183000
+UID:f1feaa60625e124f9fa17620@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-20-apr
 END:VEVENT
 END:VCALENDAR
