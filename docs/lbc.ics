@@ -41,52 +41,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/guhyaloka-fundraising-we
  ek-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:People of Colour Day Retreat
-DTSTART;TZID=Europe/London:20260419T103000
-DTEND;TZID=Europe/London:20260419T163000
-UID:e08d816063acd230beb52767@lbc-ics
-DESCRIPTION:A chance for people of African\, Asian or mixed heritage to co
- me together and draw inspiration from the Buddha’s teaching\, with a ful
- l day of meditation and ritual. Suitable for newcomers as well as those wi
- th experience of meditation practice. Bring a vegan lunch to share.
-URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-day-ret
- reat-2026-04-19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Morning for Teens
-DTSTART;TZID=Europe/London:20260419T110000
-DTEND;TZID=Europe/London:20260419T133000
-UID:ab542029c92ba464f5ffdced@lbc-ics
-DESCRIPTION:Being a teenager in London can feel like a constant balancing 
- act. On the 2nd Sunday of every month\, we’re opening the doors of the L
- BC to 13–17 year olds for a different kind of Sunday morning.
-URL:https://www.londonbuddhistcentre.com/whats-on/mindful-morning-for-teen
- s-2026-04-19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring Restorative Yoga Afternoon
-DTSTART;TZID=Europe/London:20260419T150000
-DTEND;TZID=Europe/London:20260419T170000
-UID:2174f951b08c97fe685ad76c@lbc-ics
-DESCRIPTION:A quiet afternoon of Restorative Yoga and Yoga Nidra to renew 
- our energy and vitality. We'll be brightening our mind and body and findin
- g our inner Spring.
-URL:https://www.londonbuddhistcentre.com/whats-on/spring-restorative-yoga-
- afternoon-2026-04-19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Send Off
-DTSTART;TZID=Europe/London:20260419T180000
-DTEND;TZID=Europe/London:20260419T213000
-UID:964e053505d1985041b6d500@lbc-ics
-DESCRIPTION:An event for men who have asked for Ordination and Order Membe
- rs to come together to mark the sending off of the men who will be Ordaine
- d this Summer. Alfie\, Oscar\, Patrick\, Simon\, Thomas and Wayne will spe
- ak to us about their path so far and we’ll hear the latest update from P
- admasagara on the state of Guhyaloka.
-URL:https://www.londonbuddhistcentre.com/whats-on/the-send-off
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260420T120000
 DTEND;TZID=Europe/London:20260420T124500
@@ -115,5 +69,45 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-20-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Path to Ordination
+DTSTART;TZID=Europe/London:20260420T191500
+DTEND;TZID=Europe/London:20260420T214500
+UID:d7350376d9680d15a2894172@lbc-ics
+DESCRIPTION:A special Dharma Night with senior teachers Maitreyabandhu and
+  Jnanavaca where they explore Ordination as the path towards finding truth
+  and meaning in a turbulent world.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-20-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260421T120000
+DTEND;TZID=Europe/London:20260421T124500
+UID:5d82a318e8bb59cafa572ffe@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-21-apr-e017d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260421T130000
+DTEND;TZID=Europe/London:20260421T140000
+UID:71512ca9bf43f2080710e5ab@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-21-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260421T141500
+DTEND;TZID=Europe/London:20260421T150000
+UID:7dffd358eee7182980efd3f2@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the Car
+ etakers in looking after the fabric of the centre. A wonderful way to give
+  back\, and contribute practically to the LBC!
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-21-apr
 END:VEVENT
 END:VCALENDAR
