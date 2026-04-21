@@ -42,46 +42,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/guhyaloka-fundraising-we
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260420T120000
-DTEND;TZID=Europe/London:20260420T124500
-UID:59a7acfd33626a124bb701c2@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-20-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260420T130000
-DTEND;TZID=Europe/London:20260420T140000
-UID:767c8843ba5b989935a26afa@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-20-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260420T173000
-DTEND;TZID=Europe/London:20260420T183000
-UID:f1feaa60625e124f9fa17620@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-20-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Path to Ordination
-DTSTART;TZID=Europe/London:20260420T191500
-DTEND;TZID=Europe/London:20260420T214500
-UID:d7350376d9680d15a2894172@lbc-ics
-DESCRIPTION:A special Dharma Night with senior teachers Maitreyabandhu and
-  Jnanavaca where they explore Ordination as the path towards finding truth
-  and meaning in a turbulent world.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-20-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260421T120000
 DTEND;TZID=Europe/London:20260421T124500
 UID:5d82a318e8bb59cafa572ffe@lbc-ics
@@ -109,5 +69,47 @@ DESCRIPTION:Come along after the lunchtime class to work alongside the Car
  etakers in looking after the fabric of the centre. A wonderful way to give
   back\, and contribute practically to the LBC!
 URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-21-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Kung
+DTSTART;TZID=Europe/London:20260421T173000
+DTEND;TZID=Europe/London:20260421T183000
+UID:e568c23558a9bb568a84591d@lbc-ics
+DESCRIPTION:Chi Kung is an ancient Chinese system of exercises that help u
+ s contact and harness energy in the body\, and can be a great way to prepa
+ re for meditation. Join us for a beginner-friendly session led by Serene. 
+ No experience necessary.
+URL:https://www.londonbuddhistcentre.com/whats-on/chi-kung-14-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260421T191500
+DTEND;TZID=Europe/London:20260421T213000
+UID:7179ad710f7bf93cc56afb56@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-21-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260422T103500
+DTEND;TZID=Europe/London:20260422T123000
+UID:57f71e4a5a44136ce02aaac7@lbc-ics
+DESCRIPTION:We will be examining the Ten Fetters\, the inclinations\, atti
+ tudes and illusions we must break in order to gain full Enlightenment. Joi
+ n in for our regular daytime weekly class of Dharma teaching and meditatio
+ n. In person at the LBC and live on Zoom.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-22-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260422T120000
+DTEND;TZID=Europe/London:20260422T124500
+UID:9cebe5b9979504bde9ef374e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-22-apr
 END:VEVENT
 END:VCALENDAR
