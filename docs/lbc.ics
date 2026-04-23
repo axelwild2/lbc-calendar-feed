@@ -41,66 +41,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/guhyaloka-fundraising-we
  ek-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260422T103500
-DTEND;TZID=Europe/London:20260422T123000
-UID:57f71e4a5a44136ce02aaac7@lbc-ics
-DESCRIPTION:We will be examining the Ten Fetters\, the inclinations\, atti
- tudes and illusions we must break in order to gain full Enlightenment. Joi
- n in for our regular daytime weekly class of Dharma teaching and meditatio
- n. In person at the LBC and live on Zoom.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-22-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260422T120000
-DTEND;TZID=Europe/London:20260422T124500
-UID:9cebe5b9979504bde9ef374e@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-22-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260422T130000
-DTEND;TZID=Europe/London:20260422T140000
-UID:a11fea3486409908853ea849@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-22-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260422T173000
-DTEND;TZID=Europe/London:20260422T183000
-UID:2bba0b68b14c8073105a50c5@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-eve-yoga-22-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260422T173000
-DTEND;TZID=Europe/London:20260422T183000
-UID:2a6e12208a87d22e6e3edf88@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-22-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wednesday Night Meditation
-DTSTART;TZID=Europe/London:20260422T191500
-DTEND;TZID=Europe/London:20260422T213000
-UID:d5cfca5ea168650e405b5969@lbc-ics
-DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
-  approaches to meditation\, try them out and ask questions to experienced 
- meditators.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-22-apr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260423T120000
 DTEND;TZID=Europe/London:20260423T124500
@@ -109,5 +49,71 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-23-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260423T130000
+DTEND;TZID=Europe/London:20260423T140000
+UID:989ebad2882ba0cb74b8b760@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-23-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eight Step Recovery Group For Men
+DTSTART;TZID=Europe/London:20260423T170000
+DTEND;TZID=Europe/London:20260423T183000
+UID:ba5c311c4029e2643aec9b24@lbc-ics
+DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
+ 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
+ s teachings outlining a suggested course of action for recovery from addic
+ tion\, stinking thinking\, negative mental states\, and compulsive and obs
+ essive behaviours.
+URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
+ men-23-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maitreyabandhu & Suvajra on the Meaning of Commitment
+DTSTART;TZID=Europe/London:20260423T191500
+DTEND;TZID=Europe/London:20260423T213000
+UID:5363835eb20737d5ef7ddbb6@lbc-ics
+DESCRIPTION:What does it mean to be a disciple in the Buddhist tradition? 
+ Suvajra ordained Maitreyabandhu into the Triratna Buddhist Order\, and the
+ ir long-standing teacher–student relationship brings inspiring insights 
+ into how spiritual friendship can be. Maitreyabandhu will interview Suvajr
+ a on what discipleship has meant in his own experience - how guidance\, tr
+ ust\, and spiritual friendship shape a life of practice.
+URL:https://www.londonbuddhistcentre.com/whats-on/discipleship-in-buddhism
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260424T120000
+DTEND;TZID=Europe/London:20260424T124500
+UID:9b0099b48fe511a390b8dad6@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-24-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260424T130000
+DTEND;TZID=Europe/London:20260424T140000
+UID:c2f6079c168f88cddac3306b@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-24-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Restorative Yoga Class
+DTSTART;TZID=Europe/London:20260424T173000
+DTEND;TZID=Europe/London:20260424T183000
+UID:08c5c5ccca806e6b2fedc406@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-24-apr
 END:VEVENT
 END:VCALENDAR
