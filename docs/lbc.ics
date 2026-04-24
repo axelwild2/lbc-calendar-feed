@@ -42,52 +42,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/guhyaloka-fundraising-we
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260423T120000
-DTEND;TZID=Europe/London:20260423T124500
-UID:1a0f88e03dc7a944c6f78796@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-23-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260423T130000
-DTEND;TZID=Europe/London:20260423T140000
-UID:989ebad2882ba0cb74b8b760@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-23-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eight Step Recovery Group For Men
-DTSTART;TZID=Europe/London:20260423T170000
-DTEND;TZID=Europe/London:20260423T183000
-UID:ba5c311c4029e2643aec9b24@lbc-ics
-DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
- 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
- s teachings outlining a suggested course of action for recovery from addic
- tion\, stinking thinking\, negative mental states\, and compulsive and obs
- essive behaviours.
-URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
- men-23-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maitreyabandhu & Suvajra on the Meaning of Commitment
-DTSTART;TZID=Europe/London:20260423T191500
-DTEND;TZID=Europe/London:20260423T213000
-UID:5363835eb20737d5ef7ddbb6@lbc-ics
-DESCRIPTION:What does it mean to be a disciple in the Buddhist tradition? 
- Suvajra ordained Maitreyabandhu into the Triratna Buddhist Order\, and the
- ir long-standing teacher–student relationship brings inspiring insights 
- into how spiritual friendship can be. Maitreyabandhu will interview Suvajr
- a on what discipleship has meant in his own experience - how guidance\, tr
- ust\, and spiritual friendship shape a life of practice.
-URL:https://www.londonbuddhistcentre.com/whats-on/discipleship-in-buddhism
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260424T120000
 DTEND;TZID=Europe/London:20260424T124500
 UID:9b0099b48fe511a390b8dad6@lbc-ics
@@ -115,5 +69,46 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-24-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Class Special: Live Music & Mocktails
+DTSTART;TZID=Europe/London:20260424T180000
+DTEND;TZID=Europe/London:20260424T220000
+UID:5dfad4799df96322d72fcfed@lbc-ics
+DESCRIPTION:The Mandala Café becomes a mocktail bar serving a creative ra
+ nge of mood-enhancing alcohol-free drinks. We'll mingle in the cafe/bar an
+ d then make our way over to the LBC to hear the bands play in the shrine r
+ oom space. Followed by further drinks in the Mandala Café.
+URL:https://www.londonbuddhistcentre.com/whats-on/the-bar-do-af-cocktail-b
+ ar-live-music
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T111500
+UID:0be5478d1830fed2da0f4112@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-25-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260425T103000
+DTEND;TZID=Europe/London:20260425T123000
+UID:61be6a0f33c3fb837f2d817a@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-25-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260425T113000
+DTEND;TZID=Europe/London:20260425T124500
+UID:3130411af7ac974d97c00ed7@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-25-apr
 END:VEVENT
 END:VCALENDAR
