@@ -41,48 +41,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/guhyaloka-fundraising-we
  ek-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260424T120000
-DTEND;TZID=Europe/London:20260424T124500
-UID:9b0099b48fe511a390b8dad6@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-24-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260424T130000
-DTEND;TZID=Europe/London:20260424T140000
-UID:c2f6079c168f88cddac3306b@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-24-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260424T173000
-DTEND;TZID=Europe/London:20260424T183000
-UID:08c5c5ccca806e6b2fedc406@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-24-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class Special: Live Music & Mocktails
-DTSTART;TZID=Europe/London:20260424T180000
-DTEND;TZID=Europe/London:20260424T220000
-UID:5dfad4799df96322d72fcfed@lbc-ics
-DESCRIPTION:The Mandala Café becomes a mocktail bar serving a creative ra
- nge of mood-enhancing alcohol-free drinks. We'll mingle in the cafe/bar an
- d then make our way over to the LBC to hear the bands play in the shrine r
- oom space. Followed by further drinks in the Mandala Café.
-URL:https://www.londonbuddhistcentre.com/whats-on/the-bar-do-af-cocktail-b
- ar-live-music
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260425T100000
 DTEND;TZID=Europe/London:20260425T111500
@@ -110,5 +68,46 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-25-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260425T130000
+DTEND;TZID=Europe/London:20260425T140000
+UID:af22dd3f1596035e631fc1d9@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-25-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ceilidh & Skills Auction
+DTSTART;TZID=Europe/London:20260425T191500
+DTEND;TZID=Europe/London:20260425T220000
+UID:fc2bf93eb26c913b7b015a4e@lbc-ics
+DESCRIPTION:A lively ceilidh at the Methodist Church\, Bethnal Green\, wit
+ h food and an auction of some of the most sought-after skills the sangha h
+ as to offer. All welcome - no previous experience needed.
+URL:https://www.londonbuddhistcentre.com/whats-on/ceilidh-skills-auction
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men’s Event with Vidyadaka
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T130000
+UID:9a4f5e2aabf09763849dcd3f@lbc-ics
+DESCRIPTION:Vidyadaka who lives at Padmaloka\, the ordination retreat cent
+ re for men\, will be leading the special men's event\, where he will talk 
+ about the significance of Ordination. Followed by a chef prepared dinner a
+ t the Mandala cafe.
+URL:https://www.londonbuddhistcentre.com/whats-on/men-s-event-with-vidyada
+ ka-2026-04-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddhist Sunday School
+DTSTART;TZID=Europe/London:20260426T103000
+DTEND;TZID=Europe/London:20260426T123000
+UID:25e03f80d633c24a5ad7d5cb@lbc-ics
+DESCRIPTION:Encouraging and developing children’s mindfulness and kindne
+ ss through Buddhist teaching\, practice\, storytelling and crafts.
+URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
+ 026-04-26
 END:VEVENT
 END:VCALENDAR
