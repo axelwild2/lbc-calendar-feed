@@ -41,54 +41,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/guhyaloka-fundraising-we
  ek-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260425T100000
-DTEND;TZID=Europe/London:20260425T111500
-UID:0be5478d1830fed2da0f4112@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-25-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260425T103000
-DTEND;TZID=Europe/London:20260425T123000
-UID:61be6a0f33c3fb837f2d817a@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-25-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260425T113000
-DTEND;TZID=Europe/London:20260425T124500
-UID:3130411af7ac974d97c00ed7@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-25-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260425T130000
-DTEND;TZID=Europe/London:20260425T140000
-UID:af22dd3f1596035e631fc1d9@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-25-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ceilidh & Skills Auction
-DTSTART;TZID=Europe/London:20260425T191500
-DTEND;TZID=Europe/London:20260425T220000
-UID:fc2bf93eb26c913b7b015a4e@lbc-ics
-DESCRIPTION:A lively ceilidh at the Methodist Church\, Bethnal Green\, wit
- h food and an auction of some of the most sought-after skills the sangha h
- as to offer. All welcome - no previous experience needed.
-URL:https://www.londonbuddhistcentre.com/whats-on/ceilidh-skills-auction
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men’s Event with Vidyadaka
 DTSTART;TZID=Europe/London:20260426T100000
 DTEND;TZID=Europe/London:20260426T130000
@@ -109,5 +61,56 @@ DESCRIPTION:Encouraging and developing children’s mindfulness and kindne
  ss through Buddhist teaching\, practice\, storytelling and crafts.
 URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
  026-04-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260427T120000
+DTEND;TZID=Europe/London:20260427T124500
+UID:498074dfc5ceb3d30b19e2ea@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-27-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260427T130000
+DTEND;TZID=Europe/London:20260427T140000
+UID:43f4951ddff2a1259dacf586@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-27-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260427T173000
+DTEND;TZID=Europe/London:20260427T183000
+UID:ce94bb70e7299cbbdbae50e7@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-27-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260427T191500
+DTEND;TZID=Europe/London:20260427T214500
+UID:3a25cb40574ef286a4da620f@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-27-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260428T120000
+DTEND;TZID=Europe/London:20260428T124500
+UID:6867d54a4015386a5041e527@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-28-apr-1246f
 END:VEVENT
 END:VCALENDAR
