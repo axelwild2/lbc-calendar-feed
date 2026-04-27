@@ -29,40 +29,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-wheel-of-life-apr-20
  26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Special Events Week: The Secret Valley
-DTSTART;TZID=Europe/London:20260418T174500
-DTEND;TZID=Europe/London:20260418T213000
-UID:955b053d15923300278b22c7@lbc-ics
-DESCRIPTION:This April\, the London Buddhist Centre is hosting a week-long
-  series of fundraising events - including talks\, discussions\, candlelit 
- dinners\, live music\, a triathlon\, and a ceilidh - to support Guhyaloka\
- , the men’s ordination retreat centre in southern Spain.
-URL:https://www.londonbuddhistcentre.com/whats-on/guhyaloka-fundraising-we
- ek-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men’s Event with Vidyadaka
-DTSTART;TZID=Europe/London:20260426T100000
-DTEND;TZID=Europe/London:20260426T130000
-UID:9a4f5e2aabf09763849dcd3f@lbc-ics
-DESCRIPTION:Vidyadaka who lives at Padmaloka\, the ordination retreat cent
- re for men\, will be leading the special men's event\, where he will talk 
- about the significance of Ordination. Followed by a chef prepared dinner a
- t the Mandala cafe.
-URL:https://www.londonbuddhistcentre.com/whats-on/men-s-event-with-vidyada
- ka-2026-04-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buddhist Sunday School
-DTSTART;TZID=Europe/London:20260426T103000
-DTEND;TZID=Europe/London:20260426T123000
-UID:25e03f80d633c24a5ad7d5cb@lbc-ics
-DESCRIPTION:Encouraging and developing children’s mindfulness and kindne
- ss through Buddhist teaching\, practice\, storytelling and crafts.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
- 026-04-26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260427T120000
 DTEND;TZID=Europe/London:20260427T124500
@@ -112,5 +78,36 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-28-apr-1246f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260428T130000
+DTEND;TZID=Europe/London:20260428T140000
+UID:fb181ad7f5ff53d2969a979f@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-28-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260428T141500
+DTEND;TZID=Europe/London:20260428T150000
+UID:814f76aa8882e08708eeef4a@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the Car
+ etakers in looking after the fabric of the centre. A wonderful way to give
+  back\, and contribute practically to the LBC!
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-28-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Kung
+DTSTART;TZID=Europe/London:20260428T173000
+DTEND;TZID=Europe/London:20260428T183000
+UID:88dd4750dbda96ad08cd3cfa@lbc-ics
+DESCRIPTION:Chi Kung is an ancient Chinese system of exercises that help u
+ s contact and harness energy in the body\, and can be a great way to prepa
+ re for meditation. Join us for a beginner-friendly session led by Serene. 
+ No experience necessary.
+URL:https://www.londonbuddhistcentre.com/whats-on/chi-kung-28-apr
 END:VEVENT
 END:VCALENDAR
