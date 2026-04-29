@@ -29,71 +29,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-wheel-of-life-apr-20
  26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260428T120000
-DTEND;TZID=Europe/London:20260428T124500
-UID:6867d54a4015386a5041e527@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-28-apr-1246f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260428T130000
-DTEND;TZID=Europe/London:20260428T140000
-UID:fb181ad7f5ff53d2969a979f@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-28-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20260428T141500
-DTEND;TZID=Europe/London:20260428T150000
-UID:814f76aa8882e08708eeef4a@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the Car
- etakers in looking after the fabric of the centre. A wonderful way to give
-  back\, and contribute practically to the LBC!
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-28-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chi Kung
-DTSTART;TZID=Europe/London:20260428T173000
-DTEND;TZID=Europe/London:20260428T183000
-UID:88dd4750dbda96ad08cd3cfa@lbc-ics
-DESCRIPTION:Chi Kung is an ancient Chinese system of exercises that help u
- s contact and harness energy in the body\, and can be a great way to prepa
- re for meditation. Join us for a beginner-friendly session led by Serene. 
- No experience necessary.
-URL:https://www.londonbuddhistcentre.com/whats-on/chi-kung-28-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PoetryEAST with Jane Hirshfield
-DTSTART;TZID=Europe/London:20260428T183000
-DTEND;TZID=Europe/London:20260428T213000
-UID:e98ba6c7e31a2a551abf81ab@lbc-ics
-DESCRIPTION:A rare chance to meet the American poet\, Jane Hirshfield on h
- er first visit to London since 2007. Jane will be reading from The Asking:
-  New & Selected Poems (2024). She’ll be in conversation with Maitreyaban
- dhu in a special celebration of her work at the Mandala Café. Come for a 
- wonderful vegan meal on sale from 6.30pm\, with the readings and conversat
- ion starting around 7.15pm.
-URL:https://www.londonbuddhistcentre.com/whats-on/poetryeast-with-jane-hir
- shfield
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20260428T191500
-DTEND;TZID=Europe/London:20260428T213000
-UID:a7dcd70ad35368f671ffecf9@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-28-apr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daytime Buddhism & Meditation Class
 DTSTART;TZID=Europe/London:20260429T103500
 DTEND;TZID=Europe/London:20260429T123000
@@ -113,5 +48,64 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-29-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260429T130000
+DTEND;TZID=Europe/London:20260429T140000
+UID:b9c45738632544481f1baf4c@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-29-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260429T173000
+DTEND;TZID=Europe/London:20260429T183000
+UID:5612b3cd6bbdb4b5417b8b14@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/wed-eve-yoga-29-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra Chanting
+DTSTART;TZID=Europe/London:20260429T173000
+DTEND;TZID=Europe/London:20260429T183000
+UID:3b78db5977e3bb5078dd1c1b@lbc-ics
+DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
+  group as a way to going deeper in one's experience.
+URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-29-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wednesday Night Meditation
+DTSTART;TZID=Europe/London:20260429T191500
+DTEND;TZID=Europe/London:20260429T213000
+UID:5f4b69fef8b5d063997d7a5d@lbc-ics
+DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
+  approaches to meditation\, try them out and ask questions to experienced 
+ meditators.
+URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-29-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260430T120000
+DTEND;TZID=Europe/London:20260430T124500
+UID:70c3f64aaa486fd2df37381e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-30-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260430T130000
+DTEND;TZID=Europe/London:20260430T140000
+UID:1edbc41ded9d64881d27c362@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-30-apr
 END:VEVENT
 END:VCALENDAR
