@@ -29,66 +29,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-wheel-of-life-apr-20
  26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260429T103500
-DTEND;TZID=Europe/London:20260429T123000
-UID:c969714816512b23d2b86210@lbc-ics
-DESCRIPTION:We will be examining the Ten Fetters\, the inclinations\, atti
- tudes and illusions we must break in order to gain full Enlightenment. Joi
- n in for our regular daytime weekly class of Dharma teaching and meditatio
- n. In person at the LBC and live on Zoom.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-29-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260429T120000
-DTEND;TZID=Europe/London:20260429T124500
-UID:4e4f944e010fef3925e5dc47@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-29-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260429T130000
-DTEND;TZID=Europe/London:20260429T140000
-UID:b9c45738632544481f1baf4c@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-29-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260429T173000
-DTEND;TZID=Europe/London:20260429T183000
-UID:5612b3cd6bbdb4b5417b8b14@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-eve-yoga-29-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260429T173000
-DTEND;TZID=Europe/London:20260429T183000
-UID:3b78db5977e3bb5078dd1c1b@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-29-apr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wednesday Night Meditation
-DTSTART;TZID=Europe/London:20260429T191500
-DTEND;TZID=Europe/London:20260429T213000
-UID:5f4b69fef8b5d063997d7a5d@lbc-ics
-DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
-  approaches to meditation\, try them out and ask questions to experienced 
- meditators.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-29-apr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260430T120000
 DTEND;TZID=Europe/London:20260430T124500
@@ -107,5 +47,72 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-30-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eight Step Recovery Group For Men
+DTSTART;TZID=Europe/London:20260430T170000
+DTEND;TZID=Europe/London:20260430T183000
+UID:148df402edb00cc1cc2cbac6@lbc-ics
+DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
+ 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
+ s teachings outlining a suggested course of action for recovery from addic
+ tion\, stinking thinking\, negative mental states\, and compulsive and obs
+ essive behaviours.
+URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
+ men-30-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Class: Meditation & In-Conversation
+DTSTART;TZID=Europe/London:20260430T191500
+DTEND;TZID=Europe/London:20260430T211500
+UID:035eb83667f5cb9f7d470c48@lbc-ics
+DESCRIPTION:These pith teachings - such as 'reduce input' and 'don't accep
+ t yourself' - were given to members of our Buddhist Order by its founder\,
+  Bhante Urgyen Sangharakshita. We will continue to celebrate Bhante's life
+  and legacy by exploring these teachings during the centenary of his birth
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-30-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260501T120000
+DTEND;TZID=Europe/London:20260501T124500
+UID:e337275cc83c9f4a0ba6e66d@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-1-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260501T130000
+DTEND;TZID=Europe/London:20260501T140000
+UID:c73149a2611b85aa7c2c9177@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-1-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Restorative Yoga Class
+DTSTART;TZID=Europe/London:20260501T173000
+DTEND;TZID=Europe/London:20260501T183000
+UID:16022556bf1c4c1817565dbb@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-1-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Class
+DTSTART;TZID=Europe/London:20260501T191500
+DTEND;TZID=Europe/London:20260501T213000
+UID:56b43f71b54efa37e522280f@lbc-ics
+DESCRIPTION:Friday 1st of May is a full moon this year\, and in the next i
+ nstalment of the Life and Liberation of Padmasambhava we'll hear how all t
+ he heavenly bodies - Sun\, Moon and Stars - align for our trainee Guru as 
+ he navigates the terrifying but formative Cremation Grounds of northern In
+ dia.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-1-may
 END:VEVENT
 END:VCALENDAR
