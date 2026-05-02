@@ -29,58 +29,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-wheel-of-life-apr-20
  26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260501T120000
-DTEND;TZID=Europe/London:20260501T124500
-UID:e337275cc83c9f4a0ba6e66d@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-1-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260501T130000
-DTEND;TZID=Europe/London:20260501T140000
-UID:c73149a2611b85aa7c2c9177@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-1-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260501T173000
-DTEND;TZID=Europe/London:20260501T183000
-UID:16022556bf1c4c1817565dbb@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-1-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260501T191500
-DTEND;TZID=Europe/London:20260501T213000
-UID:56b43f71b54efa37e522280f@lbc-ics
-DESCRIPTION:Friday 1st of May is a full moon this year\, and in the next i
- nstalment of the Life and Liberation of Padmasambhava we'll hear how all t
- he heavenly bodies - Sun\, Moon and Stars - align for our trainee Guru as 
- he navigates the terrifying but formative Cremation Grounds of northern In
- dia.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-1-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Full Moon Puja
-DTSTART;TZID=Europe/London:20260501T204000
-DTEND;TZID=Europe/London:20260501T213000
-UID:bafb118ed3284821bc0436a1@lbc-ics
-DESCRIPTION:As part of the Friday Night Class\, we’ll come together for 
- a ritual on the full moon.
-URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-2026-05-0
- 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260502T100000
 DTEND;TZID=Europe/London:20260502T111500
@@ -109,5 +57,56 @@ UID:1d76b5c1104c7ae86681f8c3@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-2-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260502T113000
+DTEND;TZID=Europe/London:20260502T124500
+UID:19d83c4e5d0c1bd4e588feef@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-2-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260502T130000
+DTEND;TZID=Europe/London:20260502T140000
+UID:b3bf2f0f68527efa8398d467@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-2-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PoetryEAST with Bernard O'Donoghue
+DTSTART;TZID=Europe/London:20260502T193000
+DTEND;TZID=Europe/London:20260502T214500
+UID:518cd27b18a1cb521b7755c2@lbc-ics
+DESCRIPTION:We’re delighted to welcome Bernard O’Donoghue back to Poet
+ ryEast to be in conversation with Maitreyabandhu about his Selected Poems 
+ (2008) and his new collection with Faber\, The Anchorage (2025).
+URL:https://www.londonbuddhistcentre.com/whats-on/poetryeast-with-bernard-
+ odonoghue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260504T073000
+DTEND;TZID=Europe/London:20260504T083000
+UID:d6f02d55d4f002f49121c382@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-mon-4-may-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260504T120000
+DTEND;TZID=Europe/London:20260504T124500
+UID:7fb0c1d959643c383e690e32@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-4-may
 END:VEVENT
 END:VCALENDAR
