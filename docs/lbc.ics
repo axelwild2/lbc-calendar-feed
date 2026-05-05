@@ -17,58 +17,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-wheel-of-life-apr-20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20260504T073000
-DTEND;TZID=Europe/London:20260504T083000
-UID:d6f02d55d4f002f49121c382@lbc-ics
-DESCRIPTION:This week-long series of guided meditation happens at the star
- t of every month. An opportunity to meditate with others and ask questions
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-mon-4-may-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260504T120000
-DTEND;TZID=Europe/London:20260504T124500
-UID:7fb0c1d959643c383e690e32@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-4-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260504T130000
-DTEND;TZID=Europe/London:20260504T140000
-UID:ba9d0cb2b08059b79289fdb3@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-4-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260504T173000
-DTEND;TZID=Europe/London:20260504T183000
-UID:ad88fe103b5f43ff46129a10@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-4-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260504T191500
-DTEND;TZID=Europe/London:20260504T214500
-UID:0449e9272ba3e54aa882ef45@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-4-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
 DTSTART;TZID=Europe/London:20260505T073000
 DTEND;TZID=Europe/London:20260505T083000
 UID:a6588ccd45f032a819155b57@lbc-ics
@@ -107,5 +55,57 @@ DESCRIPTION:Come along after the lunchtime class to work alongside the Car
  etakers in looking after the fabric of the centre. A wonderful way to give
   back\, and contribute practically to the LBC!
 URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-5-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chi Kung
+DTSTART;TZID=Europe/London:20260505T173000
+DTEND;TZID=Europe/London:20260505T183000
+UID:6d0eecf6a92929b1f0c18765@lbc-ics
+DESCRIPTION:Chi Kung is an ancient Chinese system of exercises that help u
+ s contact and harness energy in the body\, and can be a great way to prepa
+ re for meditation. Join us for a beginner-friendly session led by Serene. 
+ No experience necessary.
+URL:https://www.londonbuddhistcentre.com/whats-on/chi-kung-5-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260505T191500
+DTEND;TZID=Europe/London:20260505T213000
+UID:d81243c7a3f8f4aaa0fd4499@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-5-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mind in Harmony
+DTSTART;TZID=Europe/London:20260505T191500
+DTEND;TZID=Europe/London:20260505T213000
+UID:009790746a5b166c801722bb@lbc-ics
+DESCRIPTION:Long before modern psychology\, the Buddhist tradition develop
+ ed a training manual to help us understand and transform our own minds. Th
+ is six-week course brings that manual to life\, illuminating the processes
+  through which we experience the world.
+URL:https://www.londonbuddhistcentre.com/whats-on/mind-in-harmony-may-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260506T073000
+DTEND;TZID=Europe/London:20260506T083000
+UID:639d2db5ec123098f892bb74@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-wed-6-may-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260506T103500
+DTEND;TZID=Europe/London:20260506T123000
+UID:5a784b904f64dab149036ee8@lbc-ics
+DESCRIPTION:Join in for our regular daytime weekly class of Dharma teachin
+ g and meditation. In person at the LBC and live on Zoom.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-6-may
 END:VEVENT
 END:VCALENDAR
