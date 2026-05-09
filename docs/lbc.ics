@@ -27,58 +27,6 @@ DESCRIPTION:Long before modern psychology\, the Buddhist tradition develop
 URL:https://www.londonbuddhistcentre.com/whats-on/mind-in-harmony-may-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20260508T073000
-DTEND;TZID=Europe/London:20260508T083000
-UID:e070ebc7d4a87e623966d292@lbc-ics
-DESCRIPTION:This week-long series of guided meditation happens at the star
- t of every month. An opportunity to meditate with others and ask questions
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-fri-8-may-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260508T120000
-DTEND;TZID=Europe/London:20260508T124500
-UID:cdf92e6ec46cbb80099a849b@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-8-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260508T130000
-DTEND;TZID=Europe/London:20260508T140000
-UID:a58f28fe4509d65414d10d4d@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-8-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260508T173000
-DTEND;TZID=Europe/London:20260508T183000
-UID:5d84ff4d717549bb2ce4cbde@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-8-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260508T191500
-DTEND;TZID=Europe/London:20260508T213000
-UID:8380ff6ffdc2e7e1f30f6bb7@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-8-may
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260509T100000
 DTEND;TZID=Europe/London:20260509T111500
@@ -106,5 +54,62 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-9-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260509T130000
+DTEND;TZID=Europe/London:20260509T140000
+UID:2c872393d2664cd10d7d634f@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-9-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra & Meditation Sesshin
+DTSTART;TZID=Europe/London:20260509T143000
+DTEND;TZID=Europe/London:20260509T170000
+UID:54a9b96852d091429a78aaff@lbc-ics
+DESCRIPTION:Chanting mantras can be an enlivening and beautiful practice. 
+ Explore how mantra and meditation can support each other\, cultivating pos
+ itive emotion and opening us up to the mystery of Enlightenment.
+URL:https://www.londonbuddhistcentre.com/whats-on/mantra-meditation-sesshi
+ n-21-apr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Night:
+DTSTART;TZID=Europe/London:20260509T191500
+DTEND;TZID=Europe/London:20260509T213000
+UID:8971f19651c5dc3787200896@lbc-ics
+DESCRIPTION:Arrival follows a linguist who must learn to communicate with 
+ extra-terrestrial visitors\, discovering that true understanding requires 
+ deep listening and a willingness to see beyond our limited way of seeing t
+ hings. A moving\, thought-provoking film about connection\, impermanence\,
+  and the choices that shape our lives.
+URL:https://www.londonbuddhistcentre.com/whats-on/film-night-2026-05-09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Sunday Class
+DTSTART;TZID=Europe/London:20260510T100000
+DTEND;TZID=Europe/London:20260510T113000
+UID:5be343689bf6bf17b0ac11d9@lbc-ics
+DESCRIPTION:Taking place on the second Sunday of every month\, a chance fo
+ r people of colour to come together\, meditate and discuss how the Buddha
+ ’s teachings are relevant to our lives. All levels of experience welcome
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-sunday-
+ class-2026-05-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddha Day Festival
+DTSTART;TZID=Europe/London:20260510T103000
+DTEND;TZID=Europe/London:20260510T173000
+UID:5f978f4713254631ca1a1df9@lbc-ics
+DESCRIPTION:All authentic Buddhist practices and teachings stem from the B
+ uddha’s transcendental attainment under the Bodhi tree in northern India
+  two and a half thousand years ago. Buddha Day is especially important for
+  the LBC this year\, as it coincides with the 10th anniversary of the buil
+ ding of our retreat centre\, Vajrasana.
+URL:https://www.londonbuddhistcentre.com/whats-on/buddha-day-festival-2026
+ -05-10
 END:VEVENT
 END:VCALENDAR
