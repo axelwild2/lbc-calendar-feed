@@ -27,64 +27,6 @@ DESCRIPTION:Long before modern psychology\, the Buddhist tradition develop
 URL:https://www.londonbuddhistcentre.com/whats-on/mind-in-harmony-may-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260513T103500
-DTEND;TZID=Europe/London:20260513T123000
-UID:0d248a19034b3efa9057b34e@lbc-ics
-DESCRIPTION:Join in for our regular daytime weekly class of Dharma teachin
- g and meditation. In person at the LBC and live on Zoom.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-13-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260513T120000
-DTEND;TZID=Europe/London:20260513T124500
-UID:8e0bd8debefbdb512d925a81@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-13-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260513T130000
-DTEND;TZID=Europe/London:20260513T140000
-UID:f6f5746afed771856dbea1d9@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-13-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260513T173000
-DTEND;TZID=Europe/London:20260513T183000
-UID:5317b60545b26d35619375dd@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-eve-yoga-13-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260513T173000
-DTEND;TZID=Europe/London:20260513T183000
-UID:bdfb10df81714fe37ed67b9a@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-13-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wednesday Night Meditation
-DTSTART;TZID=Europe/London:20260513T191500
-DTEND;TZID=Europe/London:20260513T213000
-UID:4ff20b3cc310d293248b5351@lbc-ics
-DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
-  approaches to meditation\, try them out and ask questions to experienced 
- meditators.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-13-may
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260514T120000
 DTEND;TZID=Europe/London:20260514T124500
@@ -103,5 +45,75 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-14-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eight Step Recovery Group For Men
+DTSTART;TZID=Europe/London:20260514T170000
+DTEND;TZID=Europe/London:20260514T183000
+UID:64f5f11e526e0ac94f0f55ce@lbc-ics
+DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
+ 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
+ s teachings outlining a suggested course of action for recovery from addic
+ tion\, stinking thinking\, negative mental states\, and compulsive and obs
+ essive behaviours.
+URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
+ men-14-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kum Nye Tibetan Yoga
+DTSTART;TZID=Europe/London:20260514T173000
+DTEND;TZID=Europe/London:20260514T183000
+UID:9561862d3bf26ce72953081a@lbc-ics
+DESCRIPTION:Kum Nye is a Tibetan movement practice\, similar to tai chi or
+  yoga. This taster session explores simple exercises using movement\, brea
+ th and awareness to release tension and develop a deeper sense of ease in 
+ both body and mind. It loosely translates as 'attention to or massage of t
+ he subtle body' and is suitable for all ages and most levels of fitness an
+ d flexibility.
+URL:https://www.londonbuddhistcentre.com/whats-on/kum-nye-tibetan-yoga-tas
+ ter-14-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Class: Meditation & In-Conversation
+DTSTART;TZID=Europe/London:20260514T191500
+DTEND;TZID=Europe/London:20260514T211500
+UID:f6ecfc3fe1e75b1e79329153@lbc-ics
+DESCRIPTION:These pith teachings - such as 'reduce input' and 'don't accep
+ t yourself' - were given to members of our Buddhist Order by its founder\,
+  Bhante Urgyen Sangharakshita. We will continue to celebrate Bhante's life
+  and legacy by exploring these teachings during the centenary of his birth
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-14-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caring for the Temple: Volunteering Session
+DTSTART;TZID=Europe/London:20260515T100000
+DTEND;TZID=Europe/London:20260515T140000
+UID:47180385070feb3cc3cbe810@lbc-ics
+DESCRIPTION:A morning of meditation and caring for the fabric of the Centr
+ e. Join with other volunteers to polish\, sweep and scrub the Temple to a 
+ new brightness. Bring vegan lunch to share.
+URL:https://www.londonbuddhistcentre.com/whats-on/caring-for-the-temple-wo
+ rk-morning-2026-05-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260515T120000
+DTEND;TZID=Europe/London:20260515T124500
+UID:9b6b7ed4e1fb0ccd1a7dd45a@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-15-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260515T130000
+DTEND;TZID=Europe/London:20260515T140000
+UID:a44efb2f4bb0bcaa3911db02@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-15-may
 END:VEVENT
 END:VCALENDAR
