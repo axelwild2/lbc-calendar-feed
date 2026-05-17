@@ -27,44 +27,6 @@ DESCRIPTION:Long before modern psychology\, the Buddhist tradition develop
 URL:https://www.londonbuddhistcentre.com/whats-on/mind-in-harmony-may-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260516T100000
-DTEND;TZID=Europe/London:20260516T111500
-UID:8cf61d3dbc18090ed6d4fb28@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-16-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260516T103000
-DTEND;TZID=Europe/London:20260516T123000
-UID:856083b792a856e2e6b7664f@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-16-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260516T113000
-DTEND;TZID=Europe/London:20260516T124500
-UID:a916956952fb2a8d8b26526a@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-16-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260516T130000
-DTEND;TZID=Europe/London:20260516T140000
-UID:ffe9401c5f5c7b5db3f2d6fb@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-16-may
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buddhism & Deep Ecology Day
 DTSTART;TZID=Europe/London:20260517T100000
 DTEND;TZID=Europe/London:20260517T170000
@@ -106,5 +68,47 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-18-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260518T173000
+DTEND;TZID=Europe/London:20260518T183000
+UID:5db401abd3a9f71350380262@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/mon-eve-yoga-18-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260518T191500
+DTEND;TZID=Europe/London:20260518T214500
+UID:7ed2c4c747d6e44144a0a946@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-18-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Buddhism & Meditation Course
+DTSTART;TZID=Europe/London:20260518T191500
+DTEND;TZID=Europe/London:20260518T214500
+UID:23a79d69a247a0569095621f@lbc-ics
+DESCRIPTION:This six-week course on Monday evenings will introduce you to 
+ key Buddhist principles and two meditation practices that cultivate self-a
+ wareness\, open-heartedness\, and insight.
+URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
+ -meditation-course-may-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260519T120000
+DTEND;TZID=Europe/London:20260519T124500
+UID:4967075f793cdbd114b195b4@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-19-may-2d1ea
 END:VEVENT
 END:VCALENDAR
