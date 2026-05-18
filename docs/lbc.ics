@@ -27,29 +27,6 @@ DESCRIPTION:Long before modern psychology\, the Buddhist tradition develop
 URL:https://www.londonbuddhistcentre.com/whats-on/mind-in-harmony-may-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhism & Deep Ecology Day
-DTSTART;TZID=Europe/London:20260517T100000
-DTEND;TZID=Europe/London:20260517T170000
-UID:7d6eca31d936e01abac01c3c@lbc-ics
-DESCRIPTION:Join Sanghasiha\, Guhyasakhi\, Kavyamani and friends for a day
-  exploring our relationship with the more-than-human world through our Dha
- rma practice. There will be ritual and meditation as well as an introducti
- on to the work of the late American Buddhist teacher\, environmentalist an
- d activist Joanna Macy. Bring vegan lunch to share.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-deep-ecology-da
- y-2026-05-17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Before I Die
-DTSTART;TZID=Europe/London:20260517T100000
-DTEND;TZID=Europe/London:20260517T170000
-UID:5dd09db39ae2a3ba7946f3dc@lbc-ics
-DESCRIPTION:When we turn towards the reality of death\, we can discover a 
- deeper response to life: ours and others. Spend a day exploring your feeli
- ngs and beliefs about death and see what opens up for you.
-URL:https://www.londonbuddhistcentre.com/whats-on/before-i-die-2026-05-17
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260518T120000
 DTEND;TZID=Europe/London:20260518T124500
@@ -110,5 +87,25 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-19-may-2d1ea
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260519T130000
+DTEND;TZID=Europe/London:20260519T140000
+UID:5ba7f35400a1ab971ebd56e3@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-19-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260519T141500
+DTEND;TZID=Europe/London:20260519T150000
+UID:db4ea5d9966cddcaf24290ac@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the Car
+ etakers in looking after the fabric of the centre. A wonderful way to give
+  back\, and contribute practically to the LBC!
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-19-may
 END:VEVENT
 END:VCALENDAR
