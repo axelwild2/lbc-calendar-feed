@@ -26,26 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-may-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260522T120000
-DTEND;TZID=Europe/London:20260522T124500
-UID:9b369ce25a3d813d2bad1425@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-22-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260522T130000
-DTEND;TZID=Europe/London:20260522T140000
-UID:20e79d62b891edc3f38001f7@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-22-may
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:People of Colour Big Weekend
 DTSTART;TZID=Europe/London:20260522T170000
 DTEND;TZID=Europe/London:20260522T160000
@@ -58,27 +38,6 @@ DESCRIPTION:This National Gathering is the biggest event on the People of
   details.
 URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-big-wee
  kend-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260522T173000
-DTEND;TZID=Europe/London:20260522T183000
-UID:167ec7f5e7e894024d77f4f0@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-22-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260522T191500
-DTEND;TZID=Europe/London:20260522T213000
-UID:4ae066b39989c68e61d8caed@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-22-may
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
@@ -108,5 +67,49 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-23-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260523T130000
+DTEND;TZID=Europe/London:20260523T140000
+UID:4ce50cd73d3702cb1ecc9bf9@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-23-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Sound
+DTSTART;TZID=Europe/London:20260523T191500
+DTEND;TZID=Europe/London:20260523T210000
+UID:c38ee10a9fa08519c1634c32@lbc-ics
+DESCRIPTION:Join this listening session\, designed to encourage the develo
+ pment of positive emotion and states of meditative absorption. Through man
+ tra chanting\, singing bowls and wind gong\, Aryavandana and Dayabhadra wi
+ ll offer sound as a devotional practice\, rooted in their shared love of t
+ he Dharma.
+URL:https://www.londonbuddhistcentre.com/whats-on/inside-sound-2026-05-23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transforming Self & World
+DTSTART;TZID=Europe/London:20260524T100000
+DTEND;TZID=Europe/London:20260524T123000
+UID:612c8f57418c8f78c448ed53@lbc-ics
+DESCRIPTION:On this occasion we welcome special guest and friend of the LB
+ C\, Marc Robinson. Marc has spent his career working as a nurse\, midwife\
+ , and humanitarian in the UK\, and in conflicts\, disease outbreaks\, and 
+ natural disasters around the world.
+URL:https://www.londonbuddhistcentre.com/whats-on/transforming-self-world-
+ may-marc-robinson
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death Cafe
+DTSTART;TZID=Europe/London:20260524T144500
+DTEND;TZID=Europe/London:20260524T170000
+UID:20171d4c1e9baf9697a3427b@lbc-ics
+DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
+ the only inevitable thing in life. Death cafes offer an opportunity to sha
+ re with others our experiences\, ideas and feelings about death and dying.
+URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-may-2026
 END:VEVENT
 END:VCALENDAR
