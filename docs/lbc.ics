@@ -40,39 +40,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-big-wee
  kend-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Transforming Self & World
-DTSTART;TZID=Europe/London:20260524T100000
-DTEND;TZID=Europe/London:20260524T123000
-UID:612c8f57418c8f78c448ed53@lbc-ics
-DESCRIPTION:On this occasion we welcome special guest and friend of the LB
- C\, Marc Robinson. Marc has spent his career working as a nurse\, midwife\
- , and humanitarian in the UK\, and in conflicts\, disease outbreaks\, and 
- natural disasters around the world.
-URL:https://www.londonbuddhistcentre.com/whats-on/transforming-self-world-
- may-marc-robinson
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Death Cafe
-DTSTART;TZID=Europe/London:20260524T144500
-DTEND;TZID=Europe/London:20260524T170000
-UID:20171d4c1e9baf9697a3427b@lbc-ics
-DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
- the only inevitable thing in life. Death cafes offer an opportunity to sha
- re with others our experiences\, ideas and feelings about death and dying.
-URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-may-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yin to Yang Yoga Afternoon
-DTSTART;TZID=Europe/London:20260524T150000
-DTEND;TZID=Europe/London:20260524T170000
-UID:3a1459a55c1ceede32a2b81d@lbc-ics
-DESCRIPTION:A longer session of Yoga with a mix of quiet\, receptive poses
-  and more vibrant\, dynamic ones. A chance to rest\, replenish and revital
- ise body and mind leaving us refreshed and uplifted.
-URL:https://www.londonbuddhistcentre.com/whats-on/yin-to-yang-yoga-afterno
- on-led-by-sraddhagita-2026-05-24
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bank Holiday Day Retreat
 DTSTART;TZID=Europe/London:20260525T100000
 DTEND;TZID=Europe/London:20260525T170000
@@ -113,5 +80,36 @@ DESCRIPTION:Join in this mid-week Buddhist retreat for families during the
  n aged 3.5-18 who have attended Sunday School at the LBC.
 URL:https://www.londonbuddhistcentre.com/whats-on/parents-and-childrens-re
  treat-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260525T173000
+DTEND;TZID=Europe/London:20260525T183000
+UID:b2c5020dbd35f4d524e57d3c@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-25-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260525T191500
+DTEND;TZID=Europe/London:20260525T214500
+UID:53963036ce328170227b3d98@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-25-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260526T120000
+DTEND;TZID=Europe/London:20260526T124500
+UID:350194f2ee30af2b2331d164@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-26-may
 END:VEVENT
 END:VCALENDAR
