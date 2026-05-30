@@ -26,58 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-may-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Parents and Children's Retreat
-DTSTART;TZID=Europe/London:20260525T170000
-DTEND;TZID=Europe/London:20260525T130000
-UID:c257d26ffceddaa146da7dd2@lbc-ics
-DESCRIPTION:Join in this mid-week Buddhist retreat for families during the
-  May half-term holiday. This retreat is suitable for families with childre
- n aged 3.5-18 who have attended Sunday School at the LBC.
-URL:https://www.londonbuddhistcentre.com/whats-on/parents-and-childrens-re
- treat-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260529T120000
-DTEND;TZID=Europe/London:20260529T124500
-UID:0a672b93920a88416d5ea5d5@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-29-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260529T130000
-DTEND;TZID=Europe/London:20260529T140000
-UID:7a94fe7aa887777a2c672983@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-29-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260529T173000
-DTEND;TZID=Europe/London:20260529T183000
-UID:77f9ca3b7a3985fca694b70a@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-29-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260529T191500
-DTEND;TZID=Europe/London:20260529T213000
-UID:ef232c31fdcef00a43274e5f@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-29-may
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260530T100000
 DTEND;TZID=Europe/London:20260530T111500
@@ -105,5 +53,59 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-30-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260530T130000
+DTEND;TZID=Europe/London:20260530T140000
+UID:6ff4c4dd8b992a35b23c5115@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-30-may
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hidden Notes
+DTSTART;TZID=Europe/London:20260530T190000
+DTEND;TZID=Europe/London:20260530T220000
+UID:06edcaf4d8505ea8db0a3ebe@lbc-ics
+DESCRIPTION:A night of deep listening and delicious vegan food at the Mand
+ ala Café. Supper will be served at 7pm\, before sitting back to listen to
+  a classic album — revealed only on the night. Dessert and chai served a
+ fterwards.
+URL:https://www.londonbuddhistcentre.com/whats-on/hidden-notes-30-may-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga Festival Day
+DTSTART;TZID=Europe/London:20260531T100000
+DTEND;TZID=Europe/London:20260531T150000
+UID:28c3909b4d673537f71afd48@lbc-ics
+DESCRIPTION:Whether you've been practising for years or you're finding you
+ r way into yoga for the first time\, this day is an open invitation. Yoga 
+ is a delightful counterpart to meditation and Buddhist practice\, it parti
+ cularly helps us to be present in our bodies with kindness.
+URL:https://www.londonbuddhistcentre.com/whats-on/yoga-festival-day-may-20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surreal Still Life Drawing with Stella Murphy
+DTSTART;TZID=Europe/London:20260531T103000
+DTEND;TZID=Europe/London:20260531T130000
+UID:ad8b8e2917713e5d9f730584@lbc-ics
+DESCRIPTION:A relaxed\, beginner-friendly drawing workshop with a playful 
+ twist.
+URL:https://www.londonbuddhistcentre.com/whats-on/surreal-still-life-drawi
+ ng-stella-murphy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260601T073000
+DTEND;TZID=Europe/London:20260601T083000
+UID:cedf3750bd168115620aead9@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-mon-1-jun-26
 END:VEVENT
 END:VCALENDAR
