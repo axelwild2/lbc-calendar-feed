@@ -26,56 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-may-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260530T100000
-DTEND;TZID=Europe/London:20260530T111500
-UID:580856adebf6e2c4cad6a17e@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-30-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260530T103000
-DTEND;TZID=Europe/London:20260530T123000
-UID:a4e62e656ed91a4f5186eb48@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-30-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260530T120000
-DTEND;TZID=Europe/London:20260530T124500
-UID:7b3b0ad437344ffd84fc806c@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-30-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260530T130000
-DTEND;TZID=Europe/London:20260530T140000
-UID:6ff4c4dd8b992a35b23c5115@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-30-may
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hidden Notes
-DTSTART;TZID=Europe/London:20260530T190000
-DTEND;TZID=Europe/London:20260530T220000
-UID:06edcaf4d8505ea8db0a3ebe@lbc-ics
-DESCRIPTION:A night of deep listening and delicious vegan food at the Mand
- ala Café. Supper will be served at 7pm\, before sitting back to listen to
-  a classic album — revealed only on the night. Dessert and chai served a
- fterwards.
-URL:https://www.londonbuddhistcentre.com/whats-on/hidden-notes-30-may-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga Festival Day
 DTSTART;TZID=Europe/London:20260531T100000
 DTEND;TZID=Europe/London:20260531T150000
@@ -107,5 +57,57 @@ DESCRIPTION:This week-long series of guided meditation happens at the star
  .
 URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
  n-mon-1-jun-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260601T120000
+DTEND;TZID=Europe/London:20260601T124500
+UID:6021724e7dbc1894e4025700@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-1-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260601T130000
+DTEND;TZID=Europe/London:20260601T140000
+UID:8911432e9fe6f667e170381f@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-1-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260601T173000
+DTEND;TZID=Europe/London:20260601T183000
+UID:15fb81ef1f3f6847b85a1480@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-1-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260601T191500
+DTEND;TZID=Europe/London:20260601T214500
+UID:c6c21b000df355171338fd12@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-1-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Moon Puja
+DTSTART;TZID=Europe/London:20260601T214500
+DTEND;TZID=Europe/London:20260601T221500
+UID:a07eb5988be71bab2a73aa2f@lbc-ics
+DESCRIPTION:After Dharma Night\, we’ll come together for a short ritual 
+ to mark the full moon. All are welcome to join in\, whether or not you’v
+ e taken part in a Buddhist ritual before.
+URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-01-jun-20
+ 26
 END:VEVENT
 END:VCALENDAR
