@@ -26,28 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-may-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga Festival Day
-DTSTART;TZID=Europe/London:20260531T100000
-DTEND;TZID=Europe/London:20260531T150000
-UID:28c3909b4d673537f71afd48@lbc-ics
-DESCRIPTION:Whether you've been practising for years or you're finding you
- r way into yoga for the first time\, this day is an open invitation. Yoga 
- is a delightful counterpart to meditation and Buddhist practice\, it parti
- cularly helps us to be present in our bodies with kindness.
-URL:https://www.londonbuddhistcentre.com/whats-on/yoga-festival-day-may-20
- 26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surreal Still Life Drawing with Stella Murphy
-DTSTART;TZID=Europe/London:20260531T103000
-DTEND;TZID=Europe/London:20260531T130000
-UID:ad8b8e2917713e5d9f730584@lbc-ics
-DESCRIPTION:A relaxed\, beginner-friendly drawing workshop with a playful 
- twist.
-URL:https://www.londonbuddhistcentre.com/whats-on/surreal-still-life-drawi
- ng-stella-murphy
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Online Morning Meditation
 DTSTART;TZID=Europe/London:20260601T073000
 DTEND;TZID=Europe/London:20260601T083000
@@ -109,5 +87,26 @@ DESCRIPTION:After Dharma Night\, we’ll come together for a short ritual
  e taken part in a Buddhist ritual before.
 URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-01-jun-20
  26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260602T073000
+DTEND;TZID=Europe/London:20260602T083000
+UID:3e0b0136a4563183dd0f4f1e@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-tue-2-jun-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260602T120000
+DTEND;TZID=Europe/London:20260602T124500
+UID:96149c6d70d983cab7f364f7@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-2-jun
 END:VEVENT
 END:VCALENDAR
