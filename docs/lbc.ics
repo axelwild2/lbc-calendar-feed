@@ -38,58 +38,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-j
  un-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20260605T073000
-DTEND;TZID=Europe/London:20260605T083000
-UID:ba9fcfca521d1b886abddc09@lbc-ics
-DESCRIPTION:This week-long series of guided meditation happens at the star
- t of every month. An opportunity to meditate with others and ask questions
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-fri-5-jun-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260605T120000
-DTEND;TZID=Europe/London:20260605T124500
-UID:2a6aa4f6586b0aca2b4a2a18@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-5-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260605T130000
-DTEND;TZID=Europe/London:20260605T140000
-UID:802746ff459a12c1ab380552@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-5-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260605T173000
-DTEND;TZID=Europe/London:20260605T183000
-UID:35465576b00a0179bcbb542d@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-5-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260605T191500
-DTEND;TZID=Europe/London:20260605T213000
-UID:7ceac82a1894576e6b5e87d1@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-5-jun
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LGBTQIA+ Weekend
 DTSTART;TZID=Europe/London:20260605T200000
 DTEND;TZID=Europe/London:20260605T160000
@@ -109,5 +57,58 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-6-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Breakfast Seminar
+DTSTART;TZID=Europe/London:20260606T103000
+DTEND;TZID=Europe/London:20260606T123000
+UID:dbc69ee2ccadda9f39adfa20@lbc-ics
+DESCRIPTION:Join this vibrant monthly seminar for people aged 18–30\, an
+ d explore Buddhist wisdom in the context of the modern world.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-breakfast-seminar-
+ 06-jun-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260606T103000
+DTEND;TZID=Europe/London:20260606T123000
+UID:e36f0f8b225737c5165a40b2@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-6-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260606T113000
+DTEND;TZID=Europe/London:20260606T124500
+UID:91308cf4fd4fdc104ad64b54@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-6-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260606T130000
+DTEND;TZID=Europe/London:20260606T140000
+UID:2d25eb25356816debc3f4086@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-6-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candlelit Social with Irish Trad Music
+DTSTART;TZID=Europe/London:20260606T183000
+DTEND;TZID=Europe/London:20260606T213000
+UID:228f3271d29afa6afa1f82b8@lbc-ics
+DESCRIPTION:Step into a Candlelit Social at the Mandala Café\, featuring 
+ live Irish and Scottish music\, food and drinks. Our house band - Kavyaman
+ i\, Chintamani\, Amalavira\, Pete\, Gregor\, and Ian - will be playing a l
+ ively mix of traditional tunes. Enjoy the relaxed atmosphere with food and
+  drinks available to purchase from the café canteen throughout the evenin
+ g.
+URL:https://www.londonbuddhistcentre.com/whats-on/candlelit-social-06-jun-
+ 2026
 END:VEVENT
 END:VCALENDAR
