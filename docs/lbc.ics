@@ -49,66 +49,64 @@ DESCRIPTION:This is a weekend retreat led by and for people identifying as
 URL:https://www.londonbuddhistcentre.com/whats-on/lgbtqia-weekend-jun-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260606T100000
-DTEND;TZID=Europe/London:20260606T111500
-UID:80b6f6a3c0ab0ceef87dd17a@lbc-ics
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260608T120000
+DTEND;TZID=Europe/London:20260608T124500
+UID:4e20975df3cc6c167b9d92d6@lbc-ics
 DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-6-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sub30 Breakfast Seminar
-DTSTART;TZID=Europe/London:20260606T103000
-DTEND;TZID=Europe/London:20260606T123000
-UID:dbc69ee2ccadda9f39adfa20@lbc-ics
-DESCRIPTION:Join this vibrant monthly seminar for people aged 18–30\, an
- d explore Buddhist wisdom in the context of the modern world.
-URL:https://www.londonbuddhistcentre.com/whats-on/sub30-breakfast-seminar-
- 06-jun-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260606T103000
-DTEND;TZID=Europe/London:20260606T123000
-UID:e36f0f8b225737c5165a40b2@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-6-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260606T113000
-DTEND;TZID=Europe/London:20260606T124500
-UID:91308cf4fd4fdc104ad64b54@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-6-jun
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-8-jun
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260606T130000
-DTEND;TZID=Europe/London:20260606T140000
-UID:2d25eb25356816debc3f4086@lbc-ics
+DTSTART;TZID=Europe/London:20260608T130000
+DTEND;TZID=Europe/London:20260608T140000
+UID:f05e68f7d386c15f76287239@lbc-ics
 DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-6-jun
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-8-jun
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Candlelit Social with Irish Trad Music
-DTSTART;TZID=Europe/London:20260606T183000
-DTEND;TZID=Europe/London:20260606T213000
-UID:228f3271d29afa6afa1f82b8@lbc-ics
-DESCRIPTION:Step into a Candlelit Social at the Mandala Café\, featuring 
- live Irish and Scottish music\, food and drinks. Our house band - Kavyaman
- i\, Chintamani\, Amalavira\, Pete\, Gregor\, and Ian - will be playing a l
- ively mix of traditional tunes. Enjoy the relaxed atmosphere with food and
-  drinks available to purchase from the café canteen throughout the evenin
- g.
-URL:https://www.londonbuddhistcentre.com/whats-on/candlelit-social-06-jun-
- 2026
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260608T173000
+DTEND;TZID=Europe/London:20260608T183000
+UID:2e2a6045ca5ea818370dcb6c@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-8-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260608T191500
+DTEND;TZID=Europe/London:20260608T214500
+UID:a3b5c5fa8d1952a6c7f5aa28@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-8-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260609T120000
+DTEND;TZID=Europe/London:20260609T124500
+UID:ead2e308d2f84c0a598db441@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-9-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260609T130000
+DTEND;TZID=Europe/London:20260609T140000
+UID:533b2578c66d1530a6b1fb83@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-9-jun
 END:VEVENT
 END:VCALENDAR
