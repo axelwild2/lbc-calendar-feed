@@ -38,17 +38,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-j
  un-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LGBTQIA+ Weekend
-DTSTART;TZID=Europe/London:20260605T200000
-DTEND;TZID=Europe/London:20260605T160000
-UID:36b19599155fdf5b9edfb1ed@lbc-ics
-DESCRIPTION:This is a weekend retreat led by and for people identifying as
-  LGBTQIA+. In beautiful surroundings\, we’ll explore the Buddhist vision
-  through meditation\, talks\, discussion groups\, and ritual with a focus 
- on inclusivity and building friendships.
-URL:https://www.londonbuddhistcentre.com/whats-on/lgbtqia-weekend-jun-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260608T120000
 DTEND;TZID=Europe/London:20260608T124500
@@ -108,5 +97,15 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-9-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260609T141500
+DTEND;TZID=Europe/London:20260609T150000
+UID:9a2ba86e455aea8a024a17e1@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the Car
+ etakers in looking after the fabric of the centre. A wonderful way to give
+  back\, and contribute practically to the LBC!
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-9-jun
 END:VEVENT
 END:VCALENDAR
