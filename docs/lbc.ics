@@ -27,57 +27,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-j
  un-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260612T120000
-DTEND;TZID=Europe/London:20260612T124500
-UID:871ca93cd9f32d23e4258e9b@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-12-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260612T130000
-DTEND;TZID=Europe/London:20260612T140000
-UID:aff9532cd378c11a70754c8c@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-12-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260612T173000
-DTEND;TZID=Europe/London:20260612T183000
-UID:38f16f60d42b1164ad57cbe4@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-12-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sub30 Friday Class with Vajratara
-DTSTART;TZID=Europe/London:20260612T191500
-DTEND;TZID=Europe/London:20260612T214500
-UID:3d271ea911e4795c141d8158@lbc-ics
-DESCRIPTION:Join others aged 18–30 for an evening of meditation\, discus
- sion and reflecting on what is most valuable in life.
-URL:https://www.londonbuddhistcentre.com/whats-on/sub30-friday-class-12-06
- -2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260612T191500
-DTEND;TZID=Europe/London:20260612T213000
-UID:be0c229447b1660af09e77cb@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-12-jun
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga for Meditation Weekend
 DTSTART;TZID=Europe/London:20260612T200000
 DTEND;TZID=Europe/London:20260612T160000
@@ -108,5 +57,59 @@ DESCRIPTION:Guest speaker Devamitra explores the life and significance of
  ury\, drawing global attention to the persecution of Buddhists in South Vi
  etnam. He reflects on its meaning today and the heroic ideal in Buddhism.
 URL:https://www.londonbuddhistcentre.com/whats-on/burning-monk-13-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260613T103000
+DTEND;TZID=Europe/London:20260613T123000
+UID:02c7280613f2cf1ac28f5803@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-13-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260613T113000
+DTEND;TZID=Europe/London:20260613T124500
+UID:e66ca54c4619ff874d29b46c@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-13-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260613T130000
+DTEND;TZID=Europe/London:20260613T140000
+UID:9360929696b071b4e9933198@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-13-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kum Nye Tibetan Yoga Workshop
+DTSTART;TZID=Europe/London:20260613T150000
+DTEND;TZID=Europe/London:20260613T170000
+UID:904991b7f9dc36a2cbebc041@lbc-ics
+DESCRIPTION:Kum Nye is a Tibetan movement practice\, similar to tai chi or
+  yoga. This workshop explores simple exercises using movement\, breath and
+  awareness to release tension and develop a deeper sense of ease in both b
+ ody and mind.
+URL:https://www.londonbuddhistcentre.com/whats-on/kum-nye-tibetan-yoga-wor
+ kshop-13-jun-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Night: 8½ (1963)
+DTSTART;TZID=Europe/London:20260613T191500
+DTEND;TZID=Europe/London:20260613T214500
+UID:4616e9296207568bbe013b4e@lbc-ics
+DESCRIPTION:8½ follows a film director who\, overwhelmed by creative bloc
+ k and the pressures of life\, retreats into memories\, dreams\, and fantas
+ ies. Blurring reality and imagination\, the film becomes a playful and pro
+ found reflection on creativity\, identity\, and the struggle to make sense
+  of one’s life.
+URL:https://www.londonbuddhistcentre.com/whats-on/film-night-8-1963-13-jun
+ -2026
 END:VEVENT
 END:VCALENDAR
