@@ -27,47 +27,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-j
  un-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260619T120000
-DTEND;TZID=Europe/London:20260619T124500
-UID:14030dc9a3a8ecdbad0d96ba@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-19-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260619T130000
-DTEND;TZID=Europe/London:20260619T140000
-UID:c05ef81fc160c5163268963d@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-19-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260619T173000
-DTEND;TZID=Europe/London:20260619T183000
-UID:5e80c99760aad5f3a5412abb@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-19-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260619T191500
-DTEND;TZID=Europe/London:20260619T213000
-UID:d97476b6b6073d3676684ddb@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-19-jun
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buddhism & Meditation Weekend
 DTSTART;TZID=Europe/London:20260619T200000
 DTEND;TZID=Europe/London:20260619T160000
@@ -110,5 +69,47 @@ UID:2c45a63715554ff1d0fe0518@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-20-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260620T113000
+DTEND;TZID=Europe/London:20260620T124500
+UID:eb0f4f2e1cc4b47b400ed7f5@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-20-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260620T120000
+DTEND;TZID=Europe/London:20260620T124500
+UID:128efc01f0370a4a7c64e0fa@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-20-jun-3c0b8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260620T130000
+DTEND;TZID=Europe/London:20260620T140000
+UID:f08e515bda95214deb181cdb@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-20-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Writing: Writing to Sculpt the Mind
+DTSTART;TZID=Europe/London:20260620T143000
+DTEND;TZID=Europe/London:20260620T173000
+UID:d92ccebe75987883921ddec3@lbc-ics
+DESCRIPTION:Ansuman Biswas is an established artist and musician practisin
+ g in the Theravadin tradition. In this drop-in live writing session\, he w
+ ill be interviewed by Aryavandana on creativity\, neuroplasticity\, and ho
+ w writing sculpts the mind.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-writing-writing-
+ to-sculpt-the-mind-21-jun-2026
 END:VEVENT
 END:VCALENDAR
