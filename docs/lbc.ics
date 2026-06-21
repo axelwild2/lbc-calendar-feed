@@ -39,16 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-week
  end-jun-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260620T100000
-DTEND;TZID=Europe/London:20260620T111500
-UID:473596ffdd794c3c56711497@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-20-jun
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foundations of Meditation Course
 DTSTART;TZID=Europe/London:20260620T103000
 DTEND;TZID=Europe/London:20260620T123000
@@ -62,54 +52,65 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-jun-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260620T103000
-DTEND;TZID=Europe/London:20260620T123000
-UID:2c45a63715554ff1d0fe0518@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-20-jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260620T113000
-DTEND;TZID=Europe/London:20260620T124500
-UID:eb0f4f2e1cc4b47b400ed7f5@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-20-jun
+SUMMARY:Summer Solstice Restorative Yoga Afternoon
+DTSTART;TZID=Europe/London:20260621T150000
+DTEND;TZID=Europe/London:20260621T170000
+UID:bebf55d1b3e04002d4d45b12@lbc-ics
+DESCRIPTION:On the longest day of the year\, find inner light with yoga cu
+ ltivating warmth and an opening of the heart. This two hour practice will 
+ include a Yoga Nidra to cultivate gratitude and a sense of abundance.
+URL:https://www.londonbuddhistcentre.com/whats-on/summer-solstice-restorat
+ ive-yoga-afternoon-21-jun-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260620T120000
-DTEND;TZID=Europe/London:20260620T124500
-UID:128efc01f0370a4a7c64e0fa@lbc-ics
+DTSTART;TZID=Europe/London:20260622T120000
+DTEND;TZID=Europe/London:20260622T124500
+UID:f64e4547e0e3c1f22c540b08@lbc-ics
 DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-20-jun-3c0b8
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-22-jun
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260620T130000
-DTEND;TZID=Europe/London:20260620T140000
-UID:f08e515bda95214deb181cdb@lbc-ics
+DTSTART;TZID=Europe/London:20260622T130000
+DTEND;TZID=Europe/London:20260622T140000
+UID:822743f17512b08b169a807f@lbc-ics
 DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-20-jun
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-22-jun
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mindful Writing: Writing to Sculpt the Mind
-DTSTART;TZID=Europe/London:20260620T143000
-DTEND;TZID=Europe/London:20260620T173000
-UID:d92ccebe75987883921ddec3@lbc-ics
-DESCRIPTION:Ansuman Biswas is an established artist and musician practisin
- g in the Theravadin tradition. In this drop-in live writing session\, he w
- ill be interviewed by Aryavandana on creativity\, neuroplasticity\, and ho
- w writing sculpts the mind.
-URL:https://www.londonbuddhistcentre.com/whats-on/mindful-writing-writing-
- to-sculpt-the-mind-21-jun-2026
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260622T173000
+DTEND;TZID=Europe/London:20260622T183000
+UID:e458567d47063364ad720f6e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-22-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260622T191500
+DTEND;TZID=Europe/London:20260622T214500
+UID:5d92351f9cbbaf18962ef3bb@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-22-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260623T120000
+DTEND;TZID=Europe/London:20260623T124500
+UID:8ec8e1f5510159a86baec337@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-23-jun
 END:VEVENT
 END:VCALENDAR
