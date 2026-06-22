@@ -27,18 +27,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-j
  un-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhism & Meditation Weekend
-DTSTART;TZID=Europe/London:20260619T200000
-DTEND;TZID=Europe/London:20260619T160000
-UID:0d3716b01de0e220954a42b8@lbc-ics
-DESCRIPTION:Curious about retreats? This introductory weekend is an ideal 
- first taste. Break out of your routine and spend two days learning transfo
- rmative practices\, connecting with others\, and enjoying the beautiful Su
- ffolk countryside.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-week
- end-jun-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foundations of Meditation Course
 DTSTART;TZID=Europe/London:20260620T103000
 DTEND;TZID=Europe/London:20260620T123000
@@ -50,17 +38,6 @@ DESCRIPTION:Think you can't meditate? This course helps you work with your
  nd emotional resilience.
 URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-jun-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer Solstice Restorative Yoga Afternoon
-DTSTART;TZID=Europe/London:20260621T150000
-DTEND;TZID=Europe/London:20260621T170000
-UID:bebf55d1b3e04002d4d45b12@lbc-ics
-DESCRIPTION:On the longest day of the year\, find inner light with yoga cu
- ltivating warmth and an opening of the heart. This two hour practice will 
- include a Yoga Nidra to cultivate gratitude and a sense of abundance.
-URL:https://www.londonbuddhistcentre.com/whats-on/summer-solstice-restorat
- ive-yoga-afternoon-21-jun-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -112,5 +89,25 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-23-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260623T130000
+DTEND;TZID=Europe/London:20260623T140000
+UID:f5aa3f84de475a46f5fa5ea5@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-23-jun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260623T141500
+DTEND;TZID=Europe/London:20260623T150000
+UID:a9726b6501c41160f1e7f2c6@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the Car
+ etakers in looking after the fabric of the centre. A wonderful way to give
+  back\, and contribute practically to the LBC!
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-23-jun
 END:VEVENT
 END:VCALENDAR
