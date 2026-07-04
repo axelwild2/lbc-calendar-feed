@@ -62,55 +62,52 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-o
  nline-jul-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20260703T073000
-DTEND;TZID=Europe/London:20260703T083000
-UID:e9f23e319990fa2b3bdfda61@lbc-ics
-DESCRIPTION:This week-long series of guided meditation happens at the star
- t of every month. An opportunity to meditate with others and ask questions
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-fri-3-jul-26
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260704T100000
+DTEND;TZID=Europe/London:20260704T111500
+UID:beef6494a53a727a6667726c@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-4-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Breakfast Seminar
+DTSTART;TZID=Europe/London:20260704T103000
+DTEND;TZID=Europe/London:20260704T123000
+UID:e6f8e81af4a2eee9152f63d5@lbc-ics
+DESCRIPTION:Join this vibrant monthly seminar for people aged 18–30\, an
+ d explore Buddhist wisdom in the context of the modern world.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-breakfast-seminar-
+ 04-jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260704T103000
+DTEND;TZID=Europe/London:20260704T123000
+UID:6338d7acfdb9d26d798a3a41@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-4-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260704T113000
+DTEND;TZID=Europe/London:20260704T124500
+UID:e23a0546b7f66ddbfc3c3c33@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-4-jul
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260703T120000
-DTEND;TZID=Europe/London:20260703T124500
-UID:f33dcde9c8d42d0bdac616e4@lbc-ics
+DTSTART;TZID=Europe/London:20260704T120000
+DTEND;TZID=Europe/London:20260704T124500
+UID:317e09cf8bfabe63a53d2b34@lbc-ics
 DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-3-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260703T130000
-DTEND;TZID=Europe/London:20260703T140000
-UID:5f48381eb7eb897a48dea4b9@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-3-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260703T173000
-DTEND;TZID=Europe/London:20260703T183000
-UID:a57d8879a4132a10dc36d090@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-3-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260703T191500
-DTEND;TZID=Europe/London:20260703T213000
-UID:3ffd64fcd6c92ba64a4cf2ae@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-3-jul
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-4-jul-0167f
 END:VEVENT
 END:VCALENDAR
