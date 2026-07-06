@@ -29,16 +29,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-jun-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Men's Intensive Retreat
-DTSTART;TZID=Europe/London:20260626T193000
-DTEND;TZID=Europe/London:20260626T130000
-UID:834815cbd2fb8910d683f6cb@lbc-ics
-DESCRIPTION:If you’ve been practising meditation for a few months and wa
- nt a challenge\, our longer men’s retreat is where you’ll find it.
-URL:https://www.londonbuddhistcentre.com/whats-on/mens-intensive-retreat-2
- 026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Introduction to Buddhism & Meditation Course
 DTSTART;TZID=Europe/London:20260629T191500
 DTEND;TZID=Europe/London:20260629T214500
@@ -60,17 +50,6 @@ DESCRIPTION:This eight-week evidence-based course is designed to help you
  ly life.
 URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-o
  nline-jul-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buddhism & Deep Ecology Day
-DTSTART;TZID=Europe/London:20260705T100000
-DTEND;TZID=Europe/London:20260705T170000
-UID:5d87d48014eb1a75eb5d6aa9@lbc-ics
-DESCRIPTION:Join Sanghasiha\, Guhyasakhi and friends for a day retreat exp
- loring our relationship with ourselves\, each other and the other-than-hum
- an world as practitioners.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-deep-ecology-da
- y-05-jul-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -112,5 +91,27 @@ DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
   application in the modern world. Join us for an evening of meditation\, d
  iscussion and Dharma teaching.
 URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-6-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcoming Back New Order Members
+DTSTART;TZID=Europe/London:20260706T191500
+DTEND;TZID=Europe/London:20260706T214500
+UID:bb01d23db10df0ab2414b86c@lbc-ics
+DESCRIPTION:Ordination is a highly significant aspect of the Dharma life w
+ hich has the potential to transform the lives of many. In this celebratory
+  and devotional evening\, we will welcome back ex-Marsha and ex-Ruth from 
+ their recent ordination retreat.
+URL:https://www.londonbuddhistcentre.com/whats-on/welcoming-back-new-order
+ -members-06-jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260707T120000
+DTEND;TZID=Europe/London:20260707T124500
+UID:107a0190482591b30c1ef6b6@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-7-jul
 END:VEVENT
 END:VCALENDAR
