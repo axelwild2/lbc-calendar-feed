@@ -52,47 +52,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-o
  nline-jul-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260710T120000
-DTEND;TZID=Europe/London:20260710T124500
-UID:a72bab71fba8419f9e2f5eab@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-10-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260710T130000
-DTEND;TZID=Europe/London:20260710T140000
-UID:81301ee4ae27420544793f6d@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-10-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260710T173000
-DTEND;TZID=Europe/London:20260710T183000
-UID:3b83f95200e9e0c7e5beb88c@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-10-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260710T191500
-DTEND;TZID=Europe/London:20260710T213000
-UID:630c0a6abf185534cd614f89@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-10-jul
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sub30 Weekend Retreat
 DTSTART;TZID=Europe/London:20260710T200000
 DTEND;TZID=Europe/London:20260710T160000
@@ -113,5 +72,46 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-11-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260711T103000
+DTEND;TZID=Europe/London:20260711T123000
+UID:c909f6a9d2091794020983d0@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-11-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260711T113000
+DTEND;TZID=Europe/London:20260711T124500
+UID:3f8fab23d16d05f56b9528cc@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-11-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260711T130000
+DTEND;TZID=Europe/London:20260711T140000
+UID:520c3dbd25c5018f8e58effb@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-11-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kum Nye Tibetan Yoga Workshop
+DTSTART;TZID=Europe/London:20260711T143000
+DTEND;TZID=Europe/London:20260711T170000
+UID:e53f1f23f0c5331d204fb2d4@lbc-ics
+DESCRIPTION:Kum Nye is a Tibetan movement practice\, similar to tai chi or
+  yoga. This workshop explores simple exercises using movement\, breath and
+  awareness to release tension and develop a deeper sense of ease in both b
+ ody and mind.
+URL:https://www.londonbuddhistcentre.com/whats-on/kum-nye-tibetan-yoga-wor
+ kshop-sat-11-july
 END:VEVENT
 END:VCALENDAR
