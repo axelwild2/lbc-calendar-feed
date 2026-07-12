@@ -16,19 +16,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-j
  un-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foundations of Meditation Course
-DTSTART;TZID=Europe/London:20260620T103000
-DTEND;TZID=Europe/London:20260620T123000
-UID:0b608217b0ca37ac1bd7a6c6@lbc-ics
-DESCRIPTION:Think you can't meditate? This course helps you work with your
-  mind to unlock clarity\, creativity\, and emotional strength. Explore a B
- uddhist vision of life\, build a practical toolbox to get the best out of 
- your mind\, and learn two core meditation approaches: calm concentration a
- nd emotional resilience.
-URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
- n-jun-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Introduction to Buddhism & Meditation Course
 DTSTART;TZID=Europe/London:20260629T191500
 DTEND;TZID=Europe/London:20260629T214500
@@ -64,54 +51,67 @@ URL:https://www.londonbuddhistcentre.com/whats-on/sub30-weekend-retreat-ju
  l-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260711T100000
-DTEND;TZID=Europe/London:20260711T111500
-UID:681ccfc03d408bd4a7bbac82@lbc-ics
+SUMMARY:People of Colour Sunday Class
+DTSTART;TZID=Europe/London:20260712T100000
+DTEND;TZID=Europe/London:20260712T113000
+UID:883fa152f37f254fb2939280@lbc-ics
+DESCRIPTION:Taking place on the second Sunday of every month\, a chance fo
+ r people of colour to come together\, meditate and reflect on our lives in
+  light of the Buddha’s teachings. All levels of experience welcome.
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-sunday-
+ class-12-jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Day Retreat
+DTSTART;TZID=Europe/London:20260712T103000
+DTEND;TZID=Europe/London:20260712T163000
+UID:a5603bf35c8337d5af348c10@lbc-ics
+DESCRIPTION:A chance for people of African\, Asian or mixed heritage to co
+ me together and draw inspiration from the Buddha’s teaching\, with a ful
+ l day of meditation and ritual.
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-day-ret
+ reat-12-jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Morning for Teens
+DTSTART;TZID=Europe/London:20260712T110000
+DTEND;TZID=Europe/London:20260712T133000
+UID:64f01863c2b8d7d73e2aef4a@lbc-ics
+DESCRIPTION:Meet with like-minded teens (12–17 years old) to learn about
+  Buddhism and meditation\, and explore how to increase your mental wellbei
+ ng and have a positive impact in the world.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-morning-for-teen
+ s-12-jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death Cafe
+DTSTART;TZID=Europe/London:20260712T144500
+DTEND;TZID=Europe/London:20260712T170000
+UID:f18880c678cd52de35d9bef3@lbc-ics
+DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
+ the only inevitable thing in life. Death cafes offer an opportunity to sha
+ re with others our experiences\, ideas and feelings about death and dying.
+URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yin to Yang Yoga Afternoon
+DTSTART;TZID=Europe/London:20260712T150000
+DTEND;TZID=Europe/London:20260712T170000
+UID:4454e0199d598b4ec14cfc7a@lbc-ics
+DESCRIPTION:A longer practice that starts slowly with some quieter poses a
+ nd then builds up to Sun Salutations to open the heart and cultivate an in
+ ner radiance. There will also be some cooling asanas and a Yoga Nidra.
+URL:https://www.londonbuddhistcentre.com/whats-on/yin-to-yang-yoga-afterno
+ on-12-jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260713T120000
+DTEND;TZID=Europe/London:20260713T124500
+UID:dcdeafaff33aee511232ee04@lbc-ics
 DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-11-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260711T103000
-DTEND;TZID=Europe/London:20260711T123000
-UID:c909f6a9d2091794020983d0@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-11-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260711T113000
-DTEND;TZID=Europe/London:20260711T124500
-UID:3f8fab23d16d05f56b9528cc@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-11-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260711T130000
-DTEND;TZID=Europe/London:20260711T140000
-UID:520c3dbd25c5018f8e58effb@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-11-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kum Nye Tibetan Yoga Workshop
-DTSTART;TZID=Europe/London:20260711T143000
-DTEND;TZID=Europe/London:20260711T170000
-UID:e53f1f23f0c5331d204fb2d4@lbc-ics
-DESCRIPTION:Kum Nye is a Tibetan movement practice\, similar to tai chi or
-  yoga. This workshop explores simple exercises using movement\, breath and
-  awareness to release tension and develop a deeper sense of ease in both b
- ody and mind.
-URL:https://www.londonbuddhistcentre.com/whats-on/kum-nye-tibetan-yoga-wor
- kshop-sat-11-july
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-13-jul
 END:VEVENT
 END:VCALENDAR
