@@ -39,66 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-o
  nline-jul-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260715T103500
-DTEND;TZID=Europe/London:20260715T123000
-UID:0d7b3815765cc59c0f3b3859@lbc-ics
-DESCRIPTION:In this series\, we will be exploring the essential teachings 
- of Buddhism. We will do this by way of talks\, discussion and workshops lo
- oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
- these can guide us in our lives today.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-15-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260715T120000
-DTEND;TZID=Europe/London:20260715T124500
-UID:28bba38fbc35f8e5f24b0515@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-15-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260715T130000
-DTEND;TZID=Europe/London:20260715T140000
-UID:6eabbdefa3654f8435309f72@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-15-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260715T173000
-DTEND;TZID=Europe/London:20260715T183000
-UID:a9ffe662e25d5a762d3173ac@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-15-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260715T173000
-DTEND;TZID=Europe/London:20260715T183000
-UID:bbacb2e81e4b536c91b1fff7@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-15-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wednesday Night Meditation
-DTSTART;TZID=Europe/London:20260715T191500
-DTEND;TZID=Europe/London:20260715T213000
-UID:85476c031055834ec071bb79@lbc-ics
-DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
-  approaches to meditation\, try them out and ask questions to experienced 
- meditators.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-15-jul
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260716T120000
 DTEND;TZID=Europe/London:20260716T124500
@@ -314,5 +254,69 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-21-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260721T141500
+DTEND;TZID=Europe/London:20260721T150000
+UID:4c46d7eae2cf022a4687749e@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the Car
+ etakers in looking after the fabric of the centre. A wonderful way to give
+  back\, and contribute practically to the LBC!
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-21-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260721T191500
+DTEND;TZID=Europe/London:20260721T213000
+UID:44cba98be3a4ad69ea90fb25@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-21-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindfulness Based Addiction Recovery (MBAR) Training
+DTSTART;TZID=Europe/London:20260722T090000
+DTEND;TZID=Europe/London:20260722T170000
+UID:bfb18b887edf215617b82d13@lbc-ics
+DESCRIPTION:Deepen your understanding of addiction and recovery through mi
+ ndfulness. This MBAR facilitator training explores mindfulness-based tools
+  for working with addictive and compulsive behaviours — in your personal
+  life\, workplace\, or community. Ideal for professionals\, people in reco
+ very\, and those training to become MBAR facilitators.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-based-addict
+ ion-recovery-mbar-training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260722T103500
+DTEND;TZID=Europe/London:20260722T123000
+UID:515808b4972565a4a399b5f8@lbc-ics
+DESCRIPTION:In this series\, we will be exploring the essential teachings 
+ of Buddhism. We will do this by way of talks\, discussion and workshops lo
+ oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
+ these can guide us in our lives today.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-22-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260722T120000
+DTEND;TZID=Europe/London:20260722T124500
+UID:bae23f4d7f1d2c713a699520@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-22-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260722T130000
+DTEND;TZID=Europe/London:20260722T140000
+UID:66574efc222b1ccc01315348@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-22-jul
 END:VEVENT
 END:VCALENDAR
