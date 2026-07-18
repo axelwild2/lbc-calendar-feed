@@ -39,57 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-o
  nline-jul-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260717T120000
-DTEND;TZID=Europe/London:20260717T124500
-UID:3580c77091b2531e90678b98@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-17-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260717T130000
-DTEND;TZID=Europe/London:20260717T140000
-UID:098bfe16d5ce5fb0302867bb@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-17-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260717T173000
-DTEND;TZID=Europe/London:20260717T183000
-UID:23b867b9ee38fd66504fb74f@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-17-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sub30 Friday Class
-DTSTART;TZID=Europe/London:20260717T191500
-DTEND;TZID=Europe/London:20260717T214500
-UID:fb4779a19336b4a668d773e2@lbc-ics
-DESCRIPTION:Join others aged 18–30 for an evening of meditation\, discus
- sion and reflecting on what is most valuable in life.
-URL:https://www.londonbuddhistcentre.com/whats-on/sub30-friday-class-17-ju
- l-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260717T191500
-DTEND;TZID=Europe/London:20260717T213000
-UID:a6d389c4f2c695cc7c1dd743@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-17-jul
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buddhism & Meditation Weekend
 DTSTART;TZID=Europe/London:20260717T200000
 DTEND;TZID=Europe/London:20260717T160000
@@ -313,5 +262,60 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-23-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260723T130000
+DTEND;TZID=Europe/London:20260723T140000
+UID:09ded4429c7fe59c44726d07@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-23-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eight Step Recovery Group for Men
+DTSTART;TZID=Europe/London:20260723T170000
+DTEND;TZID=Europe/London:20260723T183000
+UID:55b090c83b0e1e3e9957b4c7@lbc-ics
+DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
+ 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
+ s teachings outlining a suggested course of action for recovery from addic
+ tion\, stinking thinking\, negative mental states\, and compulsive and obs
+ essive behaviours.
+URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
+ men-23-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Class: Meditation & In-Conversation
+DTSTART;TZID=Europe/London:20260723T191500
+DTEND;TZID=Europe/London:20260723T211500
+UID:5847a03cb840eea494ca4439@lbc-ics
+DESCRIPTION:The Noble Eightfold Path is one of the Buddha's most complete 
+ and practical guides to living a life that leads to liberation. Over eight
+  weeks\, we will explore each step of the path\, drawing on Bhante Urgyen 
+ Sangharakshita's seminal lecture series as our guide.
+URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-23-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caring for the Temple: Work Morning
+DTSTART;TZID=Europe/London:20260724T100000
+DTEND;TZID=Europe/London:20260724T140000
+UID:d819cfac7c10248d8300be2e@lbc-ics
+DESCRIPTION:A morning of meditation and caring for the fabric of the Centr
+ e. Join with other volunteers to polish\, sweep and scrub the Temple to a 
+ new brightness. Bring vegan lunch to share.
+URL:https://www.londonbuddhistcentre.com/whats-on/caring-for-the-temple-wo
+ rk-morning-24-jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260724T120000
+DTEND;TZID=Europe/London:20260724T124500
+UID:1a1421edd9ff1890ce7d93a2@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-24-jul
 END:VEVENT
 END:VCALENDAR
