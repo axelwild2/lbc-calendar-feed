@@ -39,28 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-o
  nline-jul-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhism & Meditation Weekend
-DTSTART;TZID=Europe/London:20260717T200000
-DTEND;TZID=Europe/London:20260717T160000
-UID:691385dbe6b5f033f822b728@lbc-ics
-DESCRIPTION:Curious about retreats? This introductory weekend is an ideal 
- first taste. Break out of your routine and spend two days learning transfo
- rmative practices\, connecting with others\, and enjoying the beautiful Su
- ffolk countryside.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-week
- end-jul-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQIA+ Practice Day
-DTSTART;TZID=Europe/London:20260719T100000
-DTEND;TZID=Europe/London:20260719T160000
-UID:f00a65b87c0c4d141541aa70@lbc-ics
-DESCRIPTION:A simple\, spacious day of practice\, meditation and ritual le
- d by and for LGBTQIA+ sangha members.
-URL:https://www.londonbuddhistcentre.com/whats-on/lgbtqia-sangha-day-retre
- at-19-jul-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260720T120000
 DTEND;TZID=Europe/London:20260720T124500
@@ -319,5 +297,24 @@ DESCRIPTION:If you’ve been practising meditation for a while and would l
  ike to go deeper\, join in this longer retreat for women.
 URL:https://www.londonbuddhistcentre.com/whats-on/womens-intensive-retreat
  -2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260725T100000
+DTEND;TZID=Europe/London:20260725T111500
+UID:2737eb89d9d1524953530b81@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-25-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260725T103000
+DTEND;TZID=Europe/London:20260725T123000
+UID:bcb39e89f26b61869bb73296@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-25-jul
 END:VEVENT
 END:VCALENDAR
