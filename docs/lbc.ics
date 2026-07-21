@@ -40,47 +40,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-o
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260720T120000
-DTEND;TZID=Europe/London:20260720T124500
-UID:515e12af81468387ebb965bc@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-20-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260720T130000
-DTEND;TZID=Europe/London:20260720T140000
-UID:e3b4d4acd1e605b26c0f01f9@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-20-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260720T173000
-DTEND;TZID=Europe/London:20260720T183000
-UID:d27f31586ca062f48fb17b76@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-20-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260720T191500
-DTEND;TZID=Europe/London:20260720T214500
-UID:c008208bc545b99d38b0bf80@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-20-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260721T120000
 DTEND;TZID=Europe/London:20260721T124500
 UID:ecf799a7659cba61e4b69330@lbc-ics
@@ -316,5 +275,46 @@ UID:bcb39e89f26b61869bb73296@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-25-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260725T113000
+DTEND;TZID=Europe/London:20260725T124500
+UID:72d26a80527dea18331423b9@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-25-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260725T130000
+DTEND;TZID=Europe/London:20260725T140000
+UID:9d24eaef6c3a0f222aeee3d7@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-25-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddhism & 12-Step Day
+DTSTART;TZID=Europe/London:20260726T100000
+DTEND;TZID=Europe/London:20260726T170000
+UID:1299918986289ca367d63ccf@lbc-ics
+DESCRIPTION:A day exploring 12-Step Recovery in the context of Buddhist pr
+ actice. Through meditation\, talks\, reflection and ritual we’ll be shar
+ ing our experience\, strength and vision.
+URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-12-step-day-26-
+ jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddhist Sunday School
+DTSTART;TZID=Europe/London:20260726T103000
+DTEND;TZID=Europe/London:20260726T123000
+UID:13a0fed447ae03e4fbd1d558@lbc-ics
+DESCRIPTION:Encouraging and developing children's mindfulness and kindness
+  through Buddhist teaching\, practice\, storytelling and crafts.
+URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
+ 6-jul-2026
 END:VEVENT
 END:VCALENDAR
