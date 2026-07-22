@@ -39,46 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-o
  nline-jul-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260721T120000
-DTEND;TZID=Europe/London:20260721T124500
-UID:ecf799a7659cba61e4b69330@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-21-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260721T130000
-DTEND;TZID=Europe/London:20260721T140000
-UID:6b84960816bf411ef0b52b63@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-21-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20260721T141500
-DTEND;TZID=Europe/London:20260721T150000
-UID:4c46d7eae2cf022a4687749e@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the Car
- etakers in looking after the fabric of the centre. A wonderful way to give
-  back\, and contribute practically to the LBC!
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-21-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20260721T191500
-DTEND;TZID=Europe/London:20260721T213000
-UID:44cba98be3a4ad69ea90fb25@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-21-jul
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mindfulness Based Addiction Recovery (MBAR) Training
 DTSTART;TZID=Europe/London:20260722T090000
 DTEND;TZID=Europe/London:20260722T170000
@@ -316,5 +276,46 @@ DESCRIPTION:Encouraging and developing children's mindfulness and kindness
   through Buddhist teaching\, practice\, storytelling and crafts.
 URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
  6-jul-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260727T120000
+DTEND;TZID=Europe/London:20260727T124500
+UID:00a268fc49f71dbb4fb47155@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-27-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260727T130000
+DTEND;TZID=Europe/London:20260727T140000
+UID:e811ff6423fc89320da96bcd@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-27-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260727T173000
+DTEND;TZID=Europe/London:20260727T183000
+UID:ce5e3d04655764ce6c7a203f@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-27-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260727T191500
+DTEND;TZID=Europe/London:20260727T214500
+UID:ea32a084bf2940547383381b@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-27-jul
 END:VEVENT
 END:VCALENDAR
