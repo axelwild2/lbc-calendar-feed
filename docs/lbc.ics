@@ -52,66 +52,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-based-addict
  ion-recovery-mbar-training
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260722T103500
-DTEND;TZID=Europe/London:20260722T123000
-UID:515808b4972565a4a399b5f8@lbc-ics
-DESCRIPTION:In this series\, we will be exploring the essential teachings 
- of Buddhism. We will do this by way of talks\, discussion and workshops lo
- oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
- these can guide us in our lives today.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-22-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260722T120000
-DTEND;TZID=Europe/London:20260722T124500
-UID:bae23f4d7f1d2c713a699520@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-22-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260722T130000
-DTEND;TZID=Europe/London:20260722T140000
-UID:66574efc222b1ccc01315348@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-22-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260722T173000
-DTEND;TZID=Europe/London:20260722T183000
-UID:b0a3c7499774451a1d0364c3@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-22-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260722T173000
-DTEND;TZID=Europe/London:20260722T183000
-UID:0949e62750632f02f3acadbc@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-22-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wednesday Night Meditation
-DTSTART;TZID=Europe/London:20260722T191500
-DTEND;TZID=Europe/London:20260722T213000
-UID:b515a92e0d56389b7dfa5c6b@lbc-ics
-DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
-  approaches to meditation\, try them out and ask questions to experienced 
- meditators.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-22-jul
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260723T120000
 DTEND;TZID=Europe/London:20260723T124500
@@ -317,5 +257,68 @@ DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
   application in the modern world. Join us for an evening of meditation\, d
  iscussion and Dharma teaching.
 URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-27-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260728T120000
+DTEND;TZID=Europe/London:20260728T124500
+UID:a49954282b1f86c1e43e784f@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-28-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260728T130000
+DTEND;TZID=Europe/London:20260728T140000
+UID:bd77965e75a73b1b1bd4f4b6@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-28-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260728T141500
+DTEND;TZID=Europe/London:20260728T150000
+UID:1fcca0ed3a22c073ab2c22f6@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the Car
+ etakers in looking after the fabric of the centre. A wonderful way to give
+  back\, and contribute practically to the LBC!
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-28-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Dharma Course
+DTSTART;TZID=Europe/London:20260728T191500
+DTEND;TZID=Europe/London:20260728T213000
+UID:eb7da67d2e28d701ac83a5b5@lbc-ics
+DESCRIPTION:The Buddha taught that the root cause of our suffering is crav
+ ing. Nowadays one of the most striking ways to see this truth is paying at
+ tention to our relationship to our phones. In this six-week course\, disco
+ ver ancient practices and modern tools that help us to use technology more
+  wisely and clear the way for a more meaningful life.
+URL:https://www.londonbuddhistcentre.com/whats-on/digital-dharma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260728T191500
+DTEND;TZID=Europe/London:20260728T213000
+UID:5a1eeae30587559a82bdab06@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-28-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260729T103500
+DTEND;TZID=Europe/London:20260729T123000
+UID:4be05f30e311c324e40e805f@lbc-ics
+DESCRIPTION:In this series\, we will be exploring the essential teachings 
+ of Buddhism. We will do this by way of talks\, discussion and workshops lo
+ oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
+ these can guide us in our lives today.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-29-jul
 END:VEVENT
 END:VCALENDAR
