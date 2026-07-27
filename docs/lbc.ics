@@ -37,27 +37,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/womens-intensive-retreat
  -2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhism & 12-Step Day
-DTSTART;TZID=Europe/London:20260726T100000
-DTEND;TZID=Europe/London:20260726T170000
-UID:1299918986289ca367d63ccf@lbc-ics
-DESCRIPTION:A day exploring 12-Step Recovery in the context of Buddhist pr
- actice. Through meditation\, talks\, reflection and ritual we’ll be shar
- ing our experience\, strength and vision.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-12-step-day-26-
- jul-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buddhist Sunday School
-DTSTART;TZID=Europe/London:20260726T103000
-DTEND;TZID=Europe/London:20260726T123000
-UID:13a0fed447ae03e4fbd1d558@lbc-ics
-DESCRIPTION:Encouraging and developing children's mindfulness and kindness
-  through Buddhist teaching\, practice\, storytelling and crafts.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
- 6-jul-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260727T120000
 DTEND;TZID=Europe/London:20260727T124500
@@ -317,5 +296,25 @@ DESCRIPTION:End the week in person at the LBC with an inspiring evening of
   basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
  ices.
 URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-31-jul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260801T100000
+DTEND;TZID=Europe/London:20260801T111500
+UID:0e2450aa40157616431a14c9@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-1-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Breakfast Seminar
+DTSTART;TZID=Europe/London:20260801T103000
+DTEND;TZID=Europe/London:20260801T123000
+UID:4d030b13dd519d1e11841a11@lbc-ics
+DESCRIPTION:Join this vibrant monthly seminar for people aged 18–30\, an
+ d explore Buddhist wisdom in the context of the modern world.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-breakfast-seminar-
+ 01-aug-2026
 END:VEVENT
 END:VCALENDAR
