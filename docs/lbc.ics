@@ -38,47 +38,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/womens-intensive-retreat
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260727T120000
-DTEND;TZID=Europe/London:20260727T124500
-UID:00a268fc49f71dbb4fb47155@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-27-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260727T130000
-DTEND;TZID=Europe/London:20260727T140000
-UID:e811ff6423fc89320da96bcd@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-27-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260727T173000
-DTEND;TZID=Europe/London:20260727T183000
-UID:ce5e3d04655764ce6c7a203f@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-27-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260727T191500
-DTEND;TZID=Europe/London:20260727T214500
-UID:ea32a084bf2940547383381b@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-27-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260728T120000
 DTEND;TZID=Europe/London:20260728T124500
 UID:a49954282b1f86c1e43e784f@lbc-ics
@@ -316,5 +275,48 @@ DESCRIPTION:Join this vibrant monthly seminar for people aged 18–30\, an
  d explore Buddhist wisdom in the context of the modern world.
 URL:https://www.londonbuddhistcentre.com/whats-on/sub30-breakfast-seminar-
  01-aug-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260801T103000
+DTEND;TZID=Europe/London:20260801T123000
+UID:176a7b8935b3363dc581a6b0@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-1-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260801T113000
+DTEND;TZID=Europe/London:20260801T124500
+UID:532dcf578e8d1422ccb4ef2d@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-1-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260801T130000
+DTEND;TZID=Europe/London:20260801T140000
+UID:34c1c4c4a4ad3931d2ef6317@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-1-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry Night: When I Met My Muse
+DTSTART;TZID=Europe/London:20260801T183000
+DTEND;TZID=Europe/London:20260801T213000
+UID:b6a60addbbae97e7777e9c99@lbc-ics
+DESCRIPTION:What is a muse? How do we recognise one? What have muses got t
+ o do with writing? Have you met yours? What are their terms and conditions
+ ? Come and find out more! Join Dharmavadana\, Sraddhamalini and Vishvantar
+ a for an interactive evening of muse-invocation\, poetry & conversation\, 
+ plus the launch of Dharmavadana's new poetry pamphlet "Birdmen & Astronaut
+ s"\, published by Poetry Salzburg.
+URL:https://www.londonbuddhistcentre.com/whats-on/poetry-night-when-i-met-
+ my-muse
 END:VEVENT
 END:VCALENDAR
