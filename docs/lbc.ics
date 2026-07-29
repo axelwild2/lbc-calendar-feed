@@ -37,48 +37,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/womens-intensive-retreat
  -2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260728T120000
-DTEND;TZID=Europe/London:20260728T124500
-UID:a49954282b1f86c1e43e784f@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-28-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260728T130000
-DTEND;TZID=Europe/London:20260728T140000
-UID:bd77965e75a73b1b1bd4f4b6@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-28-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20260728T141500
-DTEND;TZID=Europe/London:20260728T150000
-UID:1fcca0ed3a22c073ab2c22f6@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the Car
- etakers in looking after the fabric of the centre. A wonderful way to give
-  back\, and contribute practically to the LBC!
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-28-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Rescheduled] Qigong
-DTSTART;TZID=Europe/London:20260728T173000
-DTEND;TZID=Europe/London:20260728T183000
-UID:d6fba6f7ead3edcfacdc82e6@lbc-ics
-DESCRIPTION:[Rescheduled - returns next week] Qigong (pronounced "chee-gon
- g") is a system of exercises which helps us cultivate awareness and connec
- t with our bodies through simple breathing exercises and movement techniqu
- es\, and can be a great way to prepare for meditation. Join us for a begin
- ner-friendly session led by Serene. No experience necessary.
-URL:https://www.londonbuddhistcentre.com/whats-on/qigong-28-jul
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Digital Dharma Course
 DTSTART;TZID=Europe/London:20260728T191500
 DTEND;TZID=Europe/London:20260728T213000
@@ -89,16 +47,6 @@ DESCRIPTION:The Buddha taught that the root cause of our suffering is crav
  ver ancient practices and modern tools that help us to use technology more
   wisely and clear the way for a more meaningful life.
 URL:https://www.londonbuddhistcentre.com/whats-on/digital-dharma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20260728T191500
-DTEND;TZID=Europe/London:20260728T213000
-UID:5a1eeae30587559a82bdab06@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-28-jul
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daytime Buddhism & Meditation Class
@@ -318,5 +266,61 @@ DESCRIPTION:What is a muse? How do we recognise one? What have muses got t
  s"\, published by Poetry Salzburg.
 URL:https://www.londonbuddhistcentre.com/whats-on/poetry-night-when-i-met-
  my-muse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Day Festival
+DTSTART;TZID=Europe/London:20260802T093000
+DTEND;TZID=Europe/London:20260802T213000
+UID:2a78664aad05caa0e780cdbf@lbc-ics
+DESCRIPTION:Two-and-a-half millennia ago\, the Buddha laid out a practical
+  path to a new kind of consciousness. On Dharma Day\, we will come togethe
+ r to celebrate the anniversary of the Buddha first communicating his Dharm
+ a (‘teachings’) to others after his Enlightenment\, sparking off a lin
+ eage of teachers and disciples that has transformed many lives\, and conti
+ nues today with us.\nThere will be meditation\, talks and a special ritual
+  in the evening. All are welcome.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-day-festival-02-a
+ ug-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260803T073000
+DTEND;TZID=Europe/London:20260803T083000
+UID:65624caf071e19f4bc3c6792@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-august-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260803T120000
+DTEND;TZID=Europe/London:20260803T124500
+UID:ae151b3aaf9ddb9d2a0880c0@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-3-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260803T130000
+DTEND;TZID=Europe/London:20260803T140000
+UID:ac5c892582213d44deab3166@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-3-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260803T173000
+DTEND;TZID=Europe/London:20260803T183000
+UID:70027c3ce8bfce74f5aaeae5@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-3-aug
 END:VEVENT
 END:VCALENDAR
