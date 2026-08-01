@@ -49,47 +49,6 @@ DESCRIPTION:The Buddha taught that the root cause of our suffering is crav
 URL:https://www.londonbuddhistcentre.com/whats-on/digital-dharma
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260731T120000
-DTEND;TZID=Europe/London:20260731T124500
-UID:220c3c417dbc777d13576cb1@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-31-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260731T130000
-DTEND;TZID=Europe/London:20260731T140000
-UID:dc6a7722ac278cde7d09a42f@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-31-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260731T173000
-DTEND;TZID=Europe/London:20260731T183000
-UID:32995f6eb9e00925d18c7bd0@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-31-jul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260731T191500
-DTEND;TZID=Europe/London:20260731T213000
-UID:5e4acb2aea7ba960e65e942a@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-31-jul
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20260801T100000
 DTEND;TZID=Europe/London:20260801T111500
@@ -328,5 +287,45 @@ UID:8af373db5ae99b53590916d1@lbc-ics
 DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
   group as a way to going deeper in one's experience.
 URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-5-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260805T173000
+DTEND;TZID=Europe/London:20260805T183000
+UID:a6eed4c70913a5c2371ab4f1@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-5-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wednesday Night Meditation
+DTSTART;TZID=Europe/London:20260805T191500
+DTEND;TZID=Europe/London:20260805T213000
+UID:6a14e2e4a26fd5626faa941c@lbc-ics
+DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
+  approaches to meditation\, try them out and ask questions to experienced 
+ meditators.
+URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-5-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260806T120000
+DTEND;TZID=Europe/London:20260806T124500
+UID:1b161ef99783ea02489ac7de@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-6-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260806T130000
+DTEND;TZID=Europe/London:20260806T140000
+UID:731da865d92f9795f0033f65@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-6-aug
 END:VEVENT
 END:VCALENDAR
