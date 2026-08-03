@@ -27,16 +27,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindfulness-for-stress-o
  nline-jul-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Women's Intensive Retreat
-DTSTART;TZID=Europe/London:20260724T193000
-DTEND;TZID=Europe/London:20260724T130000
-UID:9548f1088eeea63c6eb304e9@lbc-ics
-DESCRIPTION:If you’ve been practising meditation for a while and would l
- ike to go deeper\, join in this longer retreat for women.
-URL:https://www.londonbuddhistcentre.com/whats-on/womens-intensive-retreat
- -2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Digital Dharma Course
 DTSTART;TZID=Europe/London:20260728T191500
 DTEND;TZID=Europe/London:20260728T213000
@@ -47,21 +37,6 @@ DESCRIPTION:The Buddha taught that the root cause of our suffering is crav
  ver ancient practices and modern tools that help us to use technology more
   wisely and clear the way for a more meaningful life.
 URL:https://www.londonbuddhistcentre.com/whats-on/digital-dharma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Day Festival
-DTSTART;TZID=Europe/London:20260802T093000
-DTEND;TZID=Europe/London:20260802T213000
-UID:2a78664aad05caa0e780cdbf@lbc-ics
-DESCRIPTION:Two-and-a-half millennia ago\, the Buddha laid out a practical
-  path to a new kind of consciousness. On Dharma Day\, we will come togethe
- r to celebrate the anniversary of the Buddha first communicating his Dharm
- a (‘teachings’) to others after his Enlightenment\, sparking off a lin
- eage of teachers and disciples that has transformed many lives\, and conti
- nues today with us.\nThere will be meditation\, talks and a special ritual
-  in the evening. All are welcome.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-day-festival-02-a
- ug-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Online Morning Meditation
@@ -324,5 +299,24 @@ DESCRIPTION:End the week in person at the LBC with an inspiring evening of
   basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
  ices.
 URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-7-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260808T100000
+DTEND;TZID=Europe/London:20260808T111500
+UID:a1b84d7a58cb1732970cf40f@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-8-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260808T103000
+DTEND;TZID=Europe/London:20260808T123000
+UID:62c0f88e2aab034c4ecc0091@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-8-aug
 END:VEVENT
 END:VCALENDAR
