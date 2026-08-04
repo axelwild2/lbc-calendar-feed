@@ -4,17 +4,6 @@ PRODID:-//London Buddhist Centre//Auto ICS//EN
 X-WR-CALNAME:London Buddhist Centre
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-SUMMARY:Introduction to Buddhism & Meditation Course
-DTSTART;TZID=Europe/London:20260629T191500
-DTEND;TZID=Europe/London:20260629T214500
-UID:43142dec1b4d5032fd4946fb@lbc-ics
-DESCRIPTION:This six-week course on Monday evenings will introduce you to 
- key Buddhist principles and two meditation practices that cultivate self-a
- wareness\, open-heartedness\, and insight.
-URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
- -meditation-course-jun-26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mindfulness for Stress (Online)
 DTSTART;TZID=Europe/London:20260702T190000
 DTEND;TZID=Europe/London:20260702T210000
@@ -48,60 +37,6 @@ DESCRIPTION:This week-long series of guided meditation happens at the star
  .
 URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
  n-august-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260803T120000
-DTEND;TZID=Europe/London:20260803T124500
-UID:ae151b3aaf9ddb9d2a0880c0@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-3-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260803T130000
-DTEND;TZID=Europe/London:20260803T140000
-UID:ac5c892582213d44deab3166@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-3-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260803T173000
-DTEND;TZID=Europe/London:20260803T183000
-UID:70027c3ce8bfce74f5aaeae5@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-3-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260803T191500
-DTEND;TZID=Europe/London:20260803T214500
-UID:5fbe1545b3b8f00415b7f41c@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-3-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcoming Back New Order Members
-DTSTART;TZID=Europe/London:20260803T191500
-DTEND;TZID=Europe/London:20260803T214500
-UID:491ce1808c9e22f14c6d23cc@lbc-ics
-DESCRIPTION:Ordination is a highly significant aspect of the Dharma life w
- hich has the potential to transform the lives of many. In this celebratory
-  and devotional evening\, we will welcome back ex-Alphie\, ex-Oscar\, ex-P
- atrick\, ex-Simon\, ex-Thomas and ex-Wayne from their recent ordination re
- treat.
-URL:https://www.londonbuddhistcentre.com/whats-on/welcoming-back-new-order
- -members-03-aug-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -318,5 +253,70 @@ UID:62c0f88e2aab034c4ecc0091@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-8-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260808T113000
+DTEND;TZID=Europe/London:20260808T124500
+UID:a9139598257e25bb457d524b@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-8-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260808T130000
+DTEND;TZID=Europe/London:20260808T140000
+UID:decc652908e2b7e374a68193@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-8-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Movement Workshop
+DTSTART;TZID=Europe/London:20260808T150000
+DTEND;TZID=Europe/London:20260808T170000
+UID:c71a9d89c6349daa67c3b3e1@lbc-ics
+DESCRIPTION:Have you ever wanted to be able to move more freely? In this c
+ lass we playfully explore movement inspired by Qi Kung\, Yoga\, and improv
+ ised dance.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-movement-worksho
+ p-08-aug-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Night: Boyhood (2014)
+DTSTART;TZID=Europe/London:20260808T191500
+DTEND;TZID=Europe/London:20260808T220000
+UID:132411c6d8a9a24fa786d692@lbc-ics
+DESCRIPTION:Boyhood follows one boy’s life from childhood to early adult
+ hood\, filmed with the same actors over twelve years. In a series of ordin
+ ary moments\, the film quietly reveals how time\, family\, and experience 
+ shape a life.
+URL:https://www.londonbuddhistcentre.com/whats-on/film-night-boyhood-2014-
+ 08-aug-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Sunday Class
+DTSTART;TZID=Europe/London:20260809T100000
+DTEND;TZID=Europe/London:20260809T113000
+UID:2227fe522fe0b3f4fd5f38d1@lbc-ics
+DESCRIPTION:Taking place on the second Sunday of every month\, a chance fo
+ r people of colour to come together\, meditate and reflect on our lives in
+  light of the Buddha’s teachings. All levels of experience welcome.
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-sunday-
+ class-09-aug-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra & Meditation Morning
+DTSTART;TZID=Europe/London:20260809T100000
+DTEND;TZID=Europe/London:20260809T123000
+UID:7eb61113fa574557676b06fd@lbc-ics
+DESCRIPTION:Chanting mantras can be an enlivening and beautiful practice. 
+ Explore how mantra and meditation can support each other\, cultivating pos
+ itive emotion and opening us up to the mystery of Enlightenment.
+URL:https://www.londonbuddhistcentre.com/whats-on/mantra-meditation-mornin
+ g-09-aug-2026
 END:VEVENT
 END:VCALENDAR
