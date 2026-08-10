@@ -28,38 +28,6 @@ DESCRIPTION:The Buddha taught that the root cause of our suffering is crav
 URL:https://www.londonbuddhistcentre.com/whats-on/digital-dharma
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:People of Colour Sunday Class
-DTSTART;TZID=Europe/London:20260809T100000
-DTEND;TZID=Europe/London:20260809T113000
-UID:2227fe522fe0b3f4fd5f38d1@lbc-ics
-DESCRIPTION:Taking place on the second Sunday of every month\, a chance fo
- r people of colour to come together\, meditate and reflect on our lives in
-  light of the Buddha’s teachings. All levels of experience welcome.
-URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-sunday-
- class-09-aug-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra & Meditation Morning
-DTSTART;TZID=Europe/London:20260809T100000
-DTEND;TZID=Europe/London:20260809T123000
-UID:7eb61113fa574557676b06fd@lbc-ics
-DESCRIPTION:Chanting mantras can be an enlivening and beautiful practice. 
- Explore how mantra and meditation can support each other\, cultivating pos
- itive emotion and opening us up to the mystery of Enlightenment.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-meditation-mornin
- g-09-aug-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Death Cafe
-DTSTART;TZID=Europe/London:20260809T144500
-DTEND;TZID=Europe/London:20260809T170000
-UID:1771e3e05ebdfe792dc7311f@lbc-ics
-DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
- the only inevitable thing in life. Death cafes offer an opportunity to sha
- re with others our experiences\, ideas and feelings about death and dying.
-URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-aug-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260810T120000
 DTEND;TZID=Europe/London:20260810T124500
@@ -317,5 +285,34 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-15-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260815T103000
+DTEND;TZID=Europe/London:20260815T123000
+UID:47ce91c3d3940f3de4292470@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-15-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260815T113000
+DTEND;TZID=Europe/London:20260815T124500
+UID:15f47351c8ad9c7d18d133a3@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-15-aug-b2a17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260815T120000
+DTEND;TZID=Europe/London:20260815T124500
+UID:f19f124ecefa8022f5b8a77e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-15-aug
 END:VEVENT
 END:VCALENDAR
