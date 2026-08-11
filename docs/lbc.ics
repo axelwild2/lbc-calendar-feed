@@ -28,47 +28,6 @@ DESCRIPTION:The Buddha taught that the root cause of our suffering is crav
 URL:https://www.londonbuddhistcentre.com/whats-on/digital-dharma
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260810T120000
-DTEND;TZID=Europe/London:20260810T124500
-UID:61245a5022965f64836f62b8@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-10-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260810T130000
-DTEND;TZID=Europe/London:20260810T140000
-UID:ee32d89631f41a2a69b13426@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-10-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260810T173000
-DTEND;TZID=Europe/London:20260810T183000
-UID:6f0090f5aaeb79ba79f1558d@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-10-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260810T191500
-DTEND;TZID=Europe/London:20260810T214500
-UID:d275bb146e852d18d7c23522@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-10-aug
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Introduction to Buddhism & Meditation Course
 DTSTART;TZID=Europe/London:20260810T191500
 DTEND;TZID=Europe/London:20260810T214500
@@ -273,7 +232,8 @@ UID:1924c9ab62db2bca3b4477a6@lbc-ics
 DESCRIPTION:End the week in person at the LBC with an inspiring evening of
   meditation\, tale-telling and ritual. For anyone who is familiar with the
   basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
+ ices. Giorgia and Pete are sangha friends who will perform a selection of 
+ classic songs on themes of heartbreak\, betrayal and karma.
 URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-14-aug
 END:VEVENT
 BEGIN:VEVENT
@@ -314,5 +274,49 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-15-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260815T130000
+DTEND;TZID=Europe/London:20260815T140000
+UID:3b7ec08a7114baba0d0171b4@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-15-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hidden Notes
+DTSTART;TZID=Europe/London:20260815T190000
+DTEND;TZID=Europe/London:20260815T220000
+UID:099cdcff8ccdc57d9a85196c@lbc-ics
+DESCRIPTION:A night of deep listening and delicious vegan food at the Mand
+ ala Café. Supper will be served at 7pm\, before sitting back to listen to
+  a classic album — revealed only on the night. Dessert and chai served a
+ fterwards.
+URL:https://www.londonbuddhistcentre.com/whats-on/hidden-notes-15-aug-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men's Event with Suvajra
+DTSTART;TZID=Europe/London:20260816T100000
+DTEND;TZID=Europe/London:20260816T130000
+UID:f79adb5a1500695d7c97ff3e@lbc-ics
+DESCRIPTION:LBC men's events focus on the most crucial aspects of spiritua
+ l life with the hope of shining a light on the difficult and thorny questi
+ ons that affect our spiritual practice. We look to get the most experience
+ d Dharma teachers to address fundamental questions of what it means to pra
+ ctise. These events include meditation\, discussion and ritual. Not to be 
+ missed!
+URL:https://www.londonbuddhistcentre.com/whats-on/mens-event-with-suvajra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260817T120000
+DTEND;TZID=Europe/London:20260817T124500
+UID:1ebed3db2da1de747a921f5a@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-17-aug
 END:VEVENT
 END:VCALENDAR
