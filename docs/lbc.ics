@@ -40,50 +40,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260813T120000
-DTEND;TZID=Europe/London:20260813T124500
-UID:c260c3b79367dfa3699a035f@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-13-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260813T130000
-DTEND;TZID=Europe/London:20260813T140000
-UID:efb5ef9b27f892d71bb26223@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-13-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eight Step Recovery Group for Men
-DTSTART;TZID=Europe/London:20260813T170000
-DTEND;TZID=Europe/London:20260813T183000
-UID:e6b0514ed1397c16d2e480dc@lbc-ics
-DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
- 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
- s teachings outlining a suggested course of action for recovery from addic
- tion\, stinking thinking\, negative mental states\, and compulsive and obs
- essive behaviours.
-URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
- men-13-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thursday Night Class: Meditation & In-Conversation
-DTSTART;TZID=Europe/London:20260813T191500
-DTEND;TZID=Europe/London:20260813T211500
-UID:cd48612bc523ba405171fffa@lbc-ics
-DESCRIPTION:The Noble Eightfold Path is one of the Buddha's most complete 
- and practical guides to living a life that leads to liberation. Over eight
-  weeks\, we will explore each step of the path\, drawing on Bhante Urgyen 
- Sangharakshita's seminal lecture series as our guide.
-URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-13-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260814T120000
 DTEND;TZID=Europe/London:20260814T124500
 UID:c3bd3a5bb9670cb2c08b9521@lbc-ics
@@ -319,5 +275,44 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-19-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra Chanting
+DTSTART;TZID=Europe/London:20260819T173000
+DTEND;TZID=Europe/London:20260819T183000
+UID:0d31513a6655d63419041b0d@lbc-ics
+DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
+  group as a way to going deeper in one's experience.
+URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-19-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260819T173000
+DTEND;TZID=Europe/London:20260819T183000
+UID:44598a449fc9091fadf285b4@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-19-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wednesday Night Meditation
+DTSTART;TZID=Europe/London:20260819T191500
+DTEND;TZID=Europe/London:20260819T213000
+UID:8f137c2c7874cc51190a8710@lbc-ics
+DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
+  approaches to meditation\, try them out and ask questions to experienced 
+ meditators.
+URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-19-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260820T120000
+DTEND;TZID=Europe/London:20260820T124500
+UID:ef7a238c00e0b5795a634a2b@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-20-aug
 END:VEVENT
 END:VCALENDAR
