@@ -39,19 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-aug-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Men's Event with Suvajra
-DTSTART;TZID=Europe/London:20260816T100000
-DTEND;TZID=Europe/London:20260816T130000
-UID:f79adb5a1500695d7c97ff3e@lbc-ics
-DESCRIPTION:LBC men's events focus on the most crucial aspects of spiritua
- l life with the hope of shining a light on the difficult and thorny questi
- ons that affect our spiritual practice. We look to get the most experience
- d Dharma teachers to address fundamental questions of what it means to pra
- ctise. These events include meditation\, discussion and ritual. Not to be 
- missed!
-URL:https://www.londonbuddhistcentre.com/whats-on/mens-event-with-suvajra
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260817T120000
 DTEND;TZID=Europe/London:20260817T124500
@@ -318,5 +305,14 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-22-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260822T103000
+DTEND;TZID=Europe/London:20260822T123000
+UID:a24ba5660634ff4cdd87970e@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-22-aug
 END:VEVENT
 END:VCALENDAR
