@@ -37,55 +37,6 @@ DESCRIPTION:Join in this weekend retreat and meet with like-minded teens (
 URL:https://www.londonbuddhistcentre.com/whats-on/teens-retreat
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260822T100000
-DTEND;TZID=Europe/London:20260822T111500
-UID:b6e2f2495f03b4e837f7b2da@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-22-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260822T103000
-DTEND;TZID=Europe/London:20260822T123000
-UID:a24ba5660634ff4cdd87970e@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-22-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260822T113000
-DTEND;TZID=Europe/London:20260822T124500
-UID:a4ab0b292abe447e165e4ccd@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-22-aug-c555b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260822T120000
-DTEND;TZID=Europe/London:20260822T124500
-UID:826172e98b4065ea739faccc@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-22-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260822T130000
-DTEND;TZID=Europe/London:20260822T140000
-UID:5066ca0831c708123a4f6922@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-22-aug
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260824T120000
 DTEND;TZID=Europe/London:20260824T124500
@@ -313,5 +264,58 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-28-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Restorative Yoga Class
+DTSTART;TZID=Europe/London:20260828T173000
+DTEND;TZID=Europe/London:20260828T183000
+UID:ebd409fd76cc872b64ac65f9@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-28-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Class Special (musical offering)
+DTSTART;TZID=Europe/London:20260828T191500
+DTEND;TZID=Europe/London:20260828T213000
+UID:7ebc66aab560c3a8fcc19ccf@lbc-ics
+DESCRIPTION:End the week in person at the LBC with an inspiring evening of
+  meditation\, tale-telling and ritual. For anyone who is familiar with the
+  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
+ ices.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-28-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Class
+DTSTART;TZID=Europe/London:20260828T191500
+DTEND;TZID=Europe/London:20260828T213000
+UID:7d4d4eb5c655a5e60ea05948@lbc-ics
+DESCRIPTION:End the week in person at the LBC with an inspiring evening of
+  meditation\, tale-telling and ritual. For anyone who is familiar with the
+  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
+ ices.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-28-aug-06bd0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Retreat
+DTSTART;TZID=Europe/London:20260828T193000
+DTEND;TZID=Europe/London:20260828T130000
+UID:d68db5b4698ef17ae568b302@lbc-ics
+DESCRIPTION:A week long retreat for People of Colour to come together\, me
+ ditate\, and be inspired by the Buddha’s teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-retreat
+ -2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Moon Puja
+DTSTART;TZID=Europe/London:20260828T204000
+DTEND;TZID=Europe/London:20260828T213000
+UID:f16bce3b1fd04515aa9116d4@lbc-ics
+DESCRIPTION:After Dharma Night\, we’ll come together for a short ritual 
+ to mark the full moon. All are welcome to join in\, whether or not you’v
+ e taken part in a Buddhist ritual before.
+URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-28-aug-20
+ 26
 END:VEVENT
 END:VCALENDAR
