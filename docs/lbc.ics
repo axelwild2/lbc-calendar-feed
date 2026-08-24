@@ -27,16 +27,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-aug-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teens Retreat
-DTSTART;TZID=Europe/London:20260821T190000
-DTEND;TZID=Europe/London:20260821T150000
-UID:f3e1b6e818551935a2a72111@lbc-ics
-DESCRIPTION:Join in this weekend retreat and meet with like-minded teens (
- 12-17 years old) to learn about Buddhism and meditation\, and explore how 
- to increase your mental wellbeing and have a positive impact in the world.
-URL:https://www.londonbuddhistcentre.com/whats-on/teens-retreat
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260824T120000
 DTEND;TZID=Europe/London:20260824T124500
@@ -317,5 +307,15 @@ DESCRIPTION:After Dharma Night\, we’ll come together for a short ritual
  e taken part in a Buddhist ritual before.
 URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-28-aug-20
  26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260829T100000
+DTEND;TZID=Europe/London:20260829T111500
+UID:746f83ba6fe80f3df4bb8624@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-29-aug
 END:VEVENT
 END:VCALENDAR
