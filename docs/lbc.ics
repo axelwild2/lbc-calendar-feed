@@ -28,47 +28,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260824T120000
-DTEND;TZID=Europe/London:20260824T124500
-UID:caef4597da35590ad9c0e36f@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-24-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260824T130000
-DTEND;TZID=Europe/London:20260824T140000
-UID:9b1d9a768027a8993a14bd6d@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-24-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260824T173000
-DTEND;TZID=Europe/London:20260824T183000
-UID:28052886a5ea5b255ea581c6@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-24-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260824T191500
-DTEND;TZID=Europe/London:20260824T214500
-UID:1c356f9a5f1b69bb2d37fb12@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-24-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260825T120000
 DTEND;TZID=Europe/London:20260825T124500
 UID:5a6858986c377b521650228a@lbc-ics
@@ -317,5 +276,46 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-29-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260829T103000
+DTEND;TZID=Europe/London:20260829T123000
+UID:f482ff2ed5799173d06fa923@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-29-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260829T113000
+DTEND;TZID=Europe/London:20260829T124500
+UID:75adc5673736e08a9c7d2d25@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-29-aug-33b9c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260829T130000
+DTEND;TZID=Europe/London:20260829T140000
+UID:9c460a07bb838be2144026cc@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-29-aug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kum Nye Tibetan Yoga Workshop
+DTSTART;TZID=Europe/London:20260829T143000
+DTEND;TZID=Europe/London:20260829T170000
+UID:2d4c58f2a281332d4d26eede@lbc-ics
+DESCRIPTION:Kum Nye is a Tibetan movement practice\, similar to tai chi or
+  yoga. This workshop explores simple exercises using movement\, breath and
+  awareness to release tension and develop a deeper sense of ease in both b
+ ody and mind.
+URL:https://www.londonbuddhistcentre.com/whats-on/kum-nye-tibetan-yoga-wor
+ kshop-sat-29-aug
 END:VEVENT
 END:VCALENDAR
