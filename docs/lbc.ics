@@ -27,58 +27,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-aug-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260828T120000
-DTEND;TZID=Europe/London:20260828T124500
-UID:4037e29456dfc558a5532e0f@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-28-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260828T130000
-DTEND;TZID=Europe/London:20260828T140000
-UID:f878d01aca9a84839ca07009@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-28-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260828T173000
-DTEND;TZID=Europe/London:20260828T183000
-UID:ebd409fd76cc872b64ac65f9@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-28-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class Special (musical offering)
-DTSTART;TZID=Europe/London:20260828T191500
-DTEND;TZID=Europe/London:20260828T213000
-UID:7ebc66aab560c3a8fcc19ccf@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-28-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260828T191500
-DTEND;TZID=Europe/London:20260828T213000
-UID:7d4d4eb5c655a5e60ea05948@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-28-aug-06bd0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:People of Colour Retreat
 DTSTART;TZID=Europe/London:20260828T193000
 DTEND;TZID=Europe/London:20260828T130000
@@ -87,17 +35,6 @@ DESCRIPTION:A week long retreat for People of Colour to come together\, me
  ditate\, and be inspired by the Buddha’s teaching.
 URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-retreat
  -2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Full Moon Puja
-DTSTART;TZID=Europe/London:20260828T204000
-DTEND;TZID=Europe/London:20260828T213000
-UID:f16bce3b1fd04515aa9116d4@lbc-ics
-DESCRIPTION:After Dharma Night\, we’ll come together for a short ritual 
- to mark the full moon. All are welcome to join in\, whether or not you’v
- e taken part in a Buddhist ritual before.
-URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-28-aug-20
- 26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
@@ -315,5 +252,72 @@ UID:9ffb6c0493b893032159deef@lbc-ics
 DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
   group as a way to going deeper in one's experience.
 URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-2-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260902T173000
+DTEND;TZID=Europe/London:20260902T183000
+UID:e2ee289e4472ba8bbd62eafc@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-2-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Prerequisites: Truth\, Faith\, Love
+DTSTART;TZID=Europe/London:20260902T191500
+DTEND;TZID=Europe/London:20260902T213000
+UID:2c97f9b49c2f0773713ac6be@lbc-ics
+DESCRIPTION:Maitreyabandhu\, a senior member of the Triratna Buddhist Orde
+ r\, will be exploring the Three Prerequisites\, the fundamental qualities 
+ we need to explore life in a healthy\, integral way. Suitable for complete
+  newcomers and those who have already begun to explore life more deeply. Y
+ ou are welcome to come to the whole series or drop into as many sessions a
+ s you like.
+URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-2-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260903T120000
+DTEND;TZID=Europe/London:20260903T124500
+UID:91e357bcb05e446a9cdb7f63@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-3-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260903T130000
+DTEND;TZID=Europe/London:20260903T140000
+UID:6323e416228f48e38084893d@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-3-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eight Step Recovery Group for Men
+DTSTART;TZID=Europe/London:20260903T170000
+DTEND;TZID=Europe/London:20260903T183000
+UID:301eceb96a2362e8d0feafe9@lbc-ics
+DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
+ 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
+ s teachings outlining a suggested course of action for recovery from addic
+ tion\, stinking thinking\, negative mental states\, and compulsive and obs
+ essive behaviours.
+URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
+ men-3-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Class: Meditation & In-Conversation
+DTSTART;TZID=Europe/London:20260903T191500
+DTEND;TZID=Europe/London:20260903T211500
+UID:2ef94632d4a2741b6f785356@lbc-ics
+DESCRIPTION:The Noble Eightfold Path is one of the Buddha's most complete 
+ and practical guides to living a life that leads to liberation. Over eight
+  weeks\, we will explore each step of the path\, drawing on Bhante Urgyen 
+ Sangharakshita's seminal lecture series as our guide.
+URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-3-sep
 END:VEVENT
 END:VCALENDAR
