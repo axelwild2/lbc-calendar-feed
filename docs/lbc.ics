@@ -48,58 +48,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
  n-september-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bank Holiday Day Retreat
-DTSTART;TZID=Europe/London:20260831T100000
-DTEND;TZID=Europe/London:20260831T170000
-UID:74bb6eb27227996793f216ab@lbc-ics
-DESCRIPTION:We'll be spending this August Bank Holiday gathering for a ful
- l day of meditation\, reflection and ritual. A great way to use the opport
- unity to dive into meditation and take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/bank-holiday-day-retreat
- -31-aug-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260831T120000
-DTEND;TZID=Europe/London:20260831T124500
-UID:f6e6f29774663c2593dacedb@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-31-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260831T130000
-DTEND;TZID=Europe/London:20260831T140000
-UID:1d6c5bb6364b36e2eee7420f@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-31-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260831T173000
-DTEND;TZID=Europe/London:20260831T183000
-UID:5d4df42c52fc5b597c1a7755@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-31-aug
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260831T191500
-DTEND;TZID=Europe/London:20260831T214500
-UID:20516bd94c16c9db543a1060@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-31-aug
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260901T120000
 DTEND;TZID=Europe/London:20260901T124500
@@ -150,6 +98,17 @@ DESCRIPTION:You can either learn to meditate from scratch and develop the
  foundations for a daily practice or join the regulars to build on what you
   know and discover how to apply Wisdom reflections in meditation.
 URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-1-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260902T073000
+DTEND;TZID=Europe/London:20260902T083000
+UID:6e656ab5eb75f094d361ac47@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-wed-2-sep-26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daytime Buddhism & Meditation Class
@@ -215,6 +174,17 @@ DESCRIPTION:Maitreyabandhu\, a senior member of the Triratna Buddhist Orde
 URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-2-sep
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260903T073000
+DTEND;TZID=Europe/London:20260903T083000
+UID:9aa4890a2bd6478c2a5a476b@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-thu-3-sep-26
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260903T120000
 DTEND;TZID=Europe/London:20260903T124500
@@ -257,6 +227,17 @@ DESCRIPTION:The Noble Eightfold Path is one of the Buddha's most complete
   weeks\, we will explore each step of the path\, drawing on Bhante Urgyen 
  Sangharakshita's seminal lecture series as our guide.
 URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-3-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20260904T073000
+DTEND;TZID=Europe/London:20260904T083000
+UID:8fcc2a020255ad922a49c96a@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-fri-4-sep-26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -319,5 +300,28 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-5-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Eating Online Workshop
+DTSTART;TZID=Europe/London:20260905T103000
+DTEND;TZID=Europe/London:20260905T130000
+UID:07efedffb4560a8b4ef067c7@lbc-ics
+DESCRIPTION:Join us for a practical and nourishing online workshop explori
+ ng what it really means to eat mindfully — to slow down\, pay attention
+ \, and experience food through all of our senses. Together we’ll take ti
+ me to notice the many sensations involved in hunger\, eating\, and satisfa
+ ction\, and explore how mindful awareness can transform the way we relate 
+ to food.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-eating-online-wo
+ rkshop-5-sep-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260905T103000
+DTEND;TZID=Europe/London:20260905T123000
+UID:f28b49dd1443ef721fa1011c@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-5-sep
 END:VEVENT
 END:VCALENDAR
