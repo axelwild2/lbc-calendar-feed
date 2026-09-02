@@ -4,18 +4,6 @@ PRODID:-//London Buddhist Centre//Auto ICS//EN
 X-WR-CALNAME:London Buddhist Centre
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-SUMMARY:Digital Dharma Course
-DTSTART;TZID=Europe/London:20260728T191500
-DTEND;TZID=Europe/London:20260728T213000
-UID:eb7da67d2e28d701ac83a5b5@lbc-ics
-DESCRIPTION:The Buddha taught that the root cause of our suffering is crav
- ing. Nowadays one of the most striking ways to see this truth is paying at
- tention to our relationship to our phones. In this six-week course\, disco
- ver ancient practices and modern tools that help us to use technology more
-  wisely and clear the way for a more meaningful life.
-URL:https://www.londonbuddhistcentre.com/whats-on/digital-dharma
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Introduction to Buddhism & Meditation Course
 DTSTART;TZID=Europe/London:20260810T191500
 DTEND;TZID=Europe/London:20260810T214500
@@ -46,58 +34,6 @@ DESCRIPTION:This week-long series of guided meditation happens at the star
  .
 URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
  n-september-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260901T120000
-DTEND;TZID=Europe/London:20260901T124500
-UID:b1c7f1bdbc74b4faa064c874@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-1-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260901T130000
-DTEND;TZID=Europe/London:20260901T140000
-UID:d8f124f5c642ef47eba83b62@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-1-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20260901T141500
-DTEND;TZID=Europe/London:20260901T150000
-UID:4fc525de61a64b007ce4fc71@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the Car
- etakers in looking after the fabric of the centre. A wonderful way to give
-  back\, and contribute practically to the LBC!
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-1-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cancelled] Qigong
-DTSTART;TZID=Europe/London:20260901T173000
-DTEND;TZID=Europe/London:20260901T183000
-UID:cc8e007dd265b2911b929873@lbc-ics
-DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
-  helps us cultivate awareness and connect with our bodies through simple b
- reathing exercises and movement techniques\, and can be a great way to pre
- pare for meditation. Join us for a beginner-friendly session led by Serene
- . No experience necessary.
-URL:https://www.londonbuddhistcentre.com/whats-on/qigong-1-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20260901T191500
-DTEND;TZID=Europe/London:20260901T213000
-UID:6f13fae79c1a1396e42016f3@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-1-sep
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Online Morning Meditation
@@ -323,5 +259,69 @@ UID:f28b49dd1443ef721fa1011c@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-5-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260905T113000
+DTEND;TZID=Europe/London:20260905T124500
+UID:126bd72abfab5b1887005dce@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-5-sep-3470c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260905T130000
+DTEND;TZID=Europe/London:20260905T140000
+UID:77bb72beb53e3db5c46f3ae0@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-5-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kum Nye Tibetan Yoga Workshop
+DTSTART;TZID=Europe/London:20260905T143000
+DTEND;TZID=Europe/London:20260905T170000
+UID:ae22f795255f0828626cf412@lbc-ics
+DESCRIPTION:Kum Nye is a Tibetan movement practice\, similar to tai chi or
+  yoga. This workshop explores simple exercises using movement\, breath and
+  awareness to release tension and develop a deeper sense of ease in both b
+ ody and mind.
+URL:https://www.londonbuddhistcentre.com/whats-on/kum-nye-tibetan-yoga-wor
+ kshop-05-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning for Fathers
+DTSTART;TZID=Europe/London:20260906T100000
+DTEND;TZID=Europe/London:20260906T130000
+UID:17c684c5a35f24e1aae9de67@lbc-ics
+DESCRIPTION:A morning for fathers to come together\, meditate and explore 
+ how Buddhist practice can support us in meeting the joys and challenges of
+  fatherhood.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-for-fathers-06-s
+ ep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQIA+ Sangha Day Retreat
+DTSTART;TZID=Europe/London:20260906T100000
+DTEND;TZID=Europe/London:20260906T160000
+UID:1e0d6af47f0d7b30f06db56d@lbc-ics
+DESCRIPTION:A day led by and for people identifying as LGBTQIA+\, with med
+ itation\, talks\, discussion groups and ritual\, focusing on inclusivity a
+ nd deepening friendships.
+URL:https://www.londonbuddhistcentre.com/whats-on/lgbtqia-sangha-day-retre
+ at-06-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holy Socks! Sock Puppetry Workshop with Oliver Smart
+DTSTART;TZID=Europe/London:20260906T103000
+DTEND;TZID=Europe/London:20260906T130000
+UID:6d94eb772c1833d51ba8ef2f@lbc-ics
+DESCRIPTION:Learn to build a puppet and pick up the basics of puppetry per
+ formance in this playful workshop for adults.
+URL:https://www.londonbuddhistcentre.com/whats-on/holy-socks-sock-puppetry
+ -workshop-with-oliver-smart
 END:VEVENT
 END:VCALENDAR
