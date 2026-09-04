@@ -37,61 +37,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20260903T073000
-DTEND;TZID=Europe/London:20260903T083000
-UID:9aa4890a2bd6478c2a5a476b@lbc-ics
-DESCRIPTION:This week-long series of guided meditation happens at the star
- t of every month. An opportunity to meditate with others and ask questions
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-thu-3-sep-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260903T120000
-DTEND;TZID=Europe/London:20260903T124500
-UID:91e357bcb05e446a9cdb7f63@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-3-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260903T130000
-DTEND;TZID=Europe/London:20260903T140000
-UID:6323e416228f48e38084893d@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-3-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eight Step Recovery Group for Men
-DTSTART;TZID=Europe/London:20260903T170000
-DTEND;TZID=Europe/London:20260903T183000
-UID:301eceb96a2362e8d0feafe9@lbc-ics
-DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
- 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
- s teachings outlining a suggested course of action for recovery from addic
- tion\, stinking thinking\, negative mental states\, and compulsive and obs
- essive behaviours.
-URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
- men-3-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thursday Night Class: Meditation & In-Conversation
-DTSTART;TZID=Europe/London:20260903T191500
-DTEND;TZID=Europe/London:20260903T211500
-UID:2ef94632d4a2741b6f785356@lbc-ics
-DESCRIPTION:The Noble Eightfold Path is one of the Buddha's most complete 
- and practical guides to living a life that leads to liberation. Over eight
-  weeks\, we will explore each step of the path\, drawing on Bhante Urgyen 
- Sangharakshita's seminal lecture series as our guide.
-URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-3-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
 DTSTART;TZID=Europe/London:20260904T073000
 DTEND;TZID=Europe/London:20260904T083000
 UID:8fcc2a020255ad922a49c96a@lbc-ics
@@ -321,5 +266,58 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-8-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260908T130000
+DTEND;TZID=Europe/London:20260908T140000
+UID:7daa6f59ad7b94d6e7fd70b7@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-8-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260908T141500
+DTEND;TZID=Europe/London:20260908T150000
+UID:b6253bd55828dc7d5643e6b7@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the car
+ etakers in looking after the fabric of the Centre. A wonderful way to give
+  back to the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-8-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qigong
+DTSTART;TZID=Europe/London:20260908T173000
+DTEND;TZID=Europe/London:20260908T183000
+UID:a244027902b61a4fda5ba613@lbc-ics
+DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
+  helps us cultivate awareness and connect with our bodies through simple b
+ reathing exercises and movement techniques\, and can be a great way to pre
+ pare for meditation. Join us for a beginner-friendly session led by Serene
+ . No experience necessary.
+URL:https://www.londonbuddhistcentre.com/whats-on/qigong-8-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260908T191500
+DTEND;TZID=Europe/London:20260908T213000
+UID:97cf88aa47f6113e5f7ff2c3@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-8-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260909T103500
+DTEND;TZID=Europe/London:20260909T123000
+UID:56cd75959cffcb6302f61639@lbc-ics
+DESCRIPTION:In this series\, we will be exploring the essential teachings 
+ of Buddhism. We will do this by way of talks\, discussion and workshops lo
+ oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
+ these can guide us in our lives today.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-9-sep
 END:VEVENT
 END:VCALENDAR
