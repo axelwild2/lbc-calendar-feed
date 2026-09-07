@@ -15,38 +15,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-aug-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning for Fathers
-DTSTART;TZID=Europe/London:20260906T100000
-DTEND;TZID=Europe/London:20260906T130000
-UID:17c684c5a35f24e1aae9de67@lbc-ics
-DESCRIPTION:A morning for fathers to come together\, meditate and explore 
- how Buddhist practice can support us in meeting the joys and challenges of
-  fatherhood.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-for-fathers-06-s
- ep-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQIA+ Sangha Day Retreat
-DTSTART;TZID=Europe/London:20260906T100000
-DTEND;TZID=Europe/London:20260906T160000
-UID:1e0d6af47f0d7b30f06db56d@lbc-ics
-DESCRIPTION:A day led by and for people identifying as LGBTQIA+\, with med
- itation\, talks\, discussion groups and ritual\, focusing on inclusivity a
- nd deepening friendships.
-URL:https://www.londonbuddhistcentre.com/whats-on/lgbtqia-sangha-day-retre
- at-06-sep-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holy Socks! Sock Puppetry Workshop with Oliver Smart
-DTSTART;TZID=Europe/London:20260906T103000
-DTEND;TZID=Europe/London:20260906T130000
-UID:6d94eb772c1833d51ba8ef2f@lbc-ics
-DESCRIPTION:Learn to build a puppet and pick up the basics of puppetry per
- formance in this playful workshop for adults.
-URL:https://www.londonbuddhistcentre.com/whats-on/holy-socks-sock-puppetry
- -workshop-with-oliver-smart
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breaking Free from Low Mood and Depression
 DTSTART;TZID=Europe/London:20260906T143000
 DTEND;TZID=Europe/London:20260906T173000
@@ -56,16 +24,6 @@ DESCRIPTION:In this 8-week course\, based on the Mindfulness Based Cogniti
  tive mental health.
 URL:https://www.londonbuddhistcentre.com/whats-on/breaking-free-from-low-m
  ood-and-depression-sep-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Death Cafe
-DTSTART;TZID=Europe/London:20260906T144500
-DTEND;TZID=Europe/London:20260906T170000
-UID:9412f9d0274cbf9ad27e592a@lbc-ics
-DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
- the only inevitable thing in life. Death cafes offer an opportunity to sha
- re with others our experiences\, ideas and feelings about death and dying.
-URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-sep-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -316,5 +274,44 @@ DESCRIPTION:This weekend will offer yoga for all levels\, alongside medita
  tion practice and a glimpse of the Buddhist vision.
 URL:https://www.londonbuddhistcentre.com/whats-on/yoga-for-meditation-week
  end-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260912T100000
+DTEND;TZID=Europe/London:20260912T111500
+UID:003453133cb9adfcd4103220@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-12-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260912T103000
+DTEND;TZID=Europe/London:20260912T123000
+UID:9ad9a3984e8af6018546f283@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-12-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Breakfast Seminar
+DTSTART;TZID=Europe/London:20260912T103000
+DTEND;TZID=Europe/London:20260912T123000
+UID:1036adb82ec6f29a2c6cfdaa@lbc-ics
+DESCRIPTION:Join this vibrant monthly seminar for people aged 18–30\, an
+ d explore Buddhist wisdom in the context of the modern world.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-breakfast-seminar-
+ 12-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260912T113000
+DTEND;TZID=Europe/London:20260912T124500
+UID:45a03bab402169d914930b52@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-12-sep
 END:VEVENT
 END:VCALENDAR
