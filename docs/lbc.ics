@@ -27,47 +27,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/breaking-free-from-low-m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260907T120000
-DTEND;TZID=Europe/London:20260907T124500
-UID:5d708045baaafbfc21551c50@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-7-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260907T130000
-DTEND;TZID=Europe/London:20260907T140000
-UID:ca91df0501a11f8f54247769@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-7-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260907T173000
-DTEND;TZID=Europe/London:20260907T183000
-UID:fc3592100817224ff5428e80@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-7-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260907T191500
-DTEND;TZID=Europe/London:20260907T214500
-UID:ac9fced07e7d783be548dfe3@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-7-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260908T120000
 DTEND;TZID=Europe/London:20260908T124500
 UID:26d9745530bf92d700c1e7ff@lbc-ics
@@ -313,5 +272,50 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-12-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260912T130000
+DTEND;TZID=Europe/London:20260912T140000
+UID:0e2fdff0456415c1580e5e26@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-12-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Urban Retreat 2026
+DTSTART;TZID=Europe/London:20260912T143000
+DTEND;TZID=Europe/London:20260912T213000
+UID:f4cb3de513349701183c6aba@lbc-ics
+DESCRIPTION:How much can we change our mind in one week? The Urban Retreat
+  is a chance to find out. For seven days\, the LBC's usual programme becom
+ es something altogether more intensive – a series of special events desi
+ gned to create the immersive\, transformative conditions of a retreat with
+ out leaving the city. All are welcome\, sign up for free on our website.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Ceremony | In person
+DTSTART;TZID=Europe/London:20260912T143000
+DTEND;TZID=Europe/London:20260912T170000
+UID:dae08ec7db7252298d3bad90@lbc-ics
+DESCRIPTION:Meet the team and your fellow retreatants and commit to turnin
+ g your life into a retreat over the coming week. We'll look at how to best
+  engage with the retreat\, reflect on our intentions and hopes\, and take 
+ part in a special opening ceremony to start the retreat together.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-kick-off-2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Ceremony | Online
+DTSTART;TZID=Europe/London:20260912T143000
+DTEND;TZID=Europe/London:20260912T153000
+UID:c090cd79c12f5d0c83e13ed8@lbc-ics
+DESCRIPTION:For those joining the Urban Retreat online. Join us for the op
+ ening ceremony of the Urban Retreat 2026 from wherever you are — setting
+  intentions and beginning the week together.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-onlin
+ e-opening-ceremony
 END:VEVENT
 END:VCALENDAR
