@@ -26,58 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/breaking-free-from-low-m
  ood-and-depression-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260908T120000
-DTEND;TZID=Europe/London:20260908T124500
-UID:26d9745530bf92d700c1e7ff@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-8-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260908T130000
-DTEND;TZID=Europe/London:20260908T140000
-UID:7daa6f59ad7b94d6e7fd70b7@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-8-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20260908T141500
-DTEND;TZID=Europe/London:20260908T150000
-UID:b6253bd55828dc7d5643e6b7@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the car
- etakers in looking after the fabric of the Centre. A wonderful way to give
-  back to the LBC.
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-8-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Qigong
-DTSTART;TZID=Europe/London:20260908T173000
-DTEND;TZID=Europe/London:20260908T183000
-UID:a244027902b61a4fda5ba613@lbc-ics
-DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
-  helps us cultivate awareness and connect with our bodies through simple b
- reathing exercises and movement techniques\, and can be a great way to pre
- pare for meditation. Join us for a beginner-friendly session led by Serene
- . No experience necessary.
-URL:https://www.londonbuddhistcentre.com/whats-on/qigong-8-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20260908T191500
-DTEND;TZID=Europe/London:20260908T213000
-UID:97cf88aa47f6113e5f7ff2c3@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-8-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daytime Buddhism & Meditation Class
 DTSTART;TZID=Europe/London:20260909T103500
 DTEND;TZID=Europe/London:20260909T123000
@@ -317,5 +265,61 @@ DESCRIPTION:For those joining the Urban Retreat online. Join us for the op
   intentions and beginning the week together.
 URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-onlin
  e-opening-ceremony
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Night: Past Lives
+DTSTART;TZID=Europe/London:20260912T191500
+DTEND;TZID=Europe/London:20260912T211500
+UID:8710c7674315a01ab905d2cb@lbc-ics
+DESCRIPTION:A bittersweet reunion between childhood sweethearts raises qui
+ et questions about fate\, choice\, and the paths not taken.
+URL:https://www.londonbuddhistcentre.com/whats-on/film-night-past-lives-12
+ -sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Meditation Morning (Beginners)
+DTSTART;TZID=Europe/London:20260913T100000
+DTEND;TZID=Europe/London:20260913T130000
+UID:dc59c7d150204e1dc9c358e0@lbc-ics
+DESCRIPTION:Learn fundamental tools to work with your mind\, and begin to 
+ transform it. This is an opportunity to familiarise yourself with the prac
+ tices we teach at the LBC\, or learn meditation from scratch. After lunch
+ \, you will join in with the silent meditation day.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-intro
+ duction-to-meditation-morning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Immersion Day (Regulars)
+DTSTART;TZID=Europe/London:20260913T100000
+DTEND;TZID=Europe/London:20260913T160000
+UID:c750f4bcba29df0e1521c827@lbc-ics
+DESCRIPTION:Dive in with a full day of collective practice. Expect plenty 
+ of meditation\, and silence to help us take our practice deeper. Suitable 
+ for those who have learned the Mindfulness of Breathing and Metta Bhavana 
+ practices as we teach them at the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-total
+ -immersion-day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Online Class
+DTSTART;TZID=Europe/London:20260913T100000
+DTEND;TZID=Europe/London:20260913T113000
+UID:4cee0a5609920b55fb0de41f@lbc-ics
+DESCRIPTION:A chance for people of colour to come together\, meditate and 
+ reflect on our lives in light of the Buddha’s teachings. All levels of e
+ xperience welcome.
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-online-
+ class-13-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Morning for Teens
+DTSTART;TZID=Europe/London:20260913T110000
+DTEND;TZID=Europe/London:20260913T133000
+UID:f110d98647041beaf2e094b6@lbc-ics
+DESCRIPTION:Meet with like-minded teens (12–17 years old) to learn about
+  Buddhism and meditation\, and explore how to have a positive impact in th
+ e world and increase your mental well-being.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-morning-for-teen
+ s-13-sep-2026
 END:VEVENT
 END:VCALENDAR
