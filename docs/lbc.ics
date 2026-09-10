@@ -26,69 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/breaking-free-from-low-m
  ood-and-depression-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260909T103500
-DTEND;TZID=Europe/London:20260909T123000
-UID:56cd75959cffcb6302f61639@lbc-ics
-DESCRIPTION:In this series\, we will be exploring the essential teachings 
- of Buddhism. We will do this by way of talks\, discussion and workshops lo
- oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
- these can guide us in our lives today.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-9-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260909T120000
-DTEND;TZID=Europe/London:20260909T124500
-UID:3902292f6ea87e09bb491246@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-9-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260909T130000
-DTEND;TZID=Europe/London:20260909T140000
-UID:ce3a40a51e8ebd0c0be6b74c@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-9-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260909T173000
-DTEND;TZID=Europe/London:20260909T183000
-UID:3042ae427549aa65f0d4102f@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-9-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260909T173000
-DTEND;TZID=Europe/London:20260909T183000
-UID:b7180902c9d1b30dee49a6ed@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-9-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Prerequisites: Truth\, Faith\, Love
-DTSTART;TZID=Europe/London:20260909T191500
-DTEND;TZID=Europe/London:20260909T213000
-UID:aa913588b89e2dce7588964e@lbc-ics
-DESCRIPTION:Maitreyabandhu\, a senior member of the Triratna Buddhist Orde
- r\, will be exploring the Three Prerequisites\, the fundamental qualities 
- we need to explore life in a healthy\, integral way. Suitable for complete
-  newcomers and those who have already begun to explore life more deeply. Y
- ou are welcome to come to the whole series or drop into as many sessions a
- s you like.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-9-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260910T120000
 DTEND;TZID=Europe/London:20260910T124500
@@ -321,5 +258,68 @@ DESCRIPTION:Meet with like-minded teens (12–17 years old) to learn about
  e world and increase your mental well-being.
 URL:https://www.londonbuddhistcentre.com/whats-on/mindful-morning-for-teen
  s-13-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Meditation
+DTSTART;TZID=Europe/London:20260914T070000
+DTEND;TZID=Europe/London:20260914T080000
+UID:01fa6ca06a51036405811d22@lbc-ics
+DESCRIPTION:Start your day meditating with others. Come in person if you c
+ an\, or join online. After meditation\, stay for breakfast in the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-morni
+ ng-meditation-mon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga in the Park
+DTSTART;TZID=Europe/London:20260914T090000
+DTEND;TZID=Europe/London:20260914T100000
+UID:e6020d0622c8eb81346133a4@lbc-ics
+DESCRIPTION:Hatha flow yoga in the beautiful outdoors. All levels welcome 
+ — just bring yourself and a mat if you have one. Meet at the LBC at 8.30
+ am to walk together\, or at Well Street Common to start at 9am.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-yoga-
+ in-the-park-mon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260914T120000
+DTEND;TZID=Europe/London:20260914T124500
+UID:c8bf7835e34936817f8a9933@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-14-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260914T130000
+DTEND;TZID=Europe/London:20260914T140000
+UID:0f65341e819ce756bf86036d@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-14-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Toolkit
+DTSTART;TZID=Europe/London:20260914T130000
+DTEND;TZID=Europe/London:20260914T140000
+UID:e917c3cede35ac831d934e46@lbc-ics
+DESCRIPTION:A progressive sequence of lunchtime sessions\, giving you tool
+ s for developing a wiser\, more loving mind. The regulars class is also av
+ ailable online via Zoom\; the newcomers session is in person only.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-lunch
+ time-meditation-toolkit-mon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music: The Art of Listening
+DTSTART;TZID=Europe/London:20260914T153000
+DTEND;TZID=Europe/London:20260914T170000
+UID:d62ffb932f38ae8adf3de611@lbc-ics
+DESCRIPTION:An afternoon session led by Amalavira\, exploring how listenin
+ g deeply to music can open up a richer\, more receptive way of experiencin
+ g the world.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-music
+ -the-art-of-listening
 END:VEVENT
 END:VCALENDAR
