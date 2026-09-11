@@ -27,49 +27,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/breaking-free-from-low-m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260910T120000
-DTEND;TZID=Europe/London:20260910T124500
-UID:17e96018de441bc8d3b0948c@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-10-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260910T130000
-DTEND;TZID=Europe/London:20260910T140000
-UID:6c9b3cc5f9d8ccad103fddb9@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-10-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eight Step Recovery Group for Men
-DTSTART;TZID=Europe/London:20260910T170000
-DTEND;TZID=Europe/London:20260910T183000
-UID:042de9d8138689e89385c8e7@lbc-ics
-DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
- 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
- s teachings outlining a suggested course of action for recovery from addic
- tion\, stinking thinking\, negative mental states\, and compulsive and obs
- essive behaviours.
-URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
- men-10-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thursday Night Class: Meditation & In-Conversation
-DTSTART;TZID=Europe/London:20260910T191500
-DTEND;TZID=Europe/London:20260910T211500
-UID:48e781de9624b4ac97faf057@lbc-ics
-DESCRIPTION:Join us for an evening of meditation\, discussion and Dharma t
- eaching. The second half of the class features a conversation about how we
-  can relate themes from the Buddhas teachings to our lives today.
-URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-10-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260911T120000
 DTEND;TZID=Europe/London:20260911T124500
 UID:33fa6b5229c9647e6a7f524b@lbc-ics
@@ -321,5 +278,47 @@ DESCRIPTION:An afternoon session led by Amalavira\, exploring how listenin
  g the world.
 URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-music
  -the-art-of-listening
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Going For Refuge and Prostration Practice
+DTSTART;TZID=Europe/London:20260914T170000
+DTEND;TZID=Europe/London:20260914T180000
+UID:9b330c4a1088641b284501d1@lbc-ics
+DESCRIPTION:For GFR mitras who have learned the prostration practice\, and
+  Order Members.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-gfr-p
+ rostration-mon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260914T173000
+DTEND;TZID=Europe/London:20260914T183000
+UID:1eb24e2f7dbd67a4ded891cf@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-14-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260914T191500
+DTEND;TZID=Europe/London:20260914T214500
+UID:3572be24d617d65f6ad7b952@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-14-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Courage to Face Life | Suryagupta
+DTSTART;TZID=Europe/London:20260914T191500
+DTEND;TZID=Europe/London:20260914T213000
+UID:b860437f965a709dd16fe1e0@lbc-ics
+DESCRIPTION:These evening sessions are often the highlight of the Urban Re
+ treat. Come to meditate and hear Suryagupta on facing life's difficulties
+ \, the first of this year's keynote talks.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-the-c
+ ourage-to-face-life-suryagupta
 END:VEVENT
 END:VCALENDAR
