@@ -26,47 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/breaking-free-from-low-m
  ood-and-depression-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260911T120000
-DTEND;TZID=Europe/London:20260911T124500
-UID:33fa6b5229c9647e6a7f524b@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-11-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260911T130000
-DTEND;TZID=Europe/London:20260911T140000
-UID:24317e6da5e56451e7b59914@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-11-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20260911T173000
-DTEND;TZID=Europe/London:20260911T183000
-UID:1f67852d9d259f165c4a6a80@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-11-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Class
-DTSTART;TZID=Europe/London:20260911T191500
-DTEND;TZID=Europe/London:20260911T213000
-UID:b39bd618ebb16dc9e7c4d112@lbc-ics
-DESCRIPTION:End the week in person at the LBC with an inspiring evening of
-  meditation\, tale-telling and ritual. For anyone who is familiar with the
-  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
- ices.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-11-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga for Meditation Weekend
 DTSTART;TZID=Europe/London:20260911T200000
 DTEND;TZID=Europe/London:20260911T160000
@@ -320,5 +279,47 @@ DESCRIPTION:These evening sessions are often the highlight of the Urban Re
  \, the first of this year's keynote talks.
 URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-the-c
  ourage-to-face-life-suryagupta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Meditation
+DTSTART;TZID=Europe/London:20260915T070000
+DTEND;TZID=Europe/London:20260915T080000
+UID:00cfb86cacb66913452b3d0c@lbc-ics
+DESCRIPTION:Start your day meditating with others. Come in person if you c
+ an\, or join online. After meditation\, stay for breakfast in the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-morni
+ ng-meditation-tue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tibetan Yoga (Kum Nye)
+DTSTART;TZID=Europe/London:20260915T090000
+DTEND;TZID=Europe/London:20260915T100000
+UID:12617789260206c499c02ff2@lbc-ics
+DESCRIPTION:Kum Nye is a Tibetan movement practice\, similar to tai chi or
+  yoga. This session explores simple exercises using movement\, breath and 
+ awareness to release tension and develop a deeper sense of ease in both bo
+ dy and mind. No prior experience needed.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-kum-n
+ ye-tue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260915T120000
+DTEND;TZID=Europe/London:20260915T124500
+UID:f365b2b0cfcb50a712ea0e02@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-15-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260915T130000
+DTEND;TZID=Europe/London:20260915T140000
+UID:28da7310a649e206cbd276be@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-15-sep
 END:VEVENT
 END:VCALENDAR
