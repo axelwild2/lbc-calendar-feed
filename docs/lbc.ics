@@ -36,55 +36,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/yoga-for-meditation-week
  end-sep-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260912T100000
-DTEND;TZID=Europe/London:20260912T111500
-UID:003453133cb9adfcd4103220@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-12-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260912T103000
-DTEND;TZID=Europe/London:20260912T123000
-UID:9ad9a3984e8af6018546f283@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-12-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sub30 Breakfast Seminar
-DTSTART;TZID=Europe/London:20260912T103000
-DTEND;TZID=Europe/London:20260912T123000
-UID:1036adb82ec6f29a2c6cfdaa@lbc-ics
-DESCRIPTION:Join this vibrant monthly seminar for people aged 18–30\, an
- d explore Buddhist wisdom in the context of the modern world.
-URL:https://www.londonbuddhistcentre.com/whats-on/sub30-breakfast-seminar-
- 12-sep-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260912T113000
-DTEND;TZID=Europe/London:20260912T124500
-UID:45a03bab402169d914930b52@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-12-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260912T130000
-DTEND;TZID=Europe/London:20260912T140000
-UID:0e2fdff0456415c1580e5e26@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-12-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Urban Retreat 2026
 DTSTART;TZID=Europe/London:20260912T143000
 DTEND;TZID=Europe/London:20260912T213000
@@ -95,39 +46,6 @@ DESCRIPTION:How much can we change our mind in one week? The Urban Retreat
  gned to create the immersive\, transformative conditions of a retreat with
  out leaving the city. All are welcome\, sign up for free on our website.
 URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opening Ceremony | In person
-DTSTART;TZID=Europe/London:20260912T143000
-DTEND;TZID=Europe/London:20260912T170000
-UID:dae08ec7db7252298d3bad90@lbc-ics
-DESCRIPTION:Meet the team and your fellow retreatants and commit to turnin
- g your life into a retreat over the coming week. We'll look at how to best
-  engage with the retreat\, reflect on our intentions and hopes\, and take 
- part in a special opening ceremony to start the retreat together.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-kick-off-2
- 026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opening Ceremony | Online
-DTSTART;TZID=Europe/London:20260912T143000
-DTEND;TZID=Europe/London:20260912T153000
-UID:c090cd79c12f5d0c83e13ed8@lbc-ics
-DESCRIPTION:For those joining the Urban Retreat online. Join us for the op
- ening ceremony of the Urban Retreat 2026 from wherever you are — setting
-  intentions and beginning the week together.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-onlin
- e-opening-ceremony
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Film Night: Past Lives
-DTSTART;TZID=Europe/London:20260912T191500
-DTEND;TZID=Europe/London:20260912T211500
-UID:8710c7674315a01ab905d2cb@lbc-ics
-DESCRIPTION:A bittersweet reunion between childhood sweethearts raises qui
- et questions about fate\, choice\, and the paths not taken.
-URL:https://www.londonbuddhistcentre.com/whats-on/film-night-past-lives-12
- -sep-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Introduction to Meditation Morning (Beginners)
@@ -321,5 +239,91 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-15-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Toolkit
+DTSTART;TZID=Europe/London:20260915T130000
+DTEND;TZID=Europe/London:20260915T140000
+UID:4944faa5f27690b797470f27@lbc-ics
+DESCRIPTION:A progressive sequence of lunchtime sessions\, giving you tool
+ s for developing a wiser\, more loving mind. The regulars class is also av
+ ailable online via Zoom\; the newcomers session is in person only.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-lunch
+ time-meditation-toolkit-tue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260915T141500
+DTEND;TZID=Europe/London:20260915T150000
+UID:f897b8c5afc770c185129ea7@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the car
+ etakers in looking after the fabric of the Centre. A wonderful way to give
+  back to the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-15-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260915T141500
+DTEND;TZID=Europe/London:20260915T151500
+UID:75805273ce7ce6cec59788a5@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the car
+ etakers in looking after the fabric of the Centre. A wonderful way to give
+  back to the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-volun
+ teering-session-tue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Going For Refuge and Prostration Practice
+DTSTART;TZID=Europe/London:20260915T170000
+DTEND;TZID=Europe/London:20260915T180000
+UID:6ea7eaa83b321e8493a2a0ec@lbc-ics
+DESCRIPTION:For GFR mitras who have learned the prostration practice\, and
+  Order Members.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-gfr-p
+ rostration-tue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qigong
+DTSTART;TZID=Europe/London:20260915T173000
+DTEND;TZID=Europe/London:20260915T183000
+UID:c8a5258f11114c0efffd7203@lbc-ics
+DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
+  helps us cultivate awareness and connect with our bodies through simple b
+ reathing exercises and movement techniques\, and can be a great way to pre
+ pare for meditation. Join us for a beginner-friendly session. No experienc
+ e necessary.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-qigon
+ g-tue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260915T191500
+DTEND;TZID=Europe/London:20260915T213000
+UID:7415ebebc1a4e32897e16364@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-15-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why Aren't We Happy?
+DTSTART;TZID=Europe/London:20260915T191500
+DTEND;TZID=Europe/London:20260915T213000
+UID:da6be0e317226c708438772c@lbc-ics
+DESCRIPTION:These evening sessions are often the highlight of the Urban Re
+ treat. Come to meditate and hear a talk on finding the root of suffering\,
+  the second of this year's keynote talks.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-why-a
+ rent-we-happy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Meditation
+DTSTART;TZID=Europe/London:20260916T070000
+DTEND;TZID=Europe/London:20260916T080000
+UID:5dc2936cd155035098b34d26@lbc-ics
+DESCRIPTION:Start your day meditating with others. Come in person if you c
+ an\, or join online. After meditation\, stay for breakfast in the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-morni
+ ng-meditation-wed
 END:VEVENT
 END:VCALENDAR
