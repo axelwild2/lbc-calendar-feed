@@ -26,16 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/breaking-free-from-low-m
  ood-and-depression-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga for Meditation Weekend
-DTSTART;TZID=Europe/London:20260911T200000
-DTEND;TZID=Europe/London:20260911T160000
-UID:81e1374fcd475ad5a870761c@lbc-ics
-DESCRIPTION:This weekend will offer yoga for all levels\, alongside medita
- tion practice and a glimpse of the Buddhist vision.
-URL:https://www.londonbuddhistcentre.com/whats-on/yoga-for-meditation-week
- end-sep-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Urban Retreat 2026
 DTSTART;TZID=Europe/London:20260912T143000
 DTEND;TZID=Europe/London:20260912T213000
@@ -46,52 +36,6 @@ DESCRIPTION:How much can we change our mind in one week? The Urban Retreat
  gned to create the immersive\, transformative conditions of a retreat with
  out leaving the city. All are welcome\, sign up for free on our website.
 URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Introduction to Meditation Morning (Beginners)
-DTSTART;TZID=Europe/London:20260913T100000
-DTEND;TZID=Europe/London:20260913T130000
-UID:dc59c7d150204e1dc9c358e0@lbc-ics
-DESCRIPTION:Learn fundamental tools to work with your mind\, and begin to 
- transform it. This is an opportunity to familiarise yourself with the prac
- tices we teach at the LBC\, or learn meditation from scratch. After lunch
- \, you will join in with the silent meditation day.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-intro
- duction-to-meditation-morning
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Total Immersion Day (Regulars)
-DTSTART;TZID=Europe/London:20260913T100000
-DTEND;TZID=Europe/London:20260913T160000
-UID:c750f4bcba29df0e1521c827@lbc-ics
-DESCRIPTION:Dive in with a full day of collective practice. Expect plenty 
- of meditation\, and silence to help us take our practice deeper. Suitable 
- for those who have learned the Mindfulness of Breathing and Metta Bhavana 
- practices as we teach them at the LBC.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-total
- -immersion-day
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:People of Colour Online Class
-DTSTART;TZID=Europe/London:20260913T100000
-DTEND;TZID=Europe/London:20260913T113000
-UID:4cee0a5609920b55fb0de41f@lbc-ics
-DESCRIPTION:A chance for people of colour to come together\, meditate and 
- reflect on our lives in light of the Buddha’s teachings. All levels of e
- xperience welcome.
-URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-online-
- class-13-sep-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Morning for Teens
-DTSTART;TZID=Europe/London:20260913T110000
-DTEND;TZID=Europe/London:20260913T133000
-UID:f110d98647041beaf2e094b6@lbc-ics
-DESCRIPTION:Meet with like-minded teens (12–17 years old) to learn about
-  Buddhism and meditation\, and explore how to have a positive impact in th
- e world and increase your mental well-being.
-URL:https://www.londonbuddhistcentre.com/whats-on/mindful-morning-for-teen
- s-13-sep-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morning Meditation
@@ -283,6 +227,17 @@ URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-gfr-p
  rostration-tue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Online Check-in
+DTSTART;TZID=Europe/London:20260915T171500
+DTEND;TZID=Europe/London:20260915T180000
+UID:a76591aaf677c2da1fbd9963@lbc-ics
+DESCRIPTION:For those joining the Urban Retreat online. A midweek chance t
+ o come together\, share how the week is going and ask questions about prac
+ tice.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-onlin
+ e-check-in
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qigong
 DTSTART;TZID=Europe/London:20260915T173000
 DTEND;TZID=Europe/London:20260915T183000
@@ -306,7 +261,7 @@ DESCRIPTION:You can either learn to meditate from scratch and develop the
 URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-15-sep
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Why Aren't We Happy?
+SUMMARY:Why Aren't We Happy? | Jyotismati
 DTSTART;TZID=Europe/London:20260915T191500
 DTEND;TZID=Europe/London:20260915T213000
 UID:da6be0e317226c708438772c@lbc-ics
@@ -325,5 +280,49 @@ DESCRIPTION:Start your day meditating with others. Come in person if you c
  an\, or join online. After meditation\, stay for breakfast in the LBC.
 URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-morni
  ng-meditation-wed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Running Club
+DTSTART;TZID=Europe/London:20260916T081500
+DTEND;TZID=Europe/London:20260916T090000
+UID:b1169295f18210b97afaa1b9@lbc-ics
+DESCRIPTION:A friendly morning run from the LBC\, led by Dario. Finishing 
+ at Yoga in the Park\, or for a coffee and breakfast at the Mandala Café. 
+ All paces welcome - come along and start the day moving with others. Pleas
+ e arrive 5 minutes early to ensure a prompt start.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-runni
+ ng-club-wed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga in the Park
+DTSTART;TZID=Europe/London:20260916T090000
+DTEND;TZID=Europe/London:20260916T100000
+UID:64e1ae25edc0882d8066418c@lbc-ics
+DESCRIPTION:Hatha flow yoga in the beautiful outdoors. All levels welcome 
+ — just bring yourself and a mat if you have one. Meet at the LBC at 8.30
+ am to walk together\, or at Well Street Common to start at 9am.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-yoga-
+ in-the-park-wed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260916T104500
+DTEND;TZID=Europe/London:20260916T123000
+UID:3622af8403d94916bdbbfcf7@lbc-ics
+DESCRIPTION:Join in for our regular daytime weekly class of Dharma teachin
+ g and meditation\, this week as part of the Urban Retreat. In person at th
+ e LBC and live on Zoom.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-dayti
+ me-buddhism-meditation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260916T120000
+DTEND;TZID=Europe/London:20260916T124500
+UID:b1a195b5191793a1a7c3d7b2@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-16-sep
 END:VEVENT
 END:VCALENDAR
