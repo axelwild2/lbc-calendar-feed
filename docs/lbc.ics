@@ -4,17 +4,6 @@ PRODID:-//London Buddhist Centre//Auto ICS//EN
 X-WR-CALNAME:London Buddhist Centre
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-SUMMARY:Introduction to Buddhism & Meditation Course
-DTSTART;TZID=Europe/London:20260810T191500
-DTEND;TZID=Europe/London:20260810T214500
-UID:fa5e9e2824777e9aef29651a@lbc-ics
-DESCRIPTION:This six-week course on Monday evenings will introduce you to 
- key Buddhist principles and two meditation practices that cultivate self-a
- wareness\, open-heartedness\, and insight.
-URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
- -meditation-course-aug-26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breaking Free from Low Mood and Depression
 DTSTART;TZID=Europe/London:20260906T143000
 DTEND;TZID=Europe/London:20260906T173000
@@ -36,111 +25,6 @@ DESCRIPTION:How much can we change our mind in one week? The Urban Retreat
  gned to create the immersive\, transformative conditions of a retreat with
  out leaving the city. All are welcome\, sign up for free on our website.
 URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Morning Meditation
-DTSTART;TZID=Europe/London:20260914T070000
-DTEND;TZID=Europe/London:20260914T080000
-UID:01fa6ca06a51036405811d22@lbc-ics
-DESCRIPTION:Start your day meditating with others. Come in person if you c
- an\, or join online. After meditation\, stay for breakfast in the LBC.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-morni
- ng-meditation-mon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga in the Park
-DTSTART;TZID=Europe/London:20260914T090000
-DTEND;TZID=Europe/London:20260914T100000
-UID:e6020d0622c8eb81346133a4@lbc-ics
-DESCRIPTION:Hatha flow yoga in the beautiful outdoors. All levels welcome 
- — just bring yourself and a mat if you have one. Meet at the LBC at 8.30
- am to walk together\, or at Well Street Common to start at 9am.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-yoga-
- in-the-park-mon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260914T120000
-DTEND;TZID=Europe/London:20260914T124500
-UID:c8bf7835e34936817f8a9933@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-14-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260914T130000
-DTEND;TZID=Europe/London:20260914T140000
-UID:0f65341e819ce756bf86036d@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-14-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Toolkit
-DTSTART;TZID=Europe/London:20260914T130000
-DTEND;TZID=Europe/London:20260914T140000
-UID:e917c3cede35ac831d934e46@lbc-ics
-DESCRIPTION:A progressive sequence of lunchtime sessions\, giving you tool
- s for developing a wiser\, more loving mind. The regulars class is also av
- ailable online via Zoom\; the newcomers session is in person only.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-lunch
- time-meditation-toolkit-mon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music: The Art of Listening
-DTSTART;TZID=Europe/London:20260914T153000
-DTEND;TZID=Europe/London:20260914T170000
-UID:d62ffb932f38ae8adf3de611@lbc-ics
-DESCRIPTION:An afternoon session led by Amalavira\, exploring how listenin
- g deeply to music can open up a richer\, more receptive way of experiencin
- g the world.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-music
- -the-art-of-listening
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Going For Refuge and Prostration Practice
-DTSTART;TZID=Europe/London:20260914T170000
-DTEND;TZID=Europe/London:20260914T180000
-UID:9b330c4a1088641b284501d1@lbc-ics
-DESCRIPTION:For GFR mitras who have learned the prostration practice\, and
-  Order Members.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-gfr-p
- rostration-mon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260914T173000
-DTEND;TZID=Europe/London:20260914T183000
-UID:1eb24e2f7dbd67a4ded891cf@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-14-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20260914T191500
-DTEND;TZID=Europe/London:20260914T214500
-UID:3572be24d617d65f6ad7b952@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-14-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Courage to Face Life | Suryagupta
-DTSTART;TZID=Europe/London:20260914T191500
-DTEND;TZID=Europe/London:20260914T213000
-UID:b860437f965a709dd16fe1e0@lbc-ics
-DESCRIPTION:These evening sessions are often the highlight of the Urban Re
- treat. Come to meditate and hear Suryagupta on facing life's difficulties
- \, the first of this year's keynote talks.
-URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-the-c
- ourage-to-face-life-suryagupta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morning Meditation
@@ -324,5 +208,121 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-16-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260916T130000
+DTEND;TZID=Europe/London:20260916T140000
+UID:4cf70f13268c534f3d1f70ae@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-16-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Toolkit
+DTSTART;TZID=Europe/London:20260916T130000
+DTEND;TZID=Europe/London:20260916T140000
+UID:d20e1dadcd3279cce7a9f6c9@lbc-ics
+DESCRIPTION:A progressive sequence of lunchtime sessions\, giving you tool
+ s for developing a wiser\, more loving mind. The regulars class is also av
+ ailable online via Zoom\; the newcomers session is in person only.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-lunch
+ time-meditation-toolkit-wed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Going For Refuge and Prostration Practice
+DTSTART;TZID=Europe/London:20260916T170000
+DTEND;TZID=Europe/London:20260916T180000
+UID:2ab402fcc2ff55f302ac38cc@lbc-ics
+DESCRIPTION:For GFR mitras who have learned the prostration practice\, and
+  Order Members.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-gfr-p
+ rostration-wed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra Chanting
+DTSTART;TZID=Europe/London:20260916T173000
+DTEND;TZID=Europe/London:20260916T183000
+UID:8421bb9c645b0313e8746afa@lbc-ics
+DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
+  group as a way to going deeper in one's experience.
+URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-16-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260916T173000
+DTEND;TZID=Europe/London:20260916T183000
+UID:9ca78465738eb1335002d740@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-16-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra Chanting
+DTSTART;TZID=Europe/London:20260916T173000
+DTEND;TZID=Europe/London:20260916T183000
+UID:aa816e4ee14e3c98c3090b4c@lbc-ics
+DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
+  group as a way of going deeper in one's experience.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-mantr
+ a-chanting-wed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Prerequisites: Truth\, Faith\, Love
+DTSTART;TZID=Europe/London:20260916T191500
+DTEND;TZID=Europe/London:20260916T213000
+UID:81206fff27abf0812af6da3a@lbc-ics
+DESCRIPTION:Maitreyabandhu\, a senior member of the Triratna Buddhist Orde
+ r\, will be exploring the Three Prerequisites\, the fundamental qualities 
+ we need to explore life in a healthy\, integral way. Suitable for complete
+  newcomers and those who have already begun to explore life more deeply. Y
+ ou are welcome to come to the whole series or drop into as many sessions a
+ s you like.
+URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-16-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seeing the Nature of Things | Maitreyabandhu
+DTSTART;TZID=Europe/London:20260916T191500
+DTEND;TZID=Europe/London:20260916T213000
+UID:6a8b3f699284be8417ae1ba8@lbc-ics
+DESCRIPTION:These evening sessions are often the highlight of the Urban Re
+ treat. Come to meditate and hear Maitreyabandhu on seeing the nature of th
+ ings\, the third of this year's keynote talks.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-seein
+ g-the-nature-of-things-maitreyabandhu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Meditation
+DTSTART;TZID=Europe/London:20260917T070000
+DTEND;TZID=Europe/London:20260917T080000
+UID:5d1462ceb074c5de86d1c22c@lbc-ics
+DESCRIPTION:Start your day meditating with others. Come in person if you c
+ an\, or join online. After meditation\, stay for breakfast in the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-morni
+ ng-meditation-thu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tibetan Yoga (Kum Nye)
+DTSTART;TZID=Europe/London:20260917T090000
+DTEND;TZID=Europe/London:20260917T100000
+UID:cb10fd06b8654cd69fe4f1d7@lbc-ics
+DESCRIPTION:Kum Nye is a Tibetan movement practice\, similar to tai chi or
+  yoga. This session explores simple exercises using movement\, breath and 
+ awareness to release tension and develop a deeper sense of ease in both bo
+ dy and mind. No prior experience needed.
+URL:https://www.londonbuddhistcentre.com/whats-on/urban-retreat-2026-kum-n
+ ye-thu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260917T120000
+DTEND;TZID=Europe/London:20260917T124500
+UID:a177dd4d612d14a5e11f9d2b@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-17-sep
 END:VEVENT
 END:VCALENDAR
