@@ -27,45 +27,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-week
  end-sep-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20260919T100000
-DTEND;TZID=Europe/London:20260919T111500
-UID:ba2f5ed97d0082db8bb723cd@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-19-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20260919T103000
-DTEND;TZID=Europe/London:20260919T123000
-UID:c7a0f548cff70f519c33c3b2@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-19-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260919T113000
-DTEND;TZID=Europe/London:20260919T124500
-UID:413955160a1dbc77359e55d6@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-19-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260919T130000
-DTEND;TZID=Europe/London:20260919T140000
-UID:04c6288ed0538646df81e542@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-19-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Padmasambhava Festival: Transforming Demons
 DTSTART;TZID=Europe/London:20260919T143000
 DTEND;TZID=Europe/London:20260919T213000
@@ -74,17 +35,6 @@ DESCRIPTION:Celebrate the significance of Padmasambhava\, the 'second Budd
  ha' – with music\, ritual\, talks\, and – of course – demons.
 URL:https://www.londonbuddhistcentre.com/whats-on/padmasambhava-festival-t
  ransforming-demons-19-sep-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mural Unveiling
-DTSTART;TZID=Europe/London:20260919T143000
-DTEND;TZID=Europe/London:20260919T153000
-UID:c7c8da943cb5ef70f82df933@lbc-ics
-DESCRIPTION:Kusalasara and Maitreyabandhu have been hard at work over the 
- last few weeks designing and painting a beautiful mural on the side of our
-  building. Join the ceremonial unveiling of the finished piece this weeken
- d.
-URL:https://www.londonbuddhistcentre.com/whats-on/mural-unveiling
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -320,5 +270,54 @@ DESCRIPTION:Spend a morning at the LBC helping to beautify and refresh the
  actise Buddhist ritual alongside others.
 URL:https://www.londonbuddhistcentre.com/whats-on/work-morning-whistle-whi
  le-you-work-25-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260925T120000
+DTEND;TZID=Europe/London:20260925T124500
+UID:c03ee574936badb6324bab69@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-25-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260925T130000
+DTEND;TZID=Europe/London:20260925T140000
+UID:c9418eac2564886fce33b45c@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-25-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Restorative Yoga Class
+DTSTART;TZID=Europe/London:20260925T173000
+DTEND;TZID=Europe/London:20260925T183000
+UID:47a4cf5f943ccc48b2a3a07d@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-25-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mythic Realm
+DTSTART;TZID=Europe/London:20260925T191500
+DTEND;TZID=Europe/London:20260925T213000
+UID:06d52c0ea7991765b2455562@lbc-ics
+DESCRIPTION:A five week series at the Friday class\, exploring archetypal 
+ Buddha & Bodhisattva figures.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-25-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Friday Class
+DTSTART;TZID=Europe/London:20260925T191500
+DTEND;TZID=Europe/London:20260925T214500
+UID:65cd2017191987aef8e9e35f@lbc-ics
+DESCRIPTION:Join others aged 18–30 for an evening of meditation\, discus
+ sion and reflecting on what is most valuable in life.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-friday-class-25-se
+ p-2026
 END:VEVENT
 END:VCALENDAR
