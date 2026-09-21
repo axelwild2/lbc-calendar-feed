@@ -15,28 +15,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/breaking-free-from-low-m
  ood-and-depression-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhism & Meditation Weekend
-DTSTART;TZID=Europe/London:20260918T190000
-DTEND;TZID=Europe/London:20260918T150000
-UID:659749b4bc8779d4835f80d6@lbc-ics
-DESCRIPTION:Curious about retreats? This introductory weekend is an ideal 
- first taste. Break out of your routine and spend two days learning transfo
- rmative practices\, connecting with others\, and enjoying the beautiful Su
- ffolk countryside.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-week
- end-sep-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Padmasambhava Festival: Transforming Demons
-DTSTART;TZID=Europe/London:20260919T143000
-DTEND;TZID=Europe/London:20260919T213000
-UID:88407a75d1c9d4e0848b25c4@lbc-ics
-DESCRIPTION:Celebrate the significance of Padmasambhava\, the 'second Budd
- ha' – with music\, ritual\, talks\, and – of course – demons.
-URL:https://www.londonbuddhistcentre.com/whats-on/padmasambhava-festival-t
- ransforming-demons-19-sep-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260921T120000
 DTEND;TZID=Europe/London:20260921T124500
@@ -319,5 +297,24 @@ DESCRIPTION:Join others aged 18–30 for an evening of meditation\, discus
  sion and reflecting on what is most valuable in life.
 URL:https://www.londonbuddhistcentre.com/whats-on/sub30-friday-class-25-se
  p-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20260926T100000
+DTEND;TZID=Europe/London:20260926T111500
+UID:959737c489fb73ea37fb1d0e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-26-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20260926T103000
+DTEND;TZID=Europe/London:20260926T123000
+UID:8ed0836a7e920a6dbb920ee2@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-26-sep
 END:VEVENT
 END:VCALENDAR
