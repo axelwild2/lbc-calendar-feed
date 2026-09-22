@@ -15,49 +15,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/breaking-free-from-low-m
  ood-and-depression-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260921T120000
-DTEND;TZID=Europe/London:20260921T124500
-UID:5a4020d273d3f48e4ed0d4c5@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-21-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260921T130000
-DTEND;TZID=Europe/London:20260921T140000
-UID:3f1f98a2654cea5f6d897587@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-21-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260921T173000
-DTEND;TZID=Europe/London:20260921T183000
-UID:af4e302c3f0ba4bb43deb3e6@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-21-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night: The Mural and its meaning
-DTSTART;TZID=Europe/London:20260921T191500
-DTEND;TZID=Europe/London:20260921T214500
-UID:d1962746431af244fe32d1a9@lbc-ics
-DESCRIPTION:Join us this Monday at Dharma night for a special event with K
- usalasara and Maitreyabandhu in conversation about the new mural at the Lo
- ndon Buddhist Centre\, which they have just spent several weeks painting. 
- They'll be talking about the inspiration behind the artwork\, some of the 
- symbols in it\, and what it was like spend the last few weeks up the scaff
- olding!
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-21-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Introduction to Buddhism & Meditation Course
 DTSTART;TZID=Europe/London:20260921T191500
 DTEND;TZID=Europe/London:20260921T214500
@@ -316,5 +273,47 @@ UID:8ed0836a7e920a6dbb920ee2@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-26-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260926T113000
+DTEND;TZID=Europe/London:20260926T124500
+UID:4dffc3e46898b11c091ab938@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-26-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Moon Puja
+DTSTART;TZID=Europe/London:20260926T113000
+DTEND;TZID=Europe/London:20260926T123000
+UID:1977d7f5791a3b5ada9e8770@lbc-ics
+DESCRIPTION:A chance to come together for a short ritual to mark the full 
+ moon. All are welcome to join in\, whether or not you’ve taken part in a
+  Buddhist ritual before.
+URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-26-sep-20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260926T130000
+DTEND;TZID=Europe/London:20260926T140000
+UID:39ad0b3d30ef6a05acef6f4e@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-26-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra & Meditation Afternoon
+DTSTART;TZID=Europe/London:20260926T143000
+DTEND;TZID=Europe/London:20260926T170000
+UID:e9e3ab3a587e42b3f48d460e@lbc-ics
+DESCRIPTION:Explore how mantra chanting and meditation can support each ot
+ her\, cultivating positive emotion and opening us up to the mystery of Enl
+ ightenment.
+URL:https://www.londonbuddhistcentre.com/whats-on/mantra-meditation-aftern
+ oon-26-sep-2026
 END:VEVENT
 END:VCALENDAR
