@@ -26,58 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260922T120000
-DTEND;TZID=Europe/London:20260922T124500
-UID:666dac46751c44f109211552@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-22-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260922T130000
-DTEND;TZID=Europe/London:20260922T140000
-UID:5eabe4e5c509772e2f2bc087@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-22-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20260922T141500
-DTEND;TZID=Europe/London:20260922T150000
-UID:2f0211ffa7b160f6dc6d123e@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the car
- etakers in looking after the fabric of the Centre. A wonderful way to give
-  back to the LBC.
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-22-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Qigong
-DTSTART;TZID=Europe/London:20260922T173000
-DTEND;TZID=Europe/London:20260922T183000
-UID:f9e18102b42b076fe3773177@lbc-ics
-DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
-  helps us cultivate awareness and connect with our bodies through simple b
- reathing exercises and movement techniques\, and can be a great way to pre
- pare for meditation. Join us for a beginner-friendly session led by Serene
- . No experience necessary.
-URL:https://www.londonbuddhistcentre.com/whats-on/qigong-22-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20260922T191500
-DTEND;TZID=Europe/London:20260922T213000
-UID:4858b708e0d09dcb25ae0c22@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-22-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daytime Buddhism & Meditation Class
 DTSTART;TZID=Europe/London:20260923T103500
 DTEND;TZID=Europe/London:20260923T123000
@@ -315,5 +263,55 @@ DESCRIPTION:Explore how mantra chanting and meditation can support each ot
  ightenment.
 URL:https://www.londonbuddhistcentre.com/whats-on/mantra-meditation-aftern
  oon-26-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men's Event with Jnanavaca
+DTSTART;TZID=Europe/London:20260927T100000
+DTEND;TZID=Europe/London:20260927T130000
+UID:2b2cd97a1770980a3301803a@lbc-ics
+DESCRIPTION:LBC men's events focus on the most crucial aspects of spiritua
+ l life with the hope of shining a light on the difficult and thorny questi
+ ons that affect our spiritual practice.
+URL:https://www.londonbuddhistcentre.com/whats-on/mens-event-27-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddhist Sunday School
+DTSTART;TZID=Europe/London:20260927T103000
+DTEND;TZID=Europe/London:20260927T123000
+UID:94efb09a0671e30898034d86@lbc-ics
+DESCRIPTION:Encouraging and developing children's mindfulness and kindness
+  through Buddhist teaching\, practice\, storytelling and crafts.
+URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
+ 7-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260928T120000
+DTEND;TZID=Europe/London:20260928T124500
+UID:2ecc7fb7615319feab64bb96@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-28-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260928T130000
+DTEND;TZID=Europe/London:20260928T140000
+UID:b2feee52bb1b048780fb35a7@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-28-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20260928T173000
+DTEND;TZID=Europe/London:20260928T183000
+UID:ba8c5fada4f163f3037df820@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-28-sep
 END:VEVENT
 END:VCALENDAR
