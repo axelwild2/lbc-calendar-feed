@@ -26,69 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260923T103500
-DTEND;TZID=Europe/London:20260923T123000
-UID:6775edfa490ebb36f717d7dd@lbc-ics
-DESCRIPTION:In this series\, we will be exploring the essential teachings 
- of Buddhism. We will do this by way of talks\, discussion and workshops lo
- oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
- these can guide us in our lives today.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-23-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260923T120000
-DTEND;TZID=Europe/London:20260923T124500
-UID:5ae4d210382a5e41244e7f86@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-23-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260923T130000
-DTEND;TZID=Europe/London:20260923T140000
-UID:058b9fd2b3a32e7ee83cdc42@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-23-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260923T173000
-DTEND;TZID=Europe/London:20260923T183000
-UID:09aaeb5915f2f7f6a32240c1@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-23-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260923T173000
-DTEND;TZID=Europe/London:20260923T183000
-UID:352e2f785a61968463aad7bc@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-23-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Prerequisites: Truth\, Faith\, Love
-DTSTART;TZID=Europe/London:20260923T191500
-DTEND;TZID=Europe/London:20260923T213000
-UID:4db1fcf609ac4e2b9724084b@lbc-ics
-DESCRIPTION:Maitreyabandhu\, a senior member of the Triratna Buddhist Orde
- r\, will be exploring the Three Prerequisites\, the fundamental qualities 
- we need to explore life in a healthy\, integral way. Suitable for complete
-  newcomers and those who have already begun to explore life more deeply. Y
- ou are welcome to come to the whole series or drop into as many sessions a
- s you like.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-23-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buddhism & Meditation Immersion Retreat
 DTSTART;TZID=Europe/London:20260923T200000
 DTEND;TZID=Europe/London:20260923T160000
@@ -313,5 +250,67 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-28-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20260928T191500
+DTEND;TZID=Europe/London:20260928T214500
+UID:f8107756341ccc09bd4a8df9@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-28-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260929T120000
+DTEND;TZID=Europe/London:20260929T124500
+UID:bc5a88b52e918a5584c256b7@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-29-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260929T130000
+DTEND;TZID=Europe/London:20260929T140000
+UID:80810b9c2c660cc5797058e4@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-29-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20260929T141500
+DTEND;TZID=Europe/London:20260929T150000
+UID:55ba5fe9589338e2790b0f44@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the car
+ etakers in looking after the fabric of the Centre. A wonderful way to give
+  back to the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-29-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20260929T191500
+DTEND;TZID=Europe/London:20260929T213000
+UID:1279261d6c276f09c2ad295f@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-29-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Hates the Metta Bhavana?
+DTSTART;TZID=Europe/London:20260929T191500
+DTEND;TZID=Europe/London:20260929T214500
+UID:5e41a508326239c484ba8e3e@lbc-ics
+DESCRIPTION:Many people struggle with the Metta Bhavana practice\, and som
+ etimes give up on it altogether. This six-week course is designed to help 
+ you discover how powerful – and beautiful – it can be.
+URL:https://www.londonbuddhistcentre.com/whats-on/who-hates-the-metta-bhav
+ ana-29-sep-2026
 END:VEVENT
 END:VCALENDAR
