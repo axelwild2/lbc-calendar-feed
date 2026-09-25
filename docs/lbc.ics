@@ -38,49 +38,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-imme
  rsion-retreat
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260924T120000
-DTEND;TZID=Europe/London:20260924T124500
-UID:7ffb1fde009a9ffa8ff3f7a2@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-24-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260924T130000
-DTEND;TZID=Europe/London:20260924T140000
-UID:50994ab861feed18655ea0fb@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-24-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eight Step Recovery Group for Men
-DTSTART;TZID=Europe/London:20260924T170000
-DTEND;TZID=Europe/London:20260924T183000
-UID:ce658e20e2bee2b1030ba081@lbc-ics
-DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
- 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
- s teachings outlining a suggested course of action for recovery from addic
- tion\, stinking thinking\, negative mental states\, and compulsive and obs
- essive behaviours.
-URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
- men-24-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thursday Night Class: Meditation & In-Conversation
-DTSTART;TZID=Europe/London:20260924T191500
-DTEND;TZID=Europe/London:20260924T211500
-UID:c3ac3ecc0a7aca6b7b2b904a@lbc-ics
-DESCRIPTION:Join us for an evening of meditation\, discussion and Dharma t
- eaching. The second half of the class features a conversation about how we
-  can relate themes from the Buddhas teachings to our lives today.
-URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-24-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Work Morning: Whistle While you Work
 DTSTART;TZID=Europe/London:20260925T100000
 DTEND;TZID=Europe/London:20260925T140000
@@ -312,5 +269,45 @@ DESCRIPTION:Many people struggle with the Metta Bhavana practice\, and som
  you discover how powerful – and beautiful – it can be.
 URL:https://www.londonbuddhistcentre.com/whats-on/who-hates-the-metta-bhav
  ana-29-sep-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20260930T103500
+DTEND;TZID=Europe/London:20260930T123000
+UID:cf656c878aadca4b3d333dbd@lbc-ics
+DESCRIPTION:In this series\, we will be exploring the essential teachings 
+ of Buddhism. We will do this by way of talks\, discussion and workshops lo
+ oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
+ these can guide us in our lives today.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-30-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20260930T120000
+DTEND;TZID=Europe/London:20260930T124500
+UID:a13ee59d76ae9c4826a7f78d@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-30-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20260930T130000
+DTEND;TZID=Europe/London:20260930T140000
+UID:f8f8127748195d1e05cf8dce@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-30-sep
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra Chanting
+DTSTART;TZID=Europe/London:20260930T173000
+DTEND;TZID=Europe/London:20260930T183000
+UID:44d1a64231f16b4dfa032933@lbc-ics
+DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
+  group as a way to going deeper in one's experience.
+URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-30-sep
 END:VEVENT
 END:VCALENDAR
