@@ -26,38 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buddhism & Meditation Immersion Retreat
-DTSTART;TZID=Europe/London:20260923T200000
-DTEND;TZID=Europe/London:20260923T160000
-UID:78a28a3184ba2a75b0048388@lbc-ics
-DESCRIPTION:Curious about retreats and the effects they can have? This lon
- ger introductory retreat is an ideal first taste. Break out of your routin
- e and spend 5 days learning transformative practices\, connecting with oth
- ers\, and enjoying the beautiful Suffolk countryside.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhism-meditation-imme
- rsion-retreat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men's Event with Jnanavaca
-DTSTART;TZID=Europe/London:20260927T100000
-DTEND;TZID=Europe/London:20260927T130000
-UID:2b2cd97a1770980a3301803a@lbc-ics
-DESCRIPTION:LBC men's events focus on the most crucial aspects of spiritua
- l life with the hope of shining a light on the difficult and thorny questi
- ons that affect our spiritual practice.
-URL:https://www.londonbuddhistcentre.com/whats-on/mens-event-27-sep-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buddhist Sunday School
-DTSTART;TZID=Europe/London:20260927T103000
-DTEND;TZID=Europe/London:20260927T123000
-UID:94efb09a0671e30898034d86@lbc-ics
-DESCRIPTION:Encouraging and developing children's mindfulness and kindness
-  through Buddhist teaching\, practice\, storytelling and crafts.
-URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
- 7-sep-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20260928T120000
 DTEND;TZID=Europe/London:20260928T124500
@@ -313,5 +281,37 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-3-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20261003T103000
+DTEND;TZID=Europe/London:20261003T123000
+UID:7ca68aee05ce862783cd621e@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-3-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Your Mind
+DTSTART;TZID=Europe/London:20261003T103000
+DTEND;TZID=Europe/London:20261003T123000
+UID:6c65dd9c4fb4f22b3b999774@lbc-ics
+DESCRIPTION:The state of our mind is the state of our life. We're mostly u
+ naware of how our negative habits limit our experience and are oblivious t
+ o the vast potential of our minds. Buddhist practice gives us the tools to
+  change that and awaken to life’s depths. On the course\, we will teach 
+ you some of the fundamentals of Buddhist thought\, as well as two foundati
+ onal meditation practices.
+URL:https://www.londonbuddhistcentre.com/whats-on/free-your-mind-deptford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261003T113000
+DTEND;TZID=Europe/London:20261003T124500
+UID:01b5ea7b5954bc49f8129a90@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-3-oct
 END:VEVENT
 END:VCALENDAR
