@@ -26,46 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-sep-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260929T120000
-DTEND;TZID=Europe/London:20260929T124500
-UID:bc5a88b52e918a5584c256b7@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-29-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260929T130000
-DTEND;TZID=Europe/London:20260929T140000
-UID:80810b9c2c660cc5797058e4@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-29-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20260929T141500
-DTEND;TZID=Europe/London:20260929T150000
-UID:55ba5fe9589338e2790b0f44@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the car
- etakers in looking after the fabric of the Centre. A wonderful way to give
-  back to the LBC.
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-29-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20260929T191500
-DTEND;TZID=Europe/London:20260929T213000
-UID:1279261d6c276f09c2ad295f@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-29-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Who Hates the Metta Bhavana?
 DTSTART;TZID=Europe/London:20260929T191500
 DTEND;TZID=Europe/London:20260929T214500
@@ -315,5 +275,48 @@ DESCRIPTION:A chance for people of African\, Asian or mixed heritage to co
  l day of meditation and ritual.
 URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-day-ret
  reat-04-oct-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardening Retreat
+DTSTART;TZID=Europe/London:20261004T200000
+DTEND;TZID=Europe/London:20261004T130000
+UID:318f824c1aef4e6eb6adb178@lbc-ics
+DESCRIPTION:Join our gardening retreat at Vajrasana\, to help out with mai
+ ntaining and improving the beautiful grounds and gardens at Vajrasana gard
+ ens\, alongside typical retreat activities of meditation\, study\, ritual 
+ and connecting with others.
+URL:https://www.londonbuddhistcentre.com/whats-on/gardening-retreat-oct-20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20261005T073000
+DTEND;TZID=Europe/London:20261005T083000
+UID:8126c01a4815c94dce56f97e@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-05-oct-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261005T120000
+DTEND;TZID=Europe/London:20261005T124500
+UID:c45e706ca941a274465feb5f@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-5-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261005T130000
+DTEND;TZID=Europe/London:20261005T140000
+UID:cf961f402af6f9cb8753d2df@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-5-oct
 END:VEVENT
 END:VCALENDAR
