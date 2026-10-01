@@ -37,69 +37,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/who-hates-the-metta-bhav
  ana-29-sep-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daytime Buddhism & Meditation Class
-DTSTART;TZID=Europe/London:20260930T103500
-DTEND;TZID=Europe/London:20260930T123000
-UID:cf656c878aadca4b3d333dbd@lbc-ics
-DESCRIPTION:In this series\, we will be exploring the essential teachings 
- of Buddhism. We will do this by way of talks\, discussion and workshops lo
- oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
- these can guide us in our lives today.
-URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-30-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20260930T120000
-DTEND;TZID=Europe/London:20260930T124500
-UID:a13ee59d76ae9c4826a7f78d@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-30-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20260930T130000
-DTEND;TZID=Europe/London:20260930T140000
-UID:f8f8127748195d1e05cf8dce@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-30-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mantra Chanting
-DTSTART;TZID=Europe/London:20260930T173000
-DTEND;TZID=Europe/London:20260930T183000
-UID:44d1a64231f16b4dfa032933@lbc-ics
-DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
-  group as a way to going deeper in one's experience.
-URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-30-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20260930T173000
-DTEND;TZID=Europe/London:20260930T183000
-UID:43d86dbaa4d749f597a0aebe@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-30-sep
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Prerequisites: Truth\, Faith\, Love
-DTSTART;TZID=Europe/London:20260930T191500
-DTEND;TZID=Europe/London:20260930T213000
-UID:d4052d4929d3d315cdcfff37@lbc-ics
-DESCRIPTION:Maitreyabandhu\, a senior member of the Triratna Buddhist Orde
- r\, will be exploring the Three Prerequisites\, the fundamental qualities 
- we need to explore life in a healthy\, integral way. Suitable for complete
-  newcomers and those who have already begun to explore life more deeply. Y
- ou are welcome to come to the whole series or drop into as many sessions a
- s you like.
-URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-30-sep
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20261001T120000
 DTEND;TZID=Europe/London:20261001T124500
@@ -318,5 +255,66 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-5-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20261005T173000
+DTEND;TZID=Europe/London:20261005T183000
+UID:257ef4af0939aa1763eb6a18@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-5-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dharma Night
+DTSTART;TZID=Europe/London:20261005T191500
+DTEND;TZID=Europe/London:20261005T214500
+UID:e9f658f78eaac6e6a8629dc2@lbc-ics
+DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
+ \, drawing on two and a half thousand years of teachings to find practical
+  application in the modern world. Join us for an evening of meditation\, d
+ iscussion and Dharma teaching.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-5-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261006T120000
+DTEND;TZID=Europe/London:20261006T124500
+UID:baf09feecdf58723b164e31e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-6-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261006T130000
+DTEND;TZID=Europe/London:20261006T140000
+UID:59743d3874033c52a1eba173@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-6-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volunteering Session
+DTSTART;TZID=Europe/London:20261006T141500
+DTEND;TZID=Europe/London:20261006T150000
+UID:bc59f30217c09bf598444b60@lbc-ics
+DESCRIPTION:Come along after the lunchtime class to work alongside the car
+ etakers in looking after the fabric of the Centre. A wonderful way to give
+  back to the LBC.
+URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-6-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20261006T191500
+DTEND;TZID=Europe/London:20261006T213000
+UID:b971bb6c1d32de8bbee7b6c3@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-6-oct
 END:VEVENT
 END:VCALENDAR
