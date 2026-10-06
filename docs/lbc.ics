@@ -73,45 +73,15 @@ URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
  n-05-oct-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261005T120000
-DTEND;TZID=Europe/London:20261005T124500
-UID:c45e706ca941a274465feb5f@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-5-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261005T130000
-DTEND;TZID=Europe/London:20261005T140000
-UID:cf961f402af6f9cb8753d2df@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-5-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20261005T173000
-DTEND;TZID=Europe/London:20261005T183000
-UID:257ef4af0939aa1763eb6a18@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-5-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20261005T191500
-DTEND;TZID=Europe/London:20261005T214500
-UID:e9f658f78eaac6e6a8629dc2@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-5-oct
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20261006T073000
+DTEND;TZID=Europe/London:20261006T083000
+UID:0833b539a2a6368fd66a01b2@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-tue-6-oct-26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -152,6 +122,17 @@ DESCRIPTION:You can either learn to meditate from scratch and develop the
  foundations for a daily practice or join the regulars to build on what you
   know and discover how to apply Wisdom reflections in meditation.
 URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-6-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20261007T073000
+DTEND;TZID=Europe/London:20261007T083000
+UID:7cb3e1f7b1e5e8769e001860@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-wed-7-oct-26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daytime Buddhism & Meditation Class
@@ -214,6 +195,17 @@ DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
 URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-7-oct
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20261008T073000
+DTEND;TZID=Europe/London:20261008T083000
+UID:5131fb723ee3a9f3953f09a4@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-thu-8-oct-26
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20261008T120000
 DTEND;TZID=Europe/London:20261008T124500
@@ -255,6 +247,17 @@ DESCRIPTION:Join us for an evening of meditation\, discussion and Dharma t
  eaching. The second half of the class features a conversation about how we
   can relate themes from the Buddhas teachings to our lives today.
 URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-8-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20261009T073000
+DTEND;TZID=Europe/London:20261009T083000
+UID:85c8b3964a1b42b1f586ae3c@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-fri-9-oct-26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
