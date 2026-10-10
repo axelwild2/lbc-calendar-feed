@@ -50,79 +50,6 @@ DESCRIPTION:The state of our mind is the state of our life. We're mostly u
 URL:https://www.londonbuddhistcentre.com/whats-on/free-your-mind-deptford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gardening Retreat
-DTSTART;TZID=Europe/London:20261004T200000
-DTEND;TZID=Europe/London:20261004T130000
-UID:318f824c1aef4e6eb6adb178@lbc-ics
-DESCRIPTION:Join our gardening retreat at Vajrasana\, to help out with mai
- ntaining and improving the beautiful grounds and gardens at Vajrasana gard
- ens\, alongside typical retreat activities of meditation\, study\, ritual 
- and connecting with others.
-URL:https://www.londonbuddhistcentre.com/whats-on/gardening-retreat-oct-20
- 26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20261005T073000
-DTEND;TZID=Europe/London:20261005T083000
-UID:8126c01a4815c94dce56f97e@lbc-ics
-DESCRIPTION:This week-long series of guided meditation happens at the star
- t of every month. An opportunity to meditate with others and ask questions
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-05-oct-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Online Morning Meditation
-DTSTART;TZID=Europe/London:20261009T073000
-DTEND;TZID=Europe/London:20261009T083000
-UID:85c8b3964a1b42b1f586ae3c@lbc-ics
-DESCRIPTION:This week-long series of guided meditation happens at the star
- t of every month. An opportunity to meditate with others and ask questions
- .
-URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
- n-fri-9-oct-26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261009T120000
-DTEND;TZID=Europe/London:20261009T124500
-UID:30c58551fabf2ea7b77e5027@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-9-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261009T130000
-DTEND;TZID=Europe/London:20261009T140000
-UID:7bcfdf5fc4ec6476f24f5970@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-9-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Restorative Yoga Class
-DTSTART;TZID=Europe/London:20261009T173000
-DTEND;TZID=Europe/London:20261009T183000
-UID:ca453375ec1268023b732b3b@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-9-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Mythic Realm
-DTSTART;TZID=Europe/London:20261009T191500
-DTEND;TZID=Europe/London:20261009T213000
-UID:65d9ed4fea3b0d44bee7bb38@lbc-ics
-DESCRIPTION:A five week series at the Friday class\, exploring archetypal 
- Buddha & Bodhisattva figures.
-URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-9-oct
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Morning Yoga Class
 DTSTART;TZID=Europe/London:20261010T100000
 DTEND;TZID=Europe/London:20261010T111500
@@ -320,5 +247,77 @@ DESCRIPTION:Come along after the lunchtime class to work alongside the car
  etakers in looking after the fabric of the Centre. A wonderful way to give
   back to the LBC.
 URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-13-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qigong
+DTSTART;TZID=Europe/London:20261013T183000
+DTEND;TZID=Europe/London:20261013T193000
+UID:fb3242461e7bdc5f7cb195f7@lbc-ics
+DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
+  helps us cultivate awareness and connect with our bodies through simple b
+ reathing exercises and movement techniques\, and can be a great way to pre
+ pare for meditation. Join us for a beginner-friendly session led by Serene
+ . No experience necessary.
+URL:https://www.londonbuddhistcentre.com/whats-on/qigong-13-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20261013T191500
+DTEND;TZID=Europe/London:20261013T213000
+UID:90796322cdc4444498418e79@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-13-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20261014T103500
+DTEND;TZID=Europe/London:20261014T123000
+UID:c9840925730e417ee8c6c9ee@lbc-ics
+DESCRIPTION:In this series\, we will be exploring the essential teachings 
+ of Buddhism. We will do this by way of talks\, discussion and workshops lo
+ oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
+ these can guide us in our lives today.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-14-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261014T120000
+DTEND;TZID=Europe/London:20261014T124500
+UID:85504f3670a1cd187418ec37@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-14-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261014T130000
+DTEND;TZID=Europe/London:20261014T140000
+UID:5228289b8b825027dbfe833d@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-14-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra Chanting
+DTSTART;TZID=Europe/London:20261014T173000
+DTEND;TZID=Europe/London:20261014T183000
+UID:d007f05ae7661d664e35b6d7@lbc-ics
+DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
+  group as a way to going deeper in one's experience.
+URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-14-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20261014T173000
+DTEND;TZID=Europe/London:20261014T183000
+UID:e3ae412bb0dbd5b57ec53a31@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-14-oct
 END:VEVENT
 END:VCALENDAR
