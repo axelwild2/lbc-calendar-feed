@@ -62,58 +62,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-course-10-oct-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261013T120000
-DTEND;TZID=Europe/London:20261013T124500
-UID:fbabfc98aeea0ff530ad40fa@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-13-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261013T130000
-DTEND;TZID=Europe/London:20261013T140000
-UID:5c73d8532569e8824a3483da@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-13-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20261013T141500
-DTEND;TZID=Europe/London:20261013T150000
-UID:e555a7b32d37d6a789a4fade@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the car
- etakers in looking after the fabric of the Centre. A wonderful way to give
-  back to the LBC.
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-13-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Qigong
-DTSTART;TZID=Europe/London:20261013T173000
-DTEND;TZID=Europe/London:20261013T183000
-UID:939b3b89d40e4fb1ab4e7051@lbc-ics
-DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
-  helps us cultivate awareness and connect with our bodies through simple b
- reathing exercises and movement techniques\, and can be a great way to pre
- pare for meditation. Join us for a beginner-friendly session led by Serene
- . No experience necessary.
-URL:https://www.londonbuddhistcentre.com/whats-on/qigong-13-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20261013T191500
-DTEND;TZID=Europe/London:20261013T213000
-UID:90796322cdc4444498418e79@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-13-oct
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daytime Buddhism & Meditation Class
 DTSTART;TZID=Europe/London:20261014T103500
 DTEND;TZID=Europe/London:20261014T123000
@@ -316,5 +264,62 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-17-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Women's Seminar
+DTSTART;TZID=Europe/London:20261017T150000
+DTEND;TZID=Europe/London:20261017T170000
+UID:7475e9d4df32945d99480715@lbc-ics
+DESCRIPTION:A weekend programme for young women to come together and explo
+ re the joys and tensions of practising Buddhism today.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-womens-seminar-17-
+ oct-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life Inside with Maitreyabandhu and Andy West
+DTSTART;TZID=Europe/London:20261017T183000
+DTEND;TZID=Europe/London:20261017T213000
+UID:4fb58edb1178644ea9fde6a6@lbc-ics
+DESCRIPTION:Special Event with Andy West As Seen on the BBC: What can men 
+ in prison teach us about being free? Andy West grew up in a family marked 
+ by prison. Years later he went inside himself\, as a teacher\, leading phi
+ losophy conversations with men behind bars. He’ll share stories from tho
+ se places and what they taught him about anger\, shame\, courage and conne
+ ction. Interviewed by Maitreyabandhu\, he’ll explore his story and persp
+ ective. Andy's book has been made into a successful BBC TV drama "Waiting 
+ for the Out". The evening promises to give us a chance to hear a unique pe
+ rspective on the way things are and what it means for us.
+URL:https://www.londonbuddhistcentre.com/whats-on/the-life-inside-with-mai
+ treyabandhu-and-andy-west
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Death Cafe
+DTSTART;TZID=Europe/London:20261018T150000
+DTEND;TZID=Europe/London:20261018T170000
+UID:7875e36f0635a6c2251c69e0@lbc-ics
+DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
+ the only inevitable thing in life. Death cafes offer an opportunity to sha
+ re with others our experiences\, ideas and feelings about death and dying.
+URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-18-oct-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261019T120000
+DTEND;TZID=Europe/London:20261019T124500
+UID:a510ecf9aecb0fcfd38d636b@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-19-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261019T130000
+DTEND;TZID=Europe/London:20261019T140000
+UID:dfb06073a05bbca17ff972a4@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-19-oct
 END:VEVENT
 END:VCALENDAR
