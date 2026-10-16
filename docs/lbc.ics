@@ -62,49 +62,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-course-10-oct-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261015T120000
-DTEND;TZID=Europe/London:20261015T124500
-UID:91c8f04bcce9e9c6bae03652@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-15-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261015T130000
-DTEND;TZID=Europe/London:20261015T140000
-UID:16bf043e62a574bb369c83de@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-15-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eight Step Recovery Group for Men
-DTSTART;TZID=Europe/London:20261015T170000
-DTEND;TZID=Europe/London:20261015T183000
-UID:5dbd807d76ed5d071eabe9f8@lbc-ics
-DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
- 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
- s teachings outlining a suggested course of action for recovery from addic
- tion\, stinking thinking\, negative mental states\, and compulsive and obs
- essive behaviours.
-URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
- men-15-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thursday Night Class: Meditation & In-Conversation
-DTSTART;TZID=Europe/London:20261015T191500
-DTEND;TZID=Europe/London:20261015T211500
-UID:f8e03ddfa2e1b2b7df219a68@lbc-ics
-DESCRIPTION:Join us for an evening of meditation\, discussion and Dharma t
- eaching. The second half of the class features a conversation about how we
-  can relate themes from the Buddhas teachings to our lives today.
-URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-15-oct
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Women's Intensive Long Weekend
 DTSTART;TZID=Europe/London:20261015T200000
 DTEND;TZID=Europe/London:20261015T160000
@@ -324,5 +281,46 @@ DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
  pare for meditation. Join us for a beginner-friendly session led by Serene
  . No experience necessary.
 URL:https://www.londonbuddhistcentre.com/whats-on/qigong-20-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Meditation Class
+DTSTART;TZID=Europe/London:20261020T191500
+DTEND;TZID=Europe/London:20261020T213000
+UID:e9ef4bbc971c9749083cd133@lbc-ics
+DESCRIPTION:You can either learn to meditate from scratch and develop the 
+ foundations for a daily practice or join the regulars to build on what you
+  know and discover how to apply Wisdom reflections in meditation.
+URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-20-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytime Buddhism & Meditation Class
+DTSTART;TZID=Europe/London:20261021T103500
+DTEND;TZID=Europe/London:20261021T123000
+UID:6f5fd7bd6462dd8f625ac5af@lbc-ics
+DESCRIPTION:In this series\, we will be exploring the essential teachings 
+ of Buddhism. We will do this by way of talks\, discussion and workshops lo
+ oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
+ these can guide us in our lives today.
+URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-21-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261021T120000
+DTEND;TZID=Europe/London:20261021T124500
+UID:84a79b236b0aa3653ca4198a@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-21-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261021T130000
+DTEND;TZID=Europe/London:20261021T140000
+UID:018e40f0650df46926125dac@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-21-oct
 END:VEVENT
 END:VCALENDAR
