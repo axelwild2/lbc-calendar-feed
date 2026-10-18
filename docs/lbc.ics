@@ -75,45 +75,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/womens-intensive-long-we
  ekend-oct-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20261017T100000
-DTEND;TZID=Europe/London:20261017T111500
-UID:ed3db15615a9872e8dc6d067@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-17-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20261017T103000
-DTEND;TZID=Europe/London:20261017T123000
-UID:8de8410312524c85ff7375b7@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-17-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261017T113000
-DTEND;TZID=Europe/London:20261017T124500
-UID:4c9e2b7f3b006e12a43376f3@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-17-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261017T130000
-DTEND;TZID=Europe/London:20261017T140000
-UID:73f9fba23eb8a7391e6897cd@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-17-oct
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sub30 Women's Seminar
 DTSTART;TZID=Europe/London:20261017T150000
 DTEND;TZID=Europe/London:20261017T170000
@@ -122,23 +83,6 @@ DESCRIPTION:A weekend programme for young women to come together and explo
  re the joys and tensions of practising Buddhism today.
 URL:https://www.londonbuddhistcentre.com/whats-on/sub30-womens-seminar-17-
  oct-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Life Inside with Maitreyabandhu and Andy West
-DTSTART;TZID=Europe/London:20261017T183000
-DTEND;TZID=Europe/London:20261017T213000
-UID:4fb58edb1178644ea9fde6a6@lbc-ics
-DESCRIPTION:Special Event with Andy West As Seen on the BBC: What can men 
- in prison teach us about being free? Andy West grew up in a family marked 
- by prison. Years later he went inside himself\, as a teacher\, leading phi
- losophy conversations with men behind bars. He’ll share stories from tho
- se places and what they taught him about anger\, shame\, courage and conne
- ction. Interviewed by Maitreyabandhu\, he’ll explore his story and persp
- ective. Andy's book has been made into a successful BBC TV drama "Waiting 
- for the Out". The evening promises to give us a chance to hear a unique pe
- rspective on the way things are and what it means for us.
-URL:https://www.londonbuddhistcentre.com/whats-on/the-life-inside-with-mai
- treyabandhu-and-andy-west
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Death Cafe
@@ -323,5 +267,58 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-22-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261022T130000
+DTEND;TZID=Europe/London:20261022T140000
+UID:bfdfc52a1ddc4fdd6efe4ad6@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-22-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eight Step Recovery Group for Men
+DTSTART;TZID=Europe/London:20261022T170000
+DTEND;TZID=Europe/London:20261022T183000
+UID:9421a61de7742cd920006954@lbc-ics
+DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
+ 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
+ s teachings outlining a suggested course of action for recovery from addic
+ tion\, stinking thinking\, negative mental states\, and compulsive and obs
+ essive behaviours.
+URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
+ men-22-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Class: Meditation & In-Conversation
+DTSTART;TZID=Europe/London:20261022T191500
+DTEND;TZID=Europe/London:20261022T211500
+UID:f3bf5c65b937e4dbe3e9e5f5@lbc-ics
+DESCRIPTION:Join us for an evening of meditation\, discussion and Dharma t
+ eaching. The second half of the class features a conversation about how we
+  can relate themes from the Buddhas teachings to our lives today.
+URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-22-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261023T120000
+DTEND;TZID=Europe/London:20261023T124500
+UID:173ddcb3b35e49aea1e4bf20@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-23-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261023T130000
+DTEND;TZID=Europe/London:20261023T140000
+UID:0e5f0c4537fae3fba8a0196c@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-23-oct
 END:VEVENT
 END:VCALENDAR
