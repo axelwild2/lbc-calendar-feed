@@ -62,39 +62,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
  n-course-10-oct-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Women's Intensive Long Weekend
-DTSTART;TZID=Europe/London:20261015T200000
-DTEND;TZID=Europe/London:20261015T160000
-UID:9fb4c52b91a5c9baf29fa417@lbc-ics
-DESCRIPTION:Led by a team of Order Members and Mitra Convenors\, join this
-  long weekend to take your understanding and practice of Buddhism deeper i
- n a strongly communal context. On this retreat we'll be emphasising Buddhi
- st ideas through talks and discussion\, following the unique life and teac
- hings of the Tibetan teacher Milarepa.
-URL:https://www.londonbuddhistcentre.com/whats-on/womens-intensive-long-we
- ekend-oct-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sub30 Women's Seminar
-DTSTART;TZID=Europe/London:20261017T150000
-DTEND;TZID=Europe/London:20261017T170000
-UID:7475e9d4df32945d99480715@lbc-ics
-DESCRIPTION:A weekend programme for young women to come together and explo
- re the joys and tensions of practising Buddhism today.
-URL:https://www.londonbuddhistcentre.com/whats-on/sub30-womens-seminar-17-
- oct-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Death Cafe
-DTSTART;TZID=Europe/London:20261018T150000
-DTEND;TZID=Europe/London:20261018T170000
-UID:7875e36f0635a6c2251c69e0@lbc-ics
-DESCRIPTION:As a society\, we rarely discuss death\, even though death is 
- the only inevitable thing in life. Death cafes offer an opportunity to sha
- re with others our experiences\, ideas and feelings about death and dying.
-URL:https://www.londonbuddhistcentre.com/whats-on/death-cafe-18-oct-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20261019T120000
 DTEND;TZID=Europe/London:20261019T124500
@@ -320,5 +287,36 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-23-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Restorative Yoga Class
+DTSTART;TZID=Europe/London:20261023T173000
+DTEND;TZID=Europe/London:20261023T183000
+UID:bbb41167ea996620447379da@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-23-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mythic Realm
+DTSTART;TZID=Europe/London:20261023T191500
+DTEND;TZID=Europe/London:20261023T213000
+UID:37c8ddac68ba04537a1314d1@lbc-ics
+DESCRIPTION:A five week series at the Friday class\, exploring archetypal 
+ Buddha & Bodhisattva figures.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-23-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People of Colour Weekend
+DTSTART;TZID=Europe/London:20261023T200000
+DTEND;TZID=Europe/London:20261023T150000
+UID:ed187413f9d146e9e4060905@lbc-ics
+DESCRIPTION:A weekend for People of Colour to come together\, meditate\, a
+ nd be inspired by the Buddha’s teaching. These are special opportunities
+  to connect with others\, with space for discussion and reflection on Budd
+ hist teachings.
+URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-weekend
+ -oct-2026
 END:VEVENT
 END:VCALENDAR
