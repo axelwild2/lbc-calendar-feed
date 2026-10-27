@@ -4,17 +4,6 @@ PRODID:-//London Buddhist Centre//Auto ICS//EN
 X-WR-CALNAME:London Buddhist Centre
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-SUMMARY:Introduction to Buddhism & Meditation Course
-DTSTART;TZID=Europe/London:20260921T191500
-DTEND;TZID=Europe/London:20260921T214500
-UID:a4c540427c4cecc7a5e3a556@lbc-ics
-DESCRIPTION:This six-week course on Monday evenings will introduce you to 
- key Buddhist principles and two meditation practices that cultivate self-a
- wareness\, open-heartedness\, and insight.
-URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
- -meditation-course-sep-26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Who Hates the Metta Bhavana?
 DTSTART;TZID=Europe/London:20260929T191500
 DTEND;TZID=Europe/London:20260929T214500
@@ -47,58 +36,6 @@ DESCRIPTION:This course explores one of the most important questions of ou
  thers and contributing to something bigger than ourselves?
 URL:https://www.londonbuddhistcentre.com/whats-on/the-individual-and-the-s
  piritual-community-21-oct-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261026T120000
-DTEND;TZID=Europe/London:20261026T124500
-UID:76c89d4ae7840a259df55106@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-26-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261026T130000
-DTEND;TZID=Europe/London:20261026T140000
-UID:9ab037a5e9e5f7b9b184d7db@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-26-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20261026T173000
-DTEND;TZID=Europe/London:20261026T183000
-UID:d9e78b1602d87bb6d9e0d4bd@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-26-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20261026T191500
-DTEND;TZID=Europe/London:20261026T213000
-UID:16e471cbea53c8d7b2a01f82@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-26-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Full Moon Puja
-DTSTART;TZID=Europe/London:20261026T214500
-DTEND;TZID=Europe/London:20261026T221500
-UID:766b1b945c933a8578be3ad7@lbc-ics
-DESCRIPTION:After Dharma Night\, we’ll come together for a short ritual 
- to mark the full moon. All are welcome to join in\, whether or not you’v
- e taken part in a Buddhist ritual before.
-URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-26-oct-20
- 26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
@@ -316,5 +253,64 @@ DESCRIPTION:Join special guest Saddhanandi as we celebrate the life of Bha
  friendships he formed while translating the Buddha's Dharma for the modern
   world.
 URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-30-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20261031T100000
+DTEND;TZID=Europe/London:20261031T111500
+UID:f9886bfb32705e292c349cf8@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-31-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20261031T103000
+DTEND;TZID=Europe/London:20261031T123000
+UID:c3b2acfa42b85126f69083e3@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-31-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261031T113000
+DTEND;TZID=Europe/London:20261031T124500
+UID:33c1362291eefe30cb4aae4f@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-31-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261031T130000
+DTEND;TZID=Europe/London:20261031T140000
+UID:755a2ee3bca0f5c8130187f4@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-31-oct
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PoetryEAST: Maitreyabandhu launches 'A Commonplace Book'
+DTSTART;TZID=Europe/London:20261031T193000
+DTEND;TZID=Europe/London:20261031T214500
+UID:409201adf43777546fec141d@lbc-ics
+DESCRIPTION:Maitreyabandhu launches A Commonplace Book\, his first book-le
+ ngth poem\, in conversation with Jnanavaca.
+URL:https://www.londonbuddhistcentre.com/whats-on/poetryeast-maitreyabandh
+ u-launches-a-commonplace-book-31-oct-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day Retreat: A Commonplace Book
+DTSTART;TZID=Europe/London:20261101T100000
+DTEND;TZID=Europe/London:20261101T160000
+UID:b8bdba6fa2ee78406a978d8f@lbc-ics
+DESCRIPTION:A multi-media performance with Maitreyabandhu & Jasper Llewell
+ yn from ‘caroline’.
+URL:https://www.londonbuddhistcentre.com/whats-on/day-retreat-a-commonplac
+ e-book-01-nov-2026
 END:VEVENT
 END:VCALENDAR
