@@ -15,18 +15,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/who-hates-the-metta-bhav
  ana-29-sep-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foundations of Meditation Course
-DTSTART;TZID=Europe/London:20261010T103000
-DTEND;TZID=Europe/London:20261010T123000
-UID:f20768689e405e2b8bc8ef21@lbc-ics
-DESCRIPTION:The human mind is the most mysterious and complex 'thing' in t
- he universe – yet the tragedy of our life is that we don't make the most
-  of it. Over four weeks\, build the essential foundations for getting the 
- best out of your mind.
-URL:https://www.londonbuddhistcentre.com/whats-on/foundations-of-meditatio
- n-course-10-oct-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Individual and the Spiritual Community
 DTSTART;TZID=Europe/London:20261021T191500
 DTEND;TZID=Europe/London:20261021T214500
@@ -47,55 +35,6 @@ DESCRIPTION:This longer retreat gives space for a range of yoga poses and
  l living and Dharma input.
 URL:https://www.londonbuddhistcentre.com/whats-on/yoga-for-meditation-retr
  eat-oct-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20261031T100000
-DTEND;TZID=Europe/London:20261031T111500
-UID:f9886bfb32705e292c349cf8@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-31-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20261031T103000
-DTEND;TZID=Europe/London:20261031T123000
-UID:c3b2acfa42b85126f69083e3@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-31-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261031T113000
-DTEND;TZID=Europe/London:20261031T124500
-UID:33c1362291eefe30cb4aae4f@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-31-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261031T130000
-DTEND;TZID=Europe/London:20261031T140000
-UID:755a2ee3bca0f5c8130187f4@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-31-oct
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PoetryEAST: Maitreyabandhu launches 'A Commonplace Book'
-DTSTART;TZID=Europe/London:20261031T193000
-DTEND;TZID=Europe/London:20261031T214500
-UID:409201adf43777546fec141d@lbc-ics
-DESCRIPTION:Maitreyabandhu launches A Commonplace Book\, his first book-le
- ngth poem\, in conversation with Jnanavaca.
-URL:https://www.londonbuddhistcentre.com/whats-on/poetryeast-maitreyabandh
- u-launches-a-commonplace-book-31-oct-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day Retreat: A Commonplace Book
@@ -314,5 +253,70 @@ DESCRIPTION:Our weekly Wednesday class gives you the chance to learn fresh
   approaches to meditation\, try them out and ask questions to experienced 
  meditators.
 URL:https://www.londonbuddhistcentre.com/whats-on/wed-night-class-4-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20261105T073000
+DTEND;TZID=Europe/London:20261105T083000
+UID:9fee676dc9262fc7aedfb85e@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-thu-5-nov-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261105T120000
+DTEND;TZID=Europe/London:20261105T124500
+UID:8c803840010a06467ee901ce@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-5-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261105T130000
+DTEND;TZID=Europe/London:20261105T140000
+UID:a225cfab3a882f1203802328@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-5-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eight Step Recovery Group for Men
+DTSTART;TZID=Europe/London:20261105T170000
+DTEND;TZID=Europe/London:20261105T183000
+UID:6d7663aa44a385a345e7b914@lbc-ics
+DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
+ 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
+ s teachings outlining a suggested course of action for recovery from addic
+ tion\, stinking thinking\, negative mental states\, and compulsive and obs
+ essive behaviours.
+URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
+ men-5-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Class: Meditation & In-Conversation
+DTSTART;TZID=Europe/London:20261105T191500
+DTEND;TZID=Europe/London:20261105T211500
+UID:7d82216d02d0ed285c181711@lbc-ics
+DESCRIPTION:Join us for an evening of meditation\, discussion and Dharma t
+ eaching. The second half of the class features a conversation about how we
+  can relate themes from the Buddhas teachings to our lives today.
+URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-5-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20261106T073000
+DTEND;TZID=Europe/London:20261106T083000
+UID:a291245711a898871366287b@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-fri-6-nov-26
 END:VEVENT
 END:VCALENDAR
