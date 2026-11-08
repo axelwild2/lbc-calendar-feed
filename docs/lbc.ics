@@ -37,55 +37,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/sub30-weekend-retreat-no
  v-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Morning Yoga Class
-DTSTART;TZID=Europe/London:20261107T100000
-DTEND;TZID=Europe/London:20261107T111500
-UID:7b5c34e7a8a6046ca0c499f4@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-7-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Morning Class
-DTSTART;TZID=Europe/London:20261107T103000
-DTEND;TZID=Europe/London:20261107T123000
-UID:a14764cf1dbe664cc55095ca@lbc-ics
-DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
- ate from scratch or join the regulars to take your practice deeper.
-URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-7-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261107T113000
-DTEND;TZID=Europe/London:20261107T124500
-UID:ac8ca9c45ad894f076a11faa@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-7-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261107T130000
-DTEND;TZID=Europe/London:20261107T140000
-UID:30c79ae49c19571fabf0ff82@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-7-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hidden Notes
-DTSTART;TZID=Europe/London:20261107T180000
-DTEND;TZID=Europe/London:20261107T210000
-UID:bb94e9d2472505e4eecf52f3@lbc-ics
-DESCRIPTION:A night of deep listening and delicious vegan food at the Mand
- ala Café. Join us for dinner at 6pm\, before sitting back to listen to a 
- classic album — revealed only on the night.
-URL:https://www.londonbuddhistcentre.com/whats-on/hidden-notes-07-nov-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:People of Colour Online Class
 DTSTART;TZID=Europe/London:20261108T100000
 DTEND;TZID=Europe/London:20261108T113000
@@ -316,5 +267,55 @@ DESCRIPTION:Eight Step Recovery is an alternative recovery program to the
  essive behaviours.
 URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
  men-12-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thursday Night Class: Meditation & In-Conversation
+DTSTART;TZID=Europe/London:20261112T191500
+DTEND;TZID=Europe/London:20261112T211500
+UID:b07e5d3dc6da652ba334a9ec@lbc-ics
+DESCRIPTION:Join us for an evening of meditation\, discussion and Dharma t
+ eaching. The second half of the class features a conversation about how we
+  can relate themes from the Buddhas teachings to our lives today.
+URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-12-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261113T120000
+DTEND;TZID=Europe/London:20261113T124500
+UID:41e1ee52988c70f32df52773@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-fri-13-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261113T130000
+DTEND;TZID=Europe/London:20261113T140000
+UID:42ecc118e83dbd4a47c3187f@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-fri-13-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Restorative Yoga Class
+DTSTART;TZID=Europe/London:20261113T173000
+DTEND;TZID=Europe/London:20261113T183000
+UID:fa0ae428a9f0c418a685cb64@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-eve-yoga-13-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Friday Class
+DTSTART;TZID=Europe/London:20261113T191500
+DTEND;TZID=Europe/London:20261113T214500
+UID:2da166693c6a75a3de13945e@lbc-ics
+DESCRIPTION:Join others aged 18–30 for an evening of meditation\, discus
+ sion and reflecting on what is most valuable in life.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-friday-class-13-no
+ v-2026
 END:VEVENT
 END:VCALENDAR
