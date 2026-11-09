@@ -26,50 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-nov-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sub30 Weekend Retreat
-DTSTART;TZID=Europe/London:20261106T190000
-DTEND;TZID=Europe/London:20261106T150000
-UID:80a6d4c1d37e93b680fd05e7@lbc-ics
-DESCRIPTION:Join in this weekend retreat for people aged 18-30 to explore 
- meditation and Buddhism\, and discover how they can support you to transfo
- rm yourself and the world around you.
-URL:https://www.londonbuddhistcentre.com/whats-on/sub30-weekend-retreat-no
- v-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:People of Colour Online Class
-DTSTART;TZID=Europe/London:20261108T100000
-DTEND;TZID=Europe/London:20261108T113000
-UID:170d7264f4908d08dd106943@lbc-ics
-DESCRIPTION:A chance for people of colour to come together\, meditate and 
- reflect on our lives in light of the Buddha’s teachings. All levels of e
- xperience welcome.
-URL:https://www.londonbuddhistcentre.com/whats-on/people-of-colour-online-
- class-08-nov-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Study Day for Women
-DTSTART;TZID=Europe/London:20261108T100000
-DTEND;TZID=Europe/London:20261108T170000
-UID:a90b9e78ae7b15cbdcaa59b0@lbc-ics
-DESCRIPTION:A day event for women\, looking at what Faith (Shraddha) means
-  on the Buddhist path. With Dharma input\, meditation\, discussion and Bud
- dhist ritual.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-study-day-for-wom
- en-08-nov-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Morning for Teens
-DTSTART;TZID=Europe/London:20261108T110000
-DTEND;TZID=Europe/London:20261108T133000
-UID:d0e27a51eb416377c2356945@lbc-ics
-DESCRIPTION:Meet with like-minded teens (12–17 years old) to learn about
-  Buddhism and meditation\, and explore how to have a positive impact in th
- e world and increase your mental well-being.
-URL:https://www.londonbuddhistcentre.com/whats-on/mindful-morning-for-teen
- s-08-nov-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20261109T120000
 DTEND;TZID=Europe/London:20261109T124500
@@ -317,5 +273,45 @@ DESCRIPTION:Join others aged 18–30 for an evening of meditation\, discus
  sion and reflecting on what is most valuable in life.
 URL:https://www.londonbuddhistcentre.com/whats-on/sub30-friday-class-13-no
  v-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Class
+DTSTART;TZID=Europe/London:20261113T191500
+DTEND;TZID=Europe/London:20261113T213000
+UID:39413b931fe80845d0506ca9@lbc-ics
+DESCRIPTION:End the week in person at the LBC with an inspiring evening of
+  meditation\, tale-telling and ritual. For anyone who is familiar with the
+  basics of the Mindfulness of Breathing and Metta Bhavana meditation pract
+ ices.
+URL:https://www.londonbuddhistcentre.com/whats-on/fri-night-13-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Yoga Class
+DTSTART;TZID=Europe/London:20261114T100000
+DTEND;TZID=Europe/London:20261114T111500
+UID:86df706f0ab9ba1b351f9d1e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-14-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20261114T103000
+DTEND;TZID=Europe/London:20261114T123000
+UID:1e2d4dc21eb97aa131d31425@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-14-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261114T113000
+DTEND;TZID=Europe/London:20261114T124500
+UID:ef0df0a567d0fea553e57e83@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-14-nov
 END:VEVENT
 END:VCALENDAR
