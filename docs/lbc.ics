@@ -26,47 +26,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/introduction-to-buddhism
  -meditation-course-nov-26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261109T120000
-DTEND;TZID=Europe/London:20261109T124500
-UID:d3027624ccf24c2d4a3acaeb@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-9-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261109T130000
-DTEND;TZID=Europe/London:20261109T140000
-UID:6c4b6d54335a58d99f98100d@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-9-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20261109T173000
-DTEND;TZID=Europe/London:20261109T183000
-UID:8dd7b78d7b7e06ac1c8ca372@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-9-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dharma Night
-DTSTART;TZID=Europe/London:20261109T191500
-DTEND;TZID=Europe/London:20261109T213000
-UID:74353aba6646b15faa7d9ec1@lbc-ics
-DESCRIPTION:Our Dharma Night class explores aspects of the Buddhist vision
- \, drawing on two and a half thousand years of teachings to find practical
-  application in the modern world. Join us for an evening of meditation\, d
- iscussion and Dharma teaching.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-9-nov
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mindful Recovery Course
 DTSTART;TZID=Europe/London:20261109T191500
 DTEND;TZID=Europe/London:20261109T213000
@@ -313,5 +272,47 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-14-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261114T130000
+DTEND;TZID=Europe/London:20261114T140000
+UID:a71ead69445659e9aadeed07@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-14-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Night: The Zone of Interest (2023)
+DTSTART;TZID=Europe/London:20261114T191500
+DTEND;TZID=Europe/London:20261114T211500
+UID:e7b661e6267067d8974a4f2d@lbc-ics
+DESCRIPTION:The commandant of Auschwitz and his family try to build an idy
+ llic life in the garden next door to the camp\, going about their daily ro
+ utines as horror unfolds just over the wall.
+URL:https://www.londonbuddhistcentre.com/whats-on/film-night-the-zone-of-i
+ nterest-2023-14-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men's Event with Devamitra\, Bodhimati and Dayanatha
+DTSTART;TZID=Europe/London:20261115T100000
+DTEND;TZID=Europe/London:20261115T130000
+UID:01708212dbd8f8fddd9d9bd4@lbc-ics
+DESCRIPTION:Advice to Aspiring Bodhisattvas: **Fifty Years and Three: A Co
+ nversation Across the Order** Devamitra has been an Order member for fifty
+  years. Bodhimati was ordained three years ago. We've asked them to come t
+ ogether and talk about what it takes to live a Buddhist life over the long
+  haul.
+URL:https://www.londonbuddhistcentre.com/whats-on/mens-event-15-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Writing
+DTSTART;TZID=Europe/London:20261115T103000
+DTEND;TZID=Europe/London:20261115T133000
+UID:ddd95fc96f1dec10e95c31b5@lbc-ics
+DESCRIPTION:A morning session to inspire and support writing practice.
+URL:https://www.londonbuddhistcentre.com/whats-on/mindful-writing-15-nov-2
+ 026
 END:VEVENT
 END:VCALENDAR
