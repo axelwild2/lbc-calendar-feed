@@ -39,58 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-nov-202
  6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261110T120000
-DTEND;TZID=Europe/London:20261110T124500
-UID:eb093f598adbb9673e21321f@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-10-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261110T130000
-DTEND;TZID=Europe/London:20261110T140000
-UID:8b50430c5bfca71837778812@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-10-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20261110T141500
-DTEND;TZID=Europe/London:20261110T150000
-UID:9034099dc14753af6b1c506c@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the car
- etakers in looking after the fabric of the Centre. A wonderful way to give
-  back to the LBC.
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-10-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Qigong
-DTSTART;TZID=Europe/London:20261110T173000
-DTEND;TZID=Europe/London:20261110T183000
-UID:72e577d20d1dbcb81d87c1ec@lbc-ics
-DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
-  helps us cultivate awareness and connect with our bodies through simple b
- reathing exercises and movement techniques\, and can be a great way to pre
- pare for meditation. Join us for a beginner-friendly session led by Serene
- . No experience necessary.
-URL:https://www.londonbuddhistcentre.com/whats-on/qigong-10-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20261110T191500
-DTEND;TZID=Europe/London:20261110T213000
-UID:a733381ed506507b820b49ce@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-10-nov
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daytime Buddhism & Meditation Class
 DTSTART;TZID=Europe/London:20261111T103500
 DTEND;TZID=Europe/London:20261111T123000
@@ -314,5 +262,56 @@ UID:ddd95fc96f1dec10e95c31b5@lbc-ics
 DESCRIPTION:A morning session to inspire and support writing practice.
 URL:https://www.londonbuddhistcentre.com/whats-on/mindful-writing-15-nov-2
  026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261116T120000
+DTEND;TZID=Europe/London:20261116T124500
+UID:859ee6f61d2ce89924477f31@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-16-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261116T130000
+DTEND;TZID=Europe/London:20261116T140000
+UID:ed48171d8e47173762988248@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-16-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20261116T173000
+DTEND;TZID=Europe/London:20261116T183000
+UID:5af2255cd5f5e06c678ca348@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-16-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcoming Back a New Order Member
+DTSTART;TZID=Europe/London:20261116T191500
+DTEND;TZID=Europe/London:20261116T213000
+UID:0288446c823e9d864108d27d@lbc-ics
+DESCRIPTION:Ordination is a highly significant aspect of the Dharma life w
+ hich has the potential to transform the lives of many. In this celebratory
+  and devotional evening\, we will welcome back Akashatara (ex-Camilla) fro
+ m her recent ordination retreat.
+URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-16-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261117T120000
+DTEND;TZID=Europe/London:20261117T124500
+UID:bb0dff7479caa4656257a38e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-17-nov
 END:VEVENT
 END:VCALENDAR
