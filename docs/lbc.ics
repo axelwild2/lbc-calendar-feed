@@ -40,49 +40,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-nov-202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261112T120000
-DTEND;TZID=Europe/London:20261112T124500
-UID:774c1b652d022167403d91ec@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-thu-12-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261112T130000
-DTEND;TZID=Europe/London:20261112T140000
-UID:b4ee5785e71a1fd37851faa9@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-thu-12-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eight Step Recovery Group for Men
-DTSTART;TZID=Europe/London:20261112T170000
-DTEND;TZID=Europe/London:20261112T183000
-UID:74629b99e01aac9ef5af25d5@lbc-ics
-DESCRIPTION:Eight Step Recovery is an alternative recovery program to the 
- 12-Step program of Alcoholic Anonymous. The program is a set of mindfulnes
- s teachings outlining a suggested course of action for recovery from addic
- tion\, stinking thinking\, negative mental states\, and compulsive and obs
- essive behaviours.
-URL:https://www.londonbuddhistcentre.com/whats-on/eight-step-recovery-for-
- men-12-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thursday Night Class: Meditation & In-Conversation
-DTSTART;TZID=Europe/London:20261112T191500
-DTEND;TZID=Europe/London:20261112T211500
-UID:b07e5d3dc6da652ba334a9ec@lbc-ics
-DESCRIPTION:Join us for an evening of meditation\, discussion and Dharma t
- eaching. The second half of the class features a conversation about how we
-  can relate themes from the Buddhas teachings to our lives today.
-URL:https://www.londonbuddhistcentre.com/whats-on/thurs-night-12-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20261113T120000
 DTEND;TZID=Europe/London:20261113T124500
 UID:41e1ee52988c70f32df52773@lbc-ics
@@ -317,5 +274,44 @@ DESCRIPTION:In this series\, we will be exploring the essential teachings
  oking at the Three Jewels – Buddha\, Dharma\, Sangha – and seeing how 
  these can guide us in our lives today.
 URL:https://www.londonbuddhistcentre.com/whats-on/daytime-buddhism-18-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261118T120000
+DTEND;TZID=Europe/London:20261118T124500
+UID:544f9afe40b47819bb25e2a9@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-wed-18-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261118T130000
+DTEND;TZID=Europe/London:20261118T140000
+UID:ac16d29edb8f54eacedf80a5@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-wed-18-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mantra Chanting
+DTSTART;TZID=Europe/London:20261118T173000
+DTEND;TZID=Europe/London:20261118T183000
+UID:89f8e7059f91ef337de6db3b@lbc-ics
+DESCRIPTION:Here's a chance to chant a few different Buddhist mantras in a
+  group as a way to going deeper in one's experience.
+URL:https://www.londonbuddhistcentre.com/whats-on/mantra-chanting-18-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20261118T173000
+DTEND;TZID=Europe/London:20261118T183000
+UID:1e13e55e22d8fb2cd9616509@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-18-nov
 END:VEVENT
 END:VCALENDAR
