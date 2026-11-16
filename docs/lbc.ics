@@ -39,27 +39,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-nov-202
  6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Men's Event with Devamitra\, Bodhimati and Dayanatha
-DTSTART;TZID=Europe/London:20261115T100000
-DTEND;TZID=Europe/London:20261115T130000
-UID:01708212dbd8f8fddd9d9bd4@lbc-ics
-DESCRIPTION:Advice to Aspiring Bodhisattvas: **Fifty Years and Three: A Co
- nversation Across the Order** Devamitra has been an Order member for fifty
-  years. Bodhimati was ordained three years ago. We've asked them to come t
- ogether and talk about what it takes to live a Buddhist life over the long
-  haul.
-URL:https://www.londonbuddhistcentre.com/whats-on/mens-event-15-nov-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Writing
-DTSTART;TZID=Europe/London:20261115T103000
-DTEND;TZID=Europe/London:20261115T133000
-UID:ddd95fc96f1dec10e95c31b5@lbc-ics
-DESCRIPTION:A morning session to inspire and support writing practice.
-URL:https://www.londonbuddhistcentre.com/whats-on/mindful-writing-15-nov-2
- 026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20261116T120000
 DTEND;TZID=Europe/London:20261116T124500
@@ -316,5 +295,24 @@ DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
   meditation - encouraging flexibility\, strength and awareness of physical
   sensations.
 URL:https://www.londonbuddhistcentre.com/whats-on/morning-yoga-21-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sub30 Breakfast Seminar
+DTSTART;TZID=Europe/London:20261121T103000
+DTEND;TZID=Europe/London:20261121T123000
+UID:ef675800c5b2a1a3d2484ada@lbc-ics
+DESCRIPTION:Join this vibrant monthly seminar for people aged 18–30\, an
+ d explore Buddhist wisdom in the context of the modern world.
+URL:https://www.londonbuddhistcentre.com/whats-on/sub30-breakfast-seminar-
+ 21-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Class
+DTSTART;TZID=Europe/London:20261121T103000
+DTEND;TZID=Europe/London:20261121T123000
+UID:49cde77823ef6fbcbec69139@lbc-ics
+DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
+ ate from scratch or join the regulars to take your practice deeper.
+URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-21-nov
 END:VEVENT
 END:VCALENDAR
