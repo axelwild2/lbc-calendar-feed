@@ -40,47 +40,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/mindful-recovery-nov-202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261116T120000
-DTEND;TZID=Europe/London:20261116T124500
-UID:859ee6f61d2ce89924477f31@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-16-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261116T130000
-DTEND;TZID=Europe/London:20261116T140000
-UID:ed48171d8e47173762988248@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-16-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Yoga Class
-DTSTART;TZID=Europe/London:20261116T173000
-DTEND;TZID=Europe/London:20261116T183000
-UID:5af2255cd5f5e06c678ca348@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-16-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcoming Back a New Order Member
-DTSTART;TZID=Europe/London:20261116T191500
-DTEND;TZID=Europe/London:20261116T213000
-UID:0288446c823e9d864108d27d@lbc-ics
-DESCRIPTION:Ordination is a highly significant aspect of the Dharma life w
- hich has the potential to transform the lives of many. In this celebratory
-  and devotional evening\, we will welcome back Akashatara (ex-Camilla) fro
- m her recent ordination retreat.
-URL:https://www.londonbuddhistcentre.com/whats-on/dharma-night-16-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
 DTSTART;TZID=Europe/London:20261117T120000
 DTEND;TZID=Europe/London:20261117T124500
 UID:bb0dff7479caa4656257a38e@lbc-ics
@@ -314,5 +273,48 @@ UID:49cde77823ef6fbcbec69139@lbc-ics
 DESCRIPTION:Drop in and visit us in Bethnal Green to either learn to medit
  ate from scratch or join the regulars to take your practice deeper.
 URL:https://www.londonbuddhistcentre.com/whats-on/sat-morn-21-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261121T113000
+DTEND;TZID=Europe/London:20261121T124500
+UID:dfee3c710a3ced3d4ed1810e@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-sat-21-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261121T130000
+DTEND;TZID=Europe/London:20261121T140000
+UID:288607ee1edd41731a45154e@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-21-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What is a Mitra?
+DTSTART;TZID=Europe/London:20261121T143000
+DTEND;TZID=Europe/London:20261121T170000
+UID:87988896d707cefbe1dcfaa0@lbc-ics
+DESCRIPTION:An afternoon exploring what it means to declare yourself a Bud
+ dhist\, and how becoming a Mitra could be exactly what your practice needs
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/what-is-a-mitra-21-nov-2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kum Nye Tibetan Yoga Workshop
+DTSTART;TZID=Europe/London:20261121T150000
+DTEND;TZID=Europe/London:20261121T173000
+UID:af2b905032d7a805d46d3f1c@lbc-ics
+DESCRIPTION:Kum Nye is a Tibetan movement practice\, similar to tai chi or
+  yoga. This workshop explores simple exercises using movement\, breath and
+  awareness to release tension and develop a deeper sense of ease in both b
+ ody and mind.
+URL:https://www.londonbuddhistcentre.com/whats-on/kum-nye-tibetan-yoga-wor
+ kshop-21-nov-2026
 END:VEVENT
 END:VCALENDAR
