@@ -50,70 +50,6 @@ URL:https://www.londonbuddhistcentre.com/whats-on/the-mythic-return-journe
  y-17-nov-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunchtime Yoga Class
-DTSTART;TZID=Europe/London:20261124T120000
-DTEND;TZID=Europe/London:20261124T124500
-UID:0aa15cd1c584a5f5460a8f16@lbc-ics
-DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
-  meditation - encouraging flexibility\, strength and awareness of physical
-  sensations.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-tue-24-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lunchtime Meditation Class
-DTSTART;TZID=Europe/London:20261124T130000
-DTEND;TZID=Europe/London:20261124T140000
-UID:579767c940989e8193cffb5f@lbc-ics
-DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
- om and develop your ability to work creatively with your mind. Ideal for c
- omplete newcomers and for those who want to keep learning.
-URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-tue-24-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering Session
-DTSTART;TZID=Europe/London:20261124T141500
-DTEND;TZID=Europe/London:20261124T150000
-UID:d21e0b78066548d666c0ba5c@lbc-ics
-DESCRIPTION:Come along after the lunchtime class to work alongside the car
- etakers in looking after the fabric of the Centre. A wonderful way to give
-  back to the LBC.
-URL:https://www.londonbuddhistcentre.com/whats-on/volunteer-session-24-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Qigong
-DTSTART;TZID=Europe/London:20261124T173000
-DTEND;TZID=Europe/London:20261124T183000
-UID:0e5f4138d424cf15a423fa66@lbc-ics
-DESCRIPTION:Qigong (pronounced "chee-gong") is a system of exercises which
-  helps us cultivate awareness and connect with our bodies through simple b
- reathing exercises and movement techniques\, and can be a great way to pre
- pare for meditation. Join us for a beginner-friendly session led by Serene
- . No experience necessary.
-URL:https://www.londonbuddhistcentre.com/whats-on/qigong-24-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Meditation Class
-DTSTART;TZID=Europe/London:20261124T191500
-DTEND;TZID=Europe/London:20261124T213000
-UID:dbdcf58f65a22a7214d849dc@lbc-ics
-DESCRIPTION:You can either learn to meditate from scratch and develop the 
- foundations for a daily practice or join the regulars to build on what you
-  know and discover how to apply Wisdom reflections in meditation.
-URL:https://www.londonbuddhistcentre.com/whats-on/tues-night-24-nov
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Full Moon Puja
-DTSTART;TZID=Europe/London:20261124T214500
-DTEND;TZID=Europe/London:20261124T221500
-UID:3088868a70189538db2a5c1d@lbc-ics
-DESCRIPTION:After the Tuesday Night Class\, we’ll come together for a sh
- ort ritual on the full moon.\n\, we’ll come together for a short ritual 
- to mark the full moon. All are welcome to join in\, whether or not you’v
- e taken part in a Buddhist ritual before.
-URL:https://www.londonbuddhistcentre.com/whats-on/full-moon-puja-24-nov-20
- 26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daytime Buddhism & Meditation Class
 DTSTART;TZID=Europe/London:20261125T103500
 DTEND;TZID=Europe/London:20261125T123000
@@ -317,5 +253,68 @@ DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
  om and develop your ability to work creatively with your mind. Ideal for c
  omplete newcomers and for those who want to keep learning.
 URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-sat-28-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Sound
+DTSTART;TZID=Europe/London:20261128T191500
+DTEND;TZID=Europe/London:20261128T210000
+UID:af87c736edce01e20a6b21d9@lbc-ics
+DESCRIPTION:Join this listening session\, designed to encourage the develo
+ pment of positive emotion and states of meditative absorption. Through man
+ tra chanting\, singing bowls and wind gong\, Aryavandana and Dayabhadra wi
+ ll offer sound as a devotional practice\, rooted in their shared love of t
+ he Dharma.
+URL:https://www.londonbuddhistcentre.com/whats-on/inside-sound-28-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddhist Sunday School
+DTSTART;TZID=Europe/London:20261129T103000
+DTEND;TZID=Europe/London:20261129T123000
+UID:97a358f768ab043c76da9cbf@lbc-ics
+DESCRIPTION:Encouraging and developing children's mindfulness and kindness
+  through Buddhist teaching\, practice\, storytelling and crafts.
+URL:https://www.londonbuddhistcentre.com/whats-on/buddhist-sunday-school-2
+ 9-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Morning Meditation
+DTSTART;TZID=Europe/London:20261130T073000
+DTEND;TZID=Europe/London:20261130T083000
+UID:4fa563aec9e3135e0c5b22e4@lbc-ics
+DESCRIPTION:This week-long series of guided meditation happens at the star
+ t of every month. An opportunity to meditate with others and ask questions
+ .
+URL:https://www.londonbuddhistcentre.com/whats-on/online-morning-meditatio
+ n-30-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Yoga Class
+DTSTART;TZID=Europe/London:20261130T120000
+DTEND;TZID=Europe/London:20261130T124500
+UID:5891d552e8f77bf933674b68@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-yoga-mon-30-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchtime Meditation Class
+DTSTART;TZID=Europe/London:20261130T130000
+DTEND;TZID=Europe/London:20261130T140000
+UID:4ca4405a1ee2d7edbf7d17c5@lbc-ics
+DESCRIPTION:Join us in person to meditate with others in the LBC shrine ro
+ om and develop your ability to work creatively with your mind. Ideal for c
+ omplete newcomers and for those who want to keep learning.
+URL:https://www.londonbuddhistcentre.com/whats-on/lt-med-mon-30-nov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Yoga Class
+DTSTART;TZID=Europe/London:20261130T173000
+DTEND;TZID=Europe/London:20261130T183000
+UID:c86689d44b5aae365649a469@lbc-ics
+DESCRIPTION:Visit us in Bethnal Green to practice yoga as a foundation for
+  meditation - encouraging flexibility\, strength and awareness of physical
+  sensations.
+URL:https://www.londonbuddhistcentre.com/whats-on/eve-yoga-30-nov
 END:VEVENT
 END:VCALENDAR
